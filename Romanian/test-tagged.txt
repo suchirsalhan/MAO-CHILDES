@@ -1,0 +1,3636 @@
+aşa
+aşa__<label>__DET 
+ş'acuma pui aici în asta roşie toate
+ş'acuma__<label>__ pui__<label>__AUX aici__<label>__ADV în__<label>__ADP asta__<label>__PRON roşie__<label>__NOUN toate__<label>__DET 
+bravo
+bravo__<label>__INTJ 
+aia
+aia__<label>__PRON 
+no hai bagă+le
+no__<label>__NOUN hai__<label>__NOUN bagă+le__<label>__PROPN 
+scoate+le
+scoate+le__<label>__PRON 
+pune+le aici pe masă
+pune+le__<label>__VERB aici__<label>__ADV pe__<label>__ADP masă__<label>__NOUN 
+verde
+verde__<label>__ADJ 
+""
+"__<label>__PUNCT "__<label>__PUNCT 
+face nani
+face__<label>__AUX nani__<label>__ADJ 
+unde' i Kiki
+unde__<label>__ADV '__<label>__PUNCT i__<label>__PRON Kiki__<label>__PROPN 
+şi acolo ce ai o raţă
+şi__<label>__CCONJ acolo__<label>__ADV ce__<label>__PRON ai__<label>__AUX o__<label>__PRON raţă__<label>__VERB 
+cum spui tu
+cum__<label>__ADV spui__<label>__AUX tu__<label>__PRON 
+Lala are şi ea un program crezi că
+Lala__<label>__NOUN are__<label>__AUX şi__<label>__CCONJ ea__<label>__PRON un__<label>__DET program__<label>__NOUN crezi__<label>__AUX că__<label>__SCONJ 
+o ce
+o__<label>__DET ce__<label>__PRON 
+bebe
+bebe__<label>__NOUN 
+poftim
+poftim__<label>__VERB 
+bine+i faci Bianca
+bine+i__<label>__ADV faci__<label>__AUX Bianca__<label>__NOUN 
+www
+www__<label>__PROPN 
+mai are pisica
+mai__<label>__ADV are__<label>__AUX pisica__<label>__NOUN 
+nu că aşa cîntă dacă dă cu el
+nu__<label>__PART că__<label>__SCONJ aşa__<label>__NOUN cîntă__<label>__ADJ dacă__<label>__SCONJ dă__<label>__AUX cu__<label>__ADP el__<label>__PRON 
+doi ce crezi da
+doi__<label>__NUM ce__<label>__PRON crezi__<label>__AUX da__<label>__ADV 
+cîţi dinţi ai Bianca opt
+cîţi__<label>__VERB dinţi__<label>__ADV ai__<label>__DET Bianca__<label>__NOUN opt__<label>__NUM 
+hai că asta ştii cum face albinuţa
+hai__<label>__NOUN că__<label>__SCONJ asta__<label>__PRON ştii__<label>__NOUN cum__<label>__ADV face__<label>__AUX albinuţa__<label>__NOUN 
+aia e lampă sus
+aia__<label>__PRON e__<label>__AUX lampă__<label>__ADJ sus__<label>__ADV 
+hai du cutia la loc Bianca
+hai__<label>__NOUN du__<label>__PRON cutia__<label>__AUX la__<label>__ADP loc__<label>__NOUN Bianca__<label>__NOUN 
+anta asta e Bianca anta
+anta__<label>__NOUN asta__<label>__DET e__<label>__AUX Bianca__<label>__PROPN anta__<label>__AUX 
+bravo
+bravo__<label>__INTJ 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+ce' i asta
+ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON asta__<label>__PRON 
+puiul cum face puiul
+puiul__<label>__NOUN cum__<label>__ADV face__<label>__AUX puiul__<label>__NOUN 
+cum face pisica
+cum__<label>__ADV face__<label>__AUX pisica__<label>__NOUN 
+unde' i peştele
+unde__<label>__ADV '__<label>__PUNCT i__<label>__PRON peştele__<label>__NOUN 
+cum face pisica mama
+cum__<label>__ADV face__<label>__AUX pisica__<label>__NOUN mama__<label>__NOUN 
+îl iubeşti pe hamham
+îl__<label>__PRON iubeşti__<label>__VERB pe__<label>__ADP hamham__<label>__PROPN 
+cum l+ai strigat
+cum__<label>__ADV l+ai__<label>__PROPN strigat__<label>__AUX 
+ce' i aicea mama
+ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON aicea__<label>__AUX mama__<label>__NOUN 
+ba trei uite aşa
+ba__<label>__ADV trei__<label>__NUM uite__<label>__VERB aşa__<label>__DET 
+Bianca i+ai arătat Larisei mîna
+Bianca__<label>__NOUN i+ai__<label>__PROPN arătat__<label>__VERB Larisei__<label>__NOUN mîna__<label>__VERB 
+dă+i una mai mică
+dă+i__<label>__NOUN una__<label>__PRON mai__<label>__ADV mică__<label>__ADJ 
+disperare maximă umblă mama în jucării
+disperare__<label>__NOUN maximă__<label>__ADJ umblă__<label>__VERB mama__<label>__NOUN în__<label>__ADP jucării__<label>__NOUN 
+băiat şi urs
+băiat__<label>__NOUN şi__<label>__CCONJ urs__<label>__PROPN 
+aşa domnişorică
+aşa__<label>__DET domnişorică__<label>__ADJ 
+acolo
+acolo__<label>__ADV 
+cum e Bianca acuma cu mărgele frumoasă
+cum__<label>__ADV e__<label>__AUX Bianca__<label>__NOUN acuma__<label>__ADV cu__<label>__ADP mărgele__<label>__NOUN frumoasă__<label>__ADJ 
+te superi pe mine da
+te__<label>__PRON superi__<label>__AUX pe__<label>__ADP mine__<label>__PRON da__<label>__ADV 
+uite la Lala
+uite__<label>__VERB la__<label>__ADP Lala__<label>__NOUN 
+www
+www__<label>__PROPN 
+unde fugi
+unde__<label>__ADV fugi__<label>__NOUN 
+dă+mi
+dă+mi__<label>__ADJ 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+unde' i nu+nu+nu
+unde__<label>__ADV '__<label>__PUNCT i__<label>__PRON nu+nu+nu__<label>__ADP 
+Bianca
+Bianca__<label>__NOUN 
+Bianca ai păr
+Bianca__<label>__NOUN ai__<label>__DET păr__<label>__NOUN 
+zi pa Madi
+zi__<label>__NOUN pa__<label>__PROPN Madi__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+dă+mi
+dă+mi__<label>__ADJ 
+ţi+a mîncat+o
+ţi+a__<label>__PROPN mîncat+o__<label>__PROPN 
+eşti supărată pe Lala
+eşti__<label>__NOUN supărată__<label>__VERB pe__<label>__ADP Lala__<label>__NOUN 
+Albă_ca_Zăpada
+Albă_ca_Zăpada__<label>__ADV 
+şi uite ce e ăsta
+şi__<label>__CCONJ uite__<label>__AUX ce__<label>__PRON e__<label>__AUX ăsta__<label>__PRON 
+www
+www__<label>__PROPN 
+hai serveşte+o pe Larisa
+hai__<label>__NOUN serveşte+o__<label>__VERB pe__<label>__ADP Larisa__<label>__PROPN 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+ia spune şi tu cioc
+ia__<label>__AUX spune__<label>__AUX şi__<label>__CCONJ tu__<label>__PRON cioc__<label>__AUX 
+îmi aduci mie mărul Bianca
+îmi__<label>__PRON aduci__<label>__AUX mie__<label>__PRON mărul__<label>__NOUN Bianca__<label>__PROPN 
+www
+www__<label>__PROPN 
+cum face calul
+cum__<label>__ADV face__<label>__AUX calul__<label>__NOUN 
+tati
+tati__<label>__ADJ 
+spune+mi şi mie cum de eşti murdară pe picior de pix
+spune+mi__<label>__NOUN şi__<label>__CCONJ mie__<label>__PRON cum__<label>__ADV de__<label>__ADP eşti__<label>__NOUN murdară__<label>__ADJ pe__<label>__ADP picior__<label>__NOUN de__<label>__ADP pix__<label>__NOUN 
+are
+are__<label>__AUX 
+hai spune+mi ce' i ăsta
+hai__<label>__NOUN spune+mi__<label>__NOUN ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON ăsta__<label>__DET 
+aia' i cutie
+aia__<label>__PRON '__<label>__PUNCT i__<label>__PRON cutie__<label>__NOUN 
+www
+www__<label>__PROPN 
+o broască
+o__<label>__DET broască__<label>__NOUN 
+a plecat Lala
+a__<label>__AUX plecat__<label>__VERB Lala__<label>__NOUN 
+poftim
+poftim__<label>__VERB 
+Bianca ia spune mama cocoşul
+Bianca__<label>__NOUN ia__<label>__AUX spune__<label>__AUX mama__<label>__NOUN cocoşul__<label>__VERB 
+bine uite am pus+o sus
+bine__<label>__ADV uite__<label>__ADJ am__<label>__AUX pus+o__<label>__NOUN sus__<label>__ADV 
+ia vezi e vreo casă aici
+ia__<label>__AUX vezi__<label>__AUX e__<label>__AUX vreo__<label>__DET casă__<label>__NOUN aici__<label>__ADV 
+nu mama e pipi
+nu__<label>__PART mama__<label>__NOUN e__<label>__AUX pipi__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+bravo mami
+bravo__<label>__INTJ mami__<label>__NOUN 
+www
+www__<label>__PROPN 
+da face lecţii
+da__<label>__AUX face__<label>__AUX lecţii__<label>__NOUN 
+vulpea
+vulpea__<label>__AUX 
+tu eşti ceas
+tu__<label>__PRON eşti__<label>__NOUN ceas__<label>__X 
+ah calul
+ah__<label>__AUX calul__<label>__NOUN 
+uite mai simplu asta'i a
+uite__<label>__VERB mai__<label>__ADV simplu__<label>__ADV asta'i__<label>__PRON a__<label>__DET 
+f
+f__<label>__NOUN 
+cum îl cheamă
+cum__<label>__ADV îl__<label>__PRON cheamă__<label>__VERB 
+te+a sunat cineva
+te+a__<label>__PRON sunat__<label>__VERB cineva__<label>__PRON 
+seamănă cu Lala ai dreptate
+seamănă__<label>__VERB cu__<label>__ADP Lala__<label>__NOUN ai__<label>__AUX dreptate__<label>__NOUN 
+da
+da__<label>__AUX 
+unde'i pisica îmi arăţi şi mie
+unde'i__<label>__ pisica__<label>__NOUN îmi__<label>__PRON arăţi__<label>__AUX şi__<label>__CCONJ mie__<label>__PRON 
+ce' i asta
+ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON asta__<label>__PRON 
+s
+s__<label>__NOUN 
+muu bravo
+muu__<label>__PROPN bravo__<label>__ADJ 
+www
+www__<label>__PROPN 
+ce a adus tata pîine
+ce__<label>__PRON a__<label>__AUX adus__<label>__VERB tata__<label>__NOUN pîine__<label>__ADJ 
+nu gorila ţi+am spus că face hoho
+nu__<label>__PART gorila__<label>__NOUN ţi+am__<label>__AUX spus__<label>__VERB că__<label>__SCONJ face__<label>__AUX hoho__<label>__NOUN 
+mare
+mare__<label>__ADJ 
+uite cireşe
+uite__<label>__VERB cireşe__<label>__NOUN 
+da bravo bravo
+da__<label>__ADV bravo__<label>__INTJ bravo__<label>__ADJ 
+am văzut
+am__<label>__AUX văzut__<label>__VERB 
+ţi+e somn
+ţi+e__<label>__NOUN somn__<label>__NOUN 
+curcanul
+curcanul__<label>__NOUN 
+Bianca ia zi şi tu copac
+Bianca__<label>__NOUN ia__<label>__AUX zi__<label>__NOUN şi__<label>__CCONJ tu__<label>__PRON copac__<label>__NOUN 
+urs
+urs__<label>__NOUN 
+ah şi sînt în poza asta
+ah__<label>__INTJ şi__<label>__CCONJ sînt__<label>__NOUN în__<label>__ADP poza__<label>__NOUN asta__<label>__DET 
+ăsta ce e Bianca
+ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX Bianca__<label>__NOUN 
+v
+v__<label>__NOUN 
+hi Bianca ce' i asta
+hi__<label>__DET Bianca__<label>__PROPN ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON asta__<label>__PRON 
+şi
+şi__<label>__CCONJ 
+www
+www__<label>__PROPN 
+tu nu mai spui nimica
+tu__<label>__PRON nu__<label>__PART mai__<label>__ADV spui__<label>__AUX nimica__<label>__PRON 
+alo Babi
+alo__<label>__X Babi__<label>__PROPN 
+ah ce' i asta
+ah__<label>__INTJ ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON asta__<label>__PRON 
+doi
+doi__<label>__NUM 
+muu ia spune vacă
+muu__<label>__NOUN ia__<label>__AUX spune__<label>__NOUN vacă__<label>__ADJ 
+uite o ţin aicea
+uite__<label>__AUX o__<label>__DET ţin__<label>__NOUN aicea__<label>__ADV 
+os un os
+os__<label>__ADP un__<label>__DET os__<label>__NOUN 
+www
+www__<label>__PROPN 
+e
+e__<label>__AUX 
+o buburuză
+o__<label>__DET buburuză__<label>__NOUN 
+ia zi mama în mijlocul Bucureştiului
+ia__<label>__AUX zi__<label>__NOUN mama__<label>__NOUN în__<label>__ADP mijlocul__<label>__NOUN Bucureştiului__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+şi
+şi__<label>__CCONJ 
+piticul
+piticul__<label>__NOUN 
+vrei sus
+vrei__<label>__NOUN sus__<label>__ADV 
+uau mulţumesc
+uau__<label>__VERB mulţumesc__<label>__ADJ 
+hai citeşte şi tu o carte
+hai__<label>__NOUN citeşte__<label>__PROPN şi__<label>__CCONJ tu__<label>__PRON o__<label>__DET carte__<label>__NOUN 
+vezi astea de aicea
+vezi__<label>__AUX astea__<label>__PRON de__<label>__ADP aicea__<label>__ADV 
+ştii să te speli cu săpun
+ştii__<label>__NOUN să__<label>__PART te__<label>__PRON speli__<label>__AUX cu__<label>__ADP săpun__<label>__NOUN 
+nu ştiu spune+mi tu
+nu__<label>__PART ştiu__<label>__AUX spune+mi__<label>__NOUN tu__<label>__PRON 
+bravo
+bravo__<label>__INTJ 
+cînd eşti mică să faci harcea+parcea
+cînd__<label>__INTJ eşti__<label>__NOUN mică__<label>__ADJ să__<label>__PART faci__<label>__AUX harcea+parcea__<label>__ADV 
+acolo' i arş+arş
+acolo__<label>__ADV '__<label>__PUNCT i__<label>__PRON arş+arş__<label>__PROPN 
+e în hol
+e__<label>__AUX în__<label>__ADP hol__<label>__NOUN 
+auzi unde' i piticul tău
+auzi__<label>__VERB unde__<label>__ADV '__<label>__PUNCT i__<label>__PRON piticul__<label>__NOUN tău__<label>__DET 
+zi
+zi__<label>__NOUN 
+aşa pe fiecare degeţel da
+aşa__<label>__ADJ pe__<label>__ADP fiecare__<label>__PRON degeţel__<label>__NOUN da__<label>__ADV 
+poţi să vorbeşti
+poţi__<label>__ADV să__<label>__PART vorbeşti__<label>__NOUN 
+trei
+trei__<label>__NUM 
+ce' i aici
+ce__<label>__PRON '__<label>__PUNCT i__<label>__PRON aici__<label>__ADV 
+cum face moşul
+cum__<label>__ADV face__<label>__AUX moşul__<label>__NOUN 
+nu prea e tati
+nu__<label>__PART prea__<label>__ADV e__<label>__AUX tati__<label>__VERB 
+cu calul
+cu__<label>__ADP calul__<label>__NOUN 
+sus
+sus__<label>__ADV 
+cum îi spui Dolly la loc
+cum__<label>__ADV îi__<label>__PRON spui__<label>__AUX Dolly__<label>__PROPN la__<label>__ADP loc__<label>__NOUN 
+îl vrei tu
+îl__<label>__PRON vrei__<label>__AUX tu__<label>__PRON 
+dar mai nou ea vorbeşte cu calul
+dar__<label>__CCONJ mai__<label>__ADV nou__<label>__ADV ea__<label>__PRON vorbeşte__<label>__AUX cu__<label>__ADP calul__<label>__NOUN 
+eeh
+eeh__<label>__NOUN 
+e un ritual
+e__<label>__AUX un__<label>__DET ritual__<label>__NOUN 
+săptămîna viitoare va fi şi mai şi
+săptămîna__<label>__NOUN viitoare__<label>__ADJ va__<label>__AUX fi__<label>__AUX şi__<label>__CCONJ mai__<label>__ADV şi__<label>__CCONJ 
+arş
+arş__<label>__AUX 
+că eşti drăgălaşă acum
+că__<label>__SCONJ eşti__<label>__NOUN drăgălaşă__<label>__NOUN acum__<label>__ADV 
+ce noroc pe capul tău
+ce__<label>__PRON noroc__<label>__VERB pe__<label>__ADP capul__<label>__NOUN tău__<label>__DET 
+ah s+o găsim pe moaţa
+ah__<label>__INTJ s+o__<label>__PRON găsim__<label>__VERB pe__<label>__ADP moaţa__<label>__PROPN 
+uite ce rochie frumoasă uau
+uite__<label>__ADJ ce__<label>__PRON rochie__<label>__VERB frumoasă__<label>__ADJ uau__<label>__VERB 
+casa bravo
+casa__<label>__NOUN bravo__<label>__NOUN 
+uite cred că e foarte frumoasă biblioteca asta
+uite__<label>__AUX cred__<label>__AUX că__<label>__SCONJ e__<label>__AUX foarte__<label>__ADV frumoasă__<label>__ADJ biblioteca__<label>__NOUN asta__<label>__DET 
+stai
+stai__<label>__VERB 
+da mă ajuţi
+da__<label>__ADV mă__<label>__PRON ajuţi__<label>__AUX 
+vrei să citim din revista asta
+vrei__<label>__AUX să__<label>__PART citim__<label>__VERB din__<label>__ADP revista__<label>__NOUN asta__<label>__DET 
+alaltăieri seară pardon
+alaltăieri__<label>__NOUN seară__<label>__ADV pardon__<label>__ADJ 
+da
+da__<label>__AUX 
+zi patru
+zi__<label>__NOUN patru__<label>__NUM 
+da uite aicea gard
+da__<label>__ADV uite__<label>__VERB aicea__<label>__ADV gard__<label>__ADJ 
+vii să mai bei nişte suc
+vii__<label>__ADJ să__<label>__PART mai__<label>__ADV bei__<label>__AUX nişte__<label>__ADJ suc__<label>__NOUN 
+îhî
+îhî__<label>__ADV 
+şi nu dansezi
+şi__<label>__CCONJ nu__<label>__PART dansezi__<label>__AUX 
+îî
+îî__<label>__NOUN 
+ochi şi păr
+ochi__<label>__NOUN şi__<label>__CCONJ păr__<label>__NOUN 
+ce face tanti
+ce__<label>__PRON face__<label>__AUX tanti__<label>__NOUN 
+că e o pălărie foarte frumoasă
+că__<label>__SCONJ e__<label>__AUX o__<label>__DET pălărie__<label>__NOUN foarte__<label>__ADV frumoasă__<label>__ADJ 
+ia zi eu multe
+ia__<label>__AUX zi__<label>__NOUN eu__<label>__PRON multe__<label>__PRON 
+de ce
+de__<label>__ADP ce__<label>__PRON 
+ia zi mama eu
+ia__<label>__AUX zi__<label>__NOUN mama__<label>__NOUN eu__<label>__PRON 
+cum zice Bianca
+cum__<label>__ADV zice__<label>__AUX Bianca__<label>__NOUN 
+şase
+şase__<label>__VERB 
+hai sus şi povesteşte
+hai__<label>__NOUN sus__<label>__ADV şi__<label>__CCONJ povesteşte__<label>__PROPN 
+ia dă+mi şi mie să mă uit puţin la cutie pînă faci tu pipi
+ia__<label>__AUX dă+mi__<label>__NOUN şi__<label>__CCONJ mie__<label>__PRON să__<label>__PART mă__<label>__PRON uit__<label>__AUX puţin__<label>__NOUN la__<label>__ADP cutie__<label>__NOUN pînă__<label>__NOUN faci__<label>__ADJ tu__<label>__PRON pipi__<label>__AUX 
+hopa
+hopa__<label>__NOUN 
+apă
+apă__<label>__NOUN 
+tare tare
+tare__<label>__ADV tare__<label>__ADV 
+da
+da__<label>__AUX 
+un pom
+un__<label>__DET pom__<label>__NOUN 
+nu acolo
+nu__<label>__PART acolo__<label>__ADV 
+tati merge cu maşina
+tati__<label>__ADJ merge__<label>__AUX cu__<label>__ADP maşina__<label>__NOUN 
+poftim
+poftim__<label>__VERB 
+crezi că vine tati
+crezi__<label>__AUX că__<label>__SCONJ vine__<label>__AUX tati__<label>__ADJ 
+îţi pui ceasul
+îţi__<label>__VERB pui__<label>__VERB ceasul__<label>__NOUN 
+mazăre
+mazăre__<label>__NOUN 
+sînt tare mîndră
+sînt__<label>__PROPN tare__<label>__ADV mîndră__<label>__NOUN 
+auzi Bianca dar cum dansezi tu
+auzi__<label>__VERB Bianca__<label>__NOUN dar__<label>__CCONJ cum__<label>__ADV dansezi__<label>__AUX tu__<label>__PRON 
+atunci în care intră
+atunci__<label>__ADV în__<label>__ADP care__<label>__PRON intră__<label>__VERB 
+pune buni
+pune__<label>__AUX buni__<label>__ADJ 
+guriţă are
+guriţă__<label>__ADV are__<label>__AUX 
+şi uite
+şi__<label>__CCONJ uite__<label>__AUX 
+invers
+invers__<label>__ADJ 
+acolo şi bărbiţa unde'i
+acolo__<label>__ADV şi__<label>__CCONJ bărbiţa__<label>__NOUN unde'i__<label>__ 
+nu intră aşa nu
+nu__<label>__PART intră__<label>__VERB aşa__<label>__DET nu__<label>__PART 
+lasă+le acolo şi bagă în mare toate
+lasă+le__<label>__VERB acolo__<label>__ADV şi__<label>__CCONJ bagă__<label>__VERB în__<label>__ADP mare__<label>__ADJ toate__<label>__PRON 
+are şepcuţă uite
+are__<label>__AUX şepcuţă__<label>__NOUN uite__<label>__ADJ 
+ochişorii uite se văd ochişorii
+ochişorii__<label>__NOUN uite__<label>__ADJ se__<label>__PRON văd__<label>__AUX ochişorii__<label>__NOUN 
+uite uite cum pune buni uite
+uite__<label>__ADJ uite__<label>__ADJ cum__<label>__ADV pune__<label>__AUX buni__<label>__NOUN uite__<label>__ADJ 
+uf uf hai să te ajute buni
+uf__<label>__NOUN uf__<label>__NOUN hai__<label>__NOUN să__<label>__PART te__<label>__PRON ajute__<label>__AUX buni__<label>__ADJ 
+uite soare punem mic în mare
+uite__<label>__ADJ soare__<label>__NOUN punem__<label>__VERB mic__<label>__ADJ în__<label>__ADP mare__<label>__NOUN 
+toate aşa cum îs
+toate__<label>__DET aşa__<label>__NOUN cum__<label>__ADV îs__<label>__ADP 
+uite cum face buni uite
+uite__<label>__ADJ cum__<label>__ADV face__<label>__AUX buni__<label>__NOUN uite__<label>__ADJ 
+ciau
+ciau__<label>__VERB 
+mi+l dai şi mie te rog
+mi+l__<label>__PROPN dai__<label>__ADJ şi__<label>__CCONJ mie__<label>__PRON te__<label>__PRON rog__<label>__AUX 
+nu că mai am treabă
+nu__<label>__PART că__<label>__SCONJ mai__<label>__ADV am__<label>__AUX treabă__<label>__NOUN 
+şi fruntea
+şi__<label>__CCONJ fruntea__<label>__NOUN 
+fă o fundiţă aşa
+fă__<label>__ADP o__<label>__DET fundiţă__<label>__NOUN aşa__<label>__DET 
+zi cola
+zi__<label>__NOUN cola__<label>__NOUN 
+are păr
+are__<label>__AUX păr__<label>__NOUN 
+ah
+ah__<label>__INTJ 
+ai făcut pipi
+ai__<label>__AUX făcut__<label>__VERB pipi__<label>__NOUN 
+da margarină
+da__<label>__ADV margarină__<label>__NOUN 
+pateu aşa
+pateu__<label>__NOUN aşa__<label>__NOUN 
+cine
+cine__<label>__PRON 
+cub
+cub__<label>__AUX 
+ah asta' i ciocănitoarea
+ah__<label>__INTJ asta__<label>__PRON '__<label>__PUNCT i__<label>__PRON ciocănitoarea__<label>__AUX 
+aşa ai spus
+aşa__<label>__NOUN ai__<label>__AUX spus__<label>__VERB 
+ia vezi
+ia__<label>__AUX vezi__<label>__AUX 
+www
+www__<label>__PROPN 
+hi
+hi__<label>__DET 
+nu ştiu
+nu__<label>__PART ştiu__<label>__AUX 
+da
+da__<label>__AUX 
+da
+da__<label>__AUX 
+pis mîncare pentru pis
+pis__<label>__NOUN mîncare__<label>__ADJ pentru__<label>__ADP pis__<label>__NOUN 
+adu iepuraşul ăla lui mama
+adu__<label>__CCONJ iepuraşul__<label>__NOUN ăla__<label>__DET lui__<label>__DET mama__<label>__NOUN 
+mă tu peste tot vezi ba pisici ba bile
+mă__<label>__PRON tu__<label>__PRON peste__<label>__ADP tot__<label>__ADV vezi__<label>__AUX ba__<label>__ADV pisici__<label>__NOUN ba__<label>__ADV bile__<label>__ADJ 
+e un pui de urs
+e__<label>__AUX un__<label>__DET pui__<label>__NOUN de__<label>__ADP urs__<label>__NOUN 
+o familie
+o__<label>__DET familie__<label>__NOUN 
+De ro
+De__<label>__ADP ro__<label>__NOUN 
+gata
+gata__<label>__ADV 
+www
+www__<label>__PROPN 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+Beatrice
+Beatrice__<label>__ADJ 
+un
+un__<label>__DET 
+e mai greu
+e__<label>__AUX mai__<label>__ADV greu__<label>__ADV 
+o să calci pe şiret şi te' mpiedici
+o__<label>__PART să__<label>__PART calci__<label>__AUX pe__<label>__ADP şiret__<label>__PROPN şi__<label>__CCONJ te__<label>__PRON '__<label>__PUNCT mpiedici__<label>__NOUN 
+dă cozonacul
+dă__<label>__AUX cozonacul__<label>__NOUN 
+mare mare
+mare__<label>__ADJ mare__<label>__ADJ 
+tanti e tanti
+tanti__<label>__NOUN e__<label>__AUX tanti__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+ia du+te şi ridic+o
+ia__<label>__AUX du+te__<label>__PROPN şi__<label>__CCONJ ridic+o__<label>__AUX 
+hai să facem un pipi
+hai__<label>__NOUN să__<label>__PART facem__<label>__VERB un__<label>__DET pipi__<label>__NOUN 
+aici
+aici__<label>__ADV 
+pune degeţelul pe pis
+pune__<label>__AUX degeţelul__<label>__NOUN pe__<label>__ADP pis__<label>__NOUN 
+fruntea
+fruntea__<label>__NOUN 
+www
+www__<label>__PROPN 
+ia vezi
+ia__<label>__AUX vezi__<label>__AUX 
+asta' i o tanti
+asta__<label>__PRON '__<label>__PUNCT i__<label>__PRON o__<label>__DET tanti__<label>__NOUN 
+da
+da__<label>__AUX 
+sau ne uităm la poze
+sau__<label>__CCONJ ne__<label>__PRON uităm__<label>__VERB la__<label>__ADP poze__<label>__NOUN 
+e mai greu la început
+e__<label>__AUX mai__<label>__ADV greu__<label>__ADV la__<label>__ADP început__<label>__NOUN 
+îî
+îî__<label>__NOUN 
+nu te aud
+nu__<label>__PART te__<label>__PRON aud__<label>__AUX 
+vrea să te pupe
+vrea__<label>__AUX să__<label>__PART te__<label>__PRON pupe__<label>__AUX 
+tot tu
+tot__<label>__PRON tu__<label>__PRON 
+Titi şi
+Titi__<label>__NOUN şi__<label>__CCONJ 
+vai de mine
+vai__<label>__INTJ de__<label>__ADP mine__<label>__PRON 
+ce spui
+ce__<label>__PRON spui__<label>__AUX 
+Tudor
+Tudor__<label>__PROPN 
+pune tu pe cap mama
+pune__<label>__AUX tu__<label>__PRON pe__<label>__ADP cap__<label>__NOUN mama__<label>__NOUN 
+vi l+am arătat pe al meu nu
+vi__<label>__PRON l+am__<label>__ADP arătat__<label>__VERB pe__<label>__ADP al__<label>__DET meu__<label>__DET nu__<label>__PART 
+fii atentă
+fii__<label>__NOUN atentă__<label>__ADJ 
+uau
+uau__<label>__VERB 
+cred că eşti Pinocchio
+cred__<label>__AUX că__<label>__SCONJ eşti__<label>__NOUN Pinocchio__<label>__PROPN 
+cum papă bebe
+cum__<label>__ADV papă__<label>__VERB bebe__<label>__NOUN 
+îi spui Larisei cine a fost în vizită la tine
+îi__<label>__PRON spui__<label>__AUX Larisei__<label>__PROPN cine__<label>__PRON a__<label>__AUX fost__<label>__VERB în__<label>__ADP vizită__<label>__NOUN la__<label>__ADP tine__<label>__PRON 
+da
+da__<label>__AUX 
+ah la peşte
+ah__<label>__AUX la__<label>__ADP peşte__<label>__NOUN 
+nu ştii e greu
+nu__<label>__PART ştii__<label>__NOUN e__<label>__AUX greu__<label>__ADV 
+mălai
+mălai__<label>__NOUN 
+da e arş
+da__<label>__ADV e__<label>__AUX arş__<label>__NOUN 
+hai adu de acolo ceva
+hai__<label>__NOUN adu__<label>__DET de__<label>__ADP acolo__<label>__ADV ceva__<label>__PRON 
+hai mai spune o dată
+hai__<label>__NOUN mai__<label>__ADV spune__<label>__AUX o__<label>__DET dată__<label>__NOUN 
+aia'i mama ta acolo în poză nu e leul
+aia'i__<label>__X mama__<label>__NOUN ta__<label>__DET acolo__<label>__ADV în__<label>__ADP poză__<label>__NOUN nu__<label>__PART e__<label>__AUX leul__<label>__NOUN 
+sacou
+sacou__<label>__NOUN 
+cum
+cum__<label>__ADV 
+ia uite
+ia__<label>__AUX uite__<label>__ADJ 
+tati îl punem pe tati să facă o casă
+tati__<label>__ADJ îl__<label>__PRON punem__<label>__VERB pe__<label>__ADP tati__<label>__PROPN să__<label>__PART facă__<label>__AUX o__<label>__DET casă__<label>__NOUN 
+merge baba prin salon şi apasă pe buton
+merge__<label>__AUX baba__<label>__NOUN prin__<label>__ADP salon__<label>__NOUN şi__<label>__CCONJ apasă__<label>__VERB pe__<label>__ADP buton__<label>__NOUN 
+piticul
+piticul__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+cinci
+cinci__<label>__NUM 
+bravo Bianca da
+bravo__<label>__INTJ Bianca__<label>__NOUN da__<label>__X 
+vrei să facem o casă
+vrei__<label>__AUX să__<label>__PART facem__<label>__VERB o__<label>__DET casă__<label>__NOUN 
+nasul lui tati face
+nasul__<label>__NOUN lui__<label>__DET tati__<label>__PROPN face__<label>__AUX 
+explains to Lar how Bianca helps her
+explains__<label>__VERB to__<label>__NOUN Lar__<label>__PROPN how__<label>__NOUN Bianca__<label>__PROPN helps__<label>__PROPN her__<label>__PROPN 
+cu
+cu__<label>__ADP 
+botoşi
+botoşi__<label>__ADJ 
+arată+i pozele
+arată+i__<label>__NOUN pozele__<label>__NOUN 
+haide
+haide__<label>__AUX 
+cine+i face baie lui bebe
+cine+i__<label>__PROPN face__<label>__AUX baie__<label>__NOUN lui__<label>__DET bebe__<label>__NOUN 
+toate's patru
+toate's__<label>__ patru__<label>__NUM 
+şi ăsta ce e
+şi__<label>__CCONJ ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+iniţial a zis fata
+iniţial__<label>__ADJ a__<label>__AUX zis__<label>__VERB fata__<label>__NOUN 
+vin acum
+vin__<label>__AUX acum__<label>__ADV 
+hai vino'ncoace
+hai__<label>__NOUN vino'ncoace__<label>__PROPN 
+a făcut şi nasul lui tati tit
+a__<label>__AUX făcut__<label>__VERB şi__<label>__CCONJ nasul__<label>__NOUN lui__<label>__DET tati__<label>__PROPN tit__<label>__ADJ 
+unde'i puiul
+unde'i__<label>__ADP puiul__<label>__NOUN 
+nu cred
+nu__<label>__PART cred__<label>__AUX 
+da
+da__<label>__AUX 
+cum spui tu nenea
+cum__<label>__ADV spui__<label>__AUX tu__<label>__PRON nenea__<label>__AUX 
+da
+da__<label>__AUX 
+aşa
+aşa__<label>__DET 
+hai mă mami
+hai__<label>__NOUN mă__<label>__PRON mami__<label>__AUX 
+aşa
+aşa__<label>__DET 
+tata face frumos
+tata__<label>__NOUN face__<label>__AUX frumos__<label>__ADV 
+vrei să ţi+l pun
+vrei__<label>__AUX să__<label>__PART ţi+l__<label>__AUX pun__<label>__AUX 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+cînd pleacă altcineva e pa
+cînd__<label>__NOUN pleacă__<label>__VERB altcineva__<label>__PRON e__<label>__AUX pa__<label>__PROPN 
+haide măi că nu te+am văzut prea bine pe oliţă
+haide__<label>__AUX măi__<label>__CCONJ că__<label>__SCONJ nu__<label>__PART te+am__<label>__NOUN văzut__<label>__VERB prea__<label>__ADV bine__<label>__ADV pe__<label>__ADP oliţă__<label>__NOUN 
+ai realizat ceva
+ai__<label>__AUX realizat__<label>__VERB ceva__<label>__PRON 
+ia uite ce pălărie
+ia__<label>__AUX uite__<label>__ADJ ce__<label>__DET pălărie__<label>__AUX 
+ai obosit să ştii că e obositor să umbli aşa elegantă
+ai__<label>__AUX obosit__<label>__VERB să__<label>__PART ştii__<label>__AUX că__<label>__SCONJ e__<label>__AUX obositor__<label>__VERB să__<label>__PART umbli__<label>__AUX aşa__<label>__NOUN elegantă__<label>__ADJ 
+ce cred
+ce__<label>__PRON cred__<label>__AUX 
+cloşca
+cloşca__<label>__NOUN 
+www
+www__<label>__PROPN 
+dă cozonacii treci la frămîntat de cozonaci
+dă__<label>__AUX cozonacii__<label>__NOUN treci__<label>__AUX la__<label>__ADP frămîntat__<label>__NOUN de__<label>__ADP cozonaci__<label>__NOUN 
+uite o duce tata în bucătărie
+uite__<label>__AUX o__<label>__DET duce__<label>__AUX tata__<label>__NOUN în__<label>__ADP bucătărie__<label>__NOUN 
+tot friptură de pui da
+tot__<label>__ADV friptură__<label>__VERB de__<label>__ADP pui__<label>__NOUN da__<label>__ADV 
+ce ai pus
+ce__<label>__PRON ai__<label>__AUX pus__<label>__VERB 
+îmi pare rău nici un centimetru pătrat
+îmi__<label>__PRON pare__<label>__AUX rău__<label>__ADV nici__<label>__ADV un__<label>__DET centimetru__<label>__NOUN pătrat__<label>__ADJ 
+nu nu nu
+nu__<label>__PART nu__<label>__PART nu__<label>__PART 
+uau
+uau__<label>__VERB 
+dar ia cum spune Bianca
+dar__<label>__CCONJ ia__<label>__AUX cum__<label>__ADV spune__<label>__AUX Bianca__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+îţi place banana
+îţi__<label>__AUX place__<label>__AUX banana__<label>__NOUN 
+ah uite
+ah__<label>__PRON uite__<label>__AUX 
+bine
+bine__<label>__ADV 
+unde e
+unde__<label>__ADV e__<label>__AUX 
+bine
+bine__<label>__ADV 
+ce se face cu el cu ăla
+ce__<label>__PRON se__<label>__PRON face__<label>__AUX cu__<label>__ADP el__<label>__PRON cu__<label>__ADP ăla__<label>__PRON 
+ce faci cu baticul ăla
+ce__<label>__PRON faci__<label>__AUX cu__<label>__ADP baticul__<label>__NOUN ăla__<label>__DET 
+da
+da__<label>__AUX 
+aşa
+aşa__<label>__DET 
+apă
+apă__<label>__NOUN 
+s+o facă mama să cînte
+s+o__<label>__X facă__<label>__VERB mama__<label>__NOUN să__<label>__PART cînte__<label>__AUX 
+şi uite că mama vă ajută şi+l mai pune şi pe ăsta
+şi__<label>__CCONJ uite__<label>__AUX că__<label>__SCONJ mama__<label>__NOUN vă__<label>__PRON ajută__<label>__VERB şi+l__<label>__ADV mai__<label>__ADV pune__<label>__AUX şi__<label>__CCONJ pe__<label>__ADP ăsta__<label>__PRON 
+ce face
+ce__<label>__PRON face__<label>__AUX 
+unde e
+unde__<label>__ADV e__<label>__AUX 
+paie
+paie__<label>__NOUN 
+e cam murdar
+e__<label>__AUX cam__<label>__ADV murdar__<label>__ADJ 
+ai văzut calul
+ai__<label>__AUX văzut__<label>__VERB calul__<label>__NOUN 
+www
+www__<label>__PROPN 
+unde' i cutia
+unde__<label>__ADV '__<label>__PUNCT i__<label>__PRON cutia__<label>__AUX 
+flori
+flori__<label>__NOUN 
+Bianca în picioare mama
+Bianca__<label>__NOUN în__<label>__ADP picioare__<label>__NOUN mama__<label>__NOUN 
+plecaţi de pe geam
+plecaţi__<label>__ADJ de__<label>__ADP pe__<label>__ADP geam__<label>__NOUN 
+fără î
+fără__<label>__ADP î__<label>__NOUN 
+tralalala
+tralalala__<label>__NOUN 
+hai cu raţa la mama
+hai__<label>__NOUN cu__<label>__ADP raţa__<label>__NOUN la__<label>__ADP mama__<label>__NOUN 
+uite ce face tata
+uite__<label>__AUX ce__<label>__PRON face__<label>__AUX tata__<label>__NOUN 
+ăla' i nu+nu+nu ai dreptate
+ăla__<label>__PRON '__<label>__PUNCT i__<label>__PRON nu+nu+nu__<label>__ADV ai__<label>__AUX dreptate__<label>__NOUN 
+bebe a făcut nani şi a făcut harcea+parcea
+bebe__<label>__NOUN a__<label>__AUX făcut__<label>__VERB nani__<label>__ADJ şi__<label>__CCONJ a__<label>__AUX făcut__<label>__VERB harcea+parcea__<label>__ADV 
+şi ce a făcut bebe
+şi__<label>__CCONJ ce__<label>__PRON a__<label>__AUX făcut__<label>__VERB bebe__<label>__NOUN 
+no
+no__<label>__NOUN 
+da
+da__<label>__AUX 
+îţi ridic chiloţeii
+îţi__<label>__NOUN ridic__<label>__ADJ chiloţeii__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+www
+www__<label>__PROPN 
+ia uite ce'i asta
+ia__<label>__AUX uite__<label>__ADJ ce'i__<label>__NUM asta__<label>__PRON 
+vrei bebe
+vrei__<label>__NOUN bebe__<label>__NOUN 
+opa
+opa__<label>__NOUN 
+ce ai dormit prea mult şi nu te+ai dezmeticit
+ce__<label>__PRON ai__<label>__AUX dormit__<label>__VERB prea__<label>__ADV mult__<label>__ADV şi__<label>__CCONJ nu__<label>__PART te+ai__<label>__AUX dezmeticit__<label>__ADJ 
+pîine
+pîine__<label>__ADJ 
+nu mai trebuie
+nu__<label>__PART mai__<label>__ADV trebuie__<label>__VERB 
+lacul
+lacul__<label>__NOUN 
+www
+www__<label>__PROPN 
+au
+au__<label>__AUX 
+ia să văd
+ia__<label>__AUX să__<label>__PART văd__<label>__AUX 
+şase
+şase__<label>__VERB 
+e la stadiul în care nu mai vrea să+i dau să mănînce
+e__<label>__AUX la__<label>__ADP stadiul__<label>__NOUN în__<label>__ADP care__<label>__PRON nu__<label>__PART mai__<label>__ADV vrea__<label>__AUX să+i__<label>__PROPN dau__<label>__AUX să__<label>__PART mănînce__<label>__AUX 
+tu poţi să stai cum stau eu
+tu__<label>__PRON poţi__<label>__AUX să__<label>__PART stai__<label>__AUX cum__<label>__ADV stau__<label>__VERB eu__<label>__PRON 
+banană
+banană__<label>__NOUN 
+Bianca tu le strîngi
+Bianca__<label>__NOUN tu__<label>__PRON le__<label>__PRON strîngi__<label>__AUX 
+taci raţo
+taci__<label>__NOUN raţo__<label>__NOUN 
+cucu
+cucu__<label>__NOUN 
+are pălărie
+are__<label>__AUX pălărie__<label>__NOUN 
+casa
+casa__<label>__NOUN 
+albă
+albă__<label>__ADJ 
+ai ceas
+ai__<label>__AUX ceas__<label>__VERB 
+bună seara
+bună__<label>__ADJ seara__<label>__ADV 
+ce'i acolo'n poză
+ce'i__<label>__NUM acolo'n__<label>__NOUN poză__<label>__VERB 
+minute
+minute__<label>__NOUN 
+tu ştii să zici inel
+tu__<label>__PRON ştii__<label>__AUX să__<label>__PART zici__<label>__AUX inel__<label>__NOUN 
+care
+care__<label>__PRON 
+pe cine strigi
+pe__<label>__ADP cine__<label>__PRON strigi__<label>__AUX 
+e actor mama să ştii
+e__<label>__AUX actor__<label>__ADJ mama__<label>__NOUN să__<label>__PART ştii__<label>__NOUN 
+are peşti
+are__<label>__AUX peşti__<label>__NOUN 
+tu le strîngi
+tu__<label>__PRON le__<label>__PRON strîngi__<label>__AUX 
+şi aici
+şi__<label>__CCONJ aici__<label>__ADV 
+tati se spală pe mîini acum
+tati__<label>__ADJ se__<label>__PRON spală__<label>__VERB pe__<label>__ADP mîini__<label>__NOUN acum__<label>__ADV 
+fasole
+fasole__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+nu te lasă să citeşti prea mult
+nu__<label>__PART te__<label>__PRON lasă__<label>__VERB să__<label>__PART citeşti__<label>__AUX prea__<label>__ADV mult__<label>__ADV 
+ţi+a mai spus mama că e o cremă
+ţi+a__<label>__PROPN mai__<label>__ADV spus__<label>__VERB mama__<label>__NOUN că__<label>__SCONJ e__<label>__AUX o__<label>__DET cremă__<label>__NOUN 
+scoici
+scoici__<label>__NOUN 
+te rog frumos îmi dai ceasul
+te__<label>__PRON rog__<label>__AUX frumos__<label>__ADV îmi__<label>__PRON dai__<label>__AUX ceasul__<label>__NOUN 
+scoici
+scoici__<label>__NOUN 
+nu
+nu__<label>__PART 
+dacă ai o oră de cînd te+ai trezit
+dacă__<label>__SCONJ ai__<label>__AUX o__<label>__DET oră__<label>__NOUN de__<label>__ADP cînd__<label>__NOUN te+ai__<label>__PROPN trezit__<label>__ADJ 
+opa
+opa__<label>__NOUN 
+unu
+unu__<label>__NUM 
+ia spune+i Larisei ce bei tu acolo
+ia__<label>__AUX spune+i__<label>__ADV Larisei__<label>__NOUN ce__<label>__PRON bei__<label>__AUX tu__<label>__PRON acolo__<label>__ADV 
+pui ceasul pe nas
+pui__<label>__AUX ceasul__<label>__NOUN pe__<label>__ADP nas__<label>__NOUN 
+dă'ncoace
+dă'ncoace__<label>__PROPN 
+e inel
+e__<label>__AUX inel__<label>__NOUN 
+nu'i
+nu'i__<label>__NOUN 
+da mama ştie
+da__<label>__AUX mama__<label>__NOUN ştie__<label>__NOUN 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+care Ana
+care__<label>__PRON Ana__<label>__PROPN 
+cu plăcere
+cu__<label>__ADP plăcere__<label>__NOUN 
+da Bianca
+da__<label>__ADV Bianca__<label>__NOUN 
+dar ce'i ăla deodorant sau parfum
+dar__<label>__CCONJ ce'i__<label>__AUX ăla__<label>__PRON deodorant__<label>__NOUN sau__<label>__CCONJ parfum__<label>__NOUN 
+mamă dar e hamham
+mamă__<label>__NOUN dar__<label>__CCONJ e__<label>__AUX hamham__<label>__PROPN 
+mulţumesc
+mulţumesc__<label>__AUX 
+hai fă pipi
+hai__<label>__NOUN fă__<label>__ADP pipi__<label>__NOUN 
+păpuşa
+păpuşa__<label>__NOUN 
+unde e
+unde__<label>__ADV e__<label>__AUX 
+nu
+nu__<label>__PART 
+nu
+nu__<label>__PART 
+exact
+exact__<label>__ADV 
+a evadat
+a__<label>__AUX evadat__<label>__VERB 
+unde'i Larisa
+unde'i__<label>__ Larisa__<label>__PROPN 
+nu asta nu e voie
+nu__<label>__PART asta__<label>__PRON nu__<label>__PART e__<label>__AUX voie__<label>__NOUN 
+te văd
+te__<label>__PRON văd__<label>__AUX 
+zece
+zece__<label>__NUM 
+aşa bravo
+aşa__<label>__DET bravo__<label>__INTJ 
+da
+da__<label>__AUX 
+gata şefa
+gata__<label>__ADV şefa__<label>__ADP 
+în
+în__<label>__ADP 
+şi la ceasul ăsta cît e tot şase
+şi__<label>__CCONJ la__<label>__ADP ceasul__<label>__NOUN ăsta__<label>__DET cît__<label>__ADJ e__<label>__AUX tot__<label>__ADV şase__<label>__VERB 
+frumos
+frumos__<label>__ADJ 
+că te văd
+că__<label>__SCONJ te__<label>__PRON văd__<label>__AUX 
+cît e ceasul
+cît__<label>__AUX e__<label>__AUX ceasul__<label>__NOUN 
+dă+o la o parte că n'are motiv de plîns
+dă+o__<label>__NOUN la__<label>__ADP o__<label>__DET parte__<label>__NOUN că__<label>__SCONJ n'are__<label>__AUX motiv__<label>__NOUN de__<label>__ADP plîns__<label>__NOUN 
+şapte
+şapte__<label>__NOUN 
+şi Beatrice
+şi__<label>__CCONJ Beatrice__<label>__AUX 
+care'i bila roşie
+care'i__<label>__NOUN bila__<label>__NOUN roşie__<label>__NOUN 
+cine'a văzut+o
+cine'a__<label>__PROPN văzut+o__<label>__PROPN 
+www
+www__<label>__PROPN 
+Bianca
+Bianca__<label>__NOUN 
+şi hai de'acolo
+şi__<label>__CCONJ hai__<label>__NOUN de'acolo__<label>__PROPN 
+pahar
+pahar__<label>__NOUN 
+Bianca
+Bianca__<label>__NOUN 
+şase
+şase__<label>__VERB 
+unde'i bila roşie
+unde'i__<label>__ bila__<label>__NOUN roşie__<label>__NOUN 
+hai apasă pe unu
+hai__<label>__NOUN apasă__<label>__ADJ pe__<label>__ADP unu__<label>__NUM 
+cum
+cum__<label>__ADV 
+a adormit păpuşa pe cămilă
+a__<label>__AUX adormit__<label>__VERB păpuşa__<label>__NOUN pe__<label>__ADP cămilă__<label>__NOUN 
+ce are fustă
+ce__<label>__PRON are__<label>__AUX fustă__<label>__ADJ 
+www
+www__<label>__PROPN 
+şi ursul
+şi__<label>__CCONJ ursul__<label>__NOUN 
+macmacmac
+macmacmac__<label>__PROPN 
+Dana are multe la Deva
+Dana__<label>__NOUN are__<label>__AUX multe__<label>__PRON la__<label>__ADP Deva__<label>__NOUN 
+zece
+zece__<label>__NUM 
+apasă pe unu
+apasă__<label>__ADJ pe__<label>__ADP unu__<label>__NUM 
+şase
+şase__<label>__VERB 
+tu+tuul nu face pipi
+tu+tuul__<label>__NOUN nu__<label>__PART face__<label>__AUX pipi__<label>__NOUN 
+nu te mai văd gata
+nu__<label>__PART te__<label>__PRON mai__<label>__ADV văd__<label>__AUX gata__<label>__ADV 
+mersi
+mersi__<label>__ADJ 
+dar la vară
+dar__<label>__CCONJ la__<label>__ADP vară__<label>__NOUN 
+cine'a văzut+o pe Bianca
+cine'a__<label>__PROPN văzut+o__<label>__PROPN pe__<label>__ADP Bianca__<label>__NOUN 
+rece
+rece__<label>__ADJ 
+www
+www__<label>__PROPN 
+Pinochio
+Pinochio__<label>__PROPN 
+îmi dai alo şi+ţi dau bila
+îmi__<label>__PRON dai__<label>__ADJ alo__<label>__X şi+ţi__<label>__NOUN dau__<label>__AUX bila__<label>__NOUN 
+bun
+bun__<label>__ADJ 
+nu cred că te+a învăţat să fumezi
+nu__<label>__PART cred__<label>__AUX că__<label>__SCONJ te+a__<label>__ADV învăţat__<label>__AUX să__<label>__PART fumezi__<label>__AUX 
+poftim
+poftim__<label>__VERB 
+hopa
+hopa__<label>__NOUN 
+ce sînt astea
+ce__<label>__PRON sînt__<label>__AUX astea__<label>__DET 
+ei unde eşti
+ei__<label>__PRON unde__<label>__ADV eşti__<label>__NOUN 
+îl doare capul pe moş
+îl__<label>__PRON doare__<label>__AUX capul__<label>__NOUN pe__<label>__ADP moş__<label>__VERB 
+huhuhu cine face
+huhuhu__<label>__PROPN cine__<label>__PRON face__<label>__AUX 
+poftim
+poftim__<label>__VERB 
+www
+www__<label>__PROPN 
+bravo
+bravo__<label>__INTJ 
+ce anume cafea sau nes
+ce__<label>__PRON anume__<label>__ADJ cafea__<label>__NOUN sau__<label>__CCONJ nes__<label>__NOUN 
+şi are şi codiţe
+şi__<label>__CCONJ are__<label>__AUX şi__<label>__CCONJ codiţe__<label>__NOUN 
+cu ce
+cu__<label>__ADP ce__<label>__PRON 
+hai repede să dăm jos pantalonii
+hai__<label>__NOUN repede__<label>__ADV să__<label>__PART dăm__<label>__VERB jos__<label>__ADV pantalonii__<label>__NOUN 
+cu
+cu__<label>__ADP 
+ia vezi ce mai mănîncă bebe aici
+ia__<label>__AUX vezi__<label>__AUX ce__<label>__PRON mai__<label>__ADV mănîncă__<label>__NOUN bebe__<label>__AUX aici__<label>__ADV 
+ia zi frumosule
+ia__<label>__AUX zi__<label>__NOUN frumosule__<label>__NOUN 
+hahaha
+hahaha__<label>__NOUN 
+da
+da__<label>__AUX 
+scoatem coaja
+scoatem__<label>__AUX coaja__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+îţi plac astea
+îţi__<label>__NOUN plac__<label>__VERB astea__<label>__PRON 
+să îmbrăcăm păpuşa că nu ştiu cine a dezbrăcat+o
+să__<label>__PART îmbrăcăm__<label>__VERB păpuşa__<label>__ADJ că__<label>__SCONJ nu__<label>__PART ştiu__<label>__AUX cine__<label>__PRON a__<label>__DET dezbrăcat+o__<label>__PROPN 
+da
+da__<label>__AUX 
+dă+mi şi ursul
+dă+mi__<label>__ADJ şi__<label>__CCONJ ursul__<label>__NOUN 
+uţa uţa
+uţa__<label>__NOUN uţa__<label>__X 
+acolo
+acolo__<label>__ADV 
+mersi
+mersi__<label>__ADJ 
+ai păpat ai mîncat miam+miam la cinci
+ai__<label>__AUX păpat__<label>__VERB ai__<label>__AUX mîncat__<label>__VERB miam+miam__<label>__VERB la__<label>__ADP cinci__<label>__NUM 
+hai
+hai__<label>__NOUN 
+ai apăsat de tot
+ai__<label>__AUX apăsat__<label>__VERB de__<label>__ADP tot__<label>__ADV 
+da
+da__<label>__AUX 
+vezi că ai şi piticul care se lipeşte la fel
+vezi__<label>__AUX că__<label>__SCONJ ai__<label>__AUX şi__<label>__CCONJ piticul__<label>__NOUN care__<label>__PRON se__<label>__PRON lipeşte__<label>__AUX la__<label>__ADP fel__<label>__NOUN 
+te duci şi'i spui poftim Larisa ţi+am adus cartea
+te__<label>__PRON duci__<label>__AUX şi'i__<label>__DET spui__<label>__ADJ poftim__<label>__VERB Larisa__<label>__PROPN ţi+am__<label>__ADJ adus__<label>__VERB cartea__<label>__NOUN 
+fata
+fata__<label>__NOUN 
+ce faci în cutie
+ce__<label>__PRON faci__<label>__AUX în__<label>__ADP cutie__<label>__NOUN 
+poftim
+poftim__<label>__VERB 
+mulţumesc
+mulţumesc__<label>__AUX 
+aşa
+aşa__<label>__DET 
+uite ce am
+uite__<label>__AUX ce__<label>__PRON am__<label>__AUX 
+cu Lala ai băut nes
+cu__<label>__ADP Lala__<label>__NOUN ai__<label>__AUX băut__<label>__VERB nes__<label>__NOUN 
+şi aicea
+şi__<label>__CCONJ aicea__<label>__ADV 
+norocel
+norocel__<label>__ADP 
+aşa speli mănuţele cu săpunul
+aşa__<label>__NOUN speli__<label>__NOUN mănuţele__<label>__NOUN cu__<label>__ADP săpunul__<label>__NOUN 
+te duci în grădină şi iei iarbă
+te__<label>__PRON duci__<label>__AUX în__<label>__ADP grădină__<label>__NOUN şi__<label>__CCONJ iei__<label>__PROPN iarbă__<label>__ADJ 
+a raţa
+a__<label>__AUX raţa__<label>__VERB 
+brînză bravo
+brînză__<label>__NOUN bravo__<label>__NOUN 
+uau uau uau
+uau__<label>__VERB uau__<label>__VERB uau__<label>__VERB 
+carte
+carte__<label>__NOUN 
+da
+da__<label>__AUX 
+măi ce faci
+măi__<label>__INTJ ce__<label>__DET faci__<label>__AUX 
+cum face lama
+cum__<label>__ADV face__<label>__AUX lama__<label>__NOUN 
+dacă ai nevoie de oliţă să îmi spui
+dacă__<label>__SCONJ ai__<label>__AUX nevoie__<label>__NOUN de__<label>__ADP oliţă__<label>__NOUN să__<label>__PART îmi__<label>__PRON spui__<label>__AUX 
+şi uite astea sînt scaune
+şi__<label>__CCONJ uite__<label>__AUX astea__<label>__PRON sînt__<label>__NOUN scaune__<label>__ADJ 
+www
+www__<label>__PROPN 
+tu vezi ce gît lung are
+tu__<label>__PRON vezi__<label>__AUX ce__<label>__PRON gît__<label>__AUX lung__<label>__ADJ are__<label>__AUX 
+cum
+cum__<label>__ADV 
+ştiai Bianca
+ştiai__<label>__PROPN Bianca__<label>__PROPN 
+www
+www__<label>__PROPN 
+ce zici e frumoasă gărgăriţa
+ce__<label>__PRON zici__<label>__AUX e__<label>__AUX frumoasă__<label>__ADJ gărgăriţa__<label>__NOUN 
+ce'i asta
+ce'i__<label>__NUM asta__<label>__PRON 
+www
+www__<label>__PROPN 
+da ai înţeles da
+da__<label>__ADV ai__<label>__AUX înţeles__<label>__VERB da__<label>__ADV 
+uite aşa face mama la puiul de maimuţă
+uite__<label>__VERB aşa__<label>__NOUN face__<label>__AUX mama__<label>__NOUN la__<label>__ADP puiul__<label>__NOUN de__<label>__ADP maimuţă__<label>__NOUN 
+cine
+cine__<label>__PRON 
+două
+două__<label>__NUM 
+nu e bine tu nu eşti în regulă
+nu__<label>__PART e__<label>__AUX bine__<label>__ADV tu__<label>__PRON nu__<label>__PART eşti__<label>__NOUN în__<label>__ADP regulă__<label>__NOUN 
+albinuţa bîzz
+albinuţa__<label>__VERB bîzz__<label>__VERB 
+da
+da__<label>__AUX 
+şi cînd întinde mama rufele tu ce dai cîrligul
+şi__<label>__CCONJ cînd__<label>__ADJ întinde__<label>__AUX mama__<label>__NOUN rufele__<label>__NOUN tu__<label>__PRON ce__<label>__PRON dai__<label>__AUX cîrligul__<label>__NOUN 
+cine
+cine__<label>__PRON 
+ca
+ca__<label>__ADV 
+ce spui tu
+ce__<label>__PRON spui__<label>__AUX tu__<label>__PRON 
+www
+www__<label>__PROPN 
+mănînci elefantul
+mănînci__<label>__NUM elefantul__<label>__NOUN 
+cocoş
+cocoş__<label>__ADJ 
+ce frumos e
+ce__<label>__PRON frumos__<label>__ADJ e__<label>__AUX 
+dar ce numărăm
+dar__<label>__CCONJ ce__<label>__PRON numărăm__<label>__VERB 
+da
+da__<label>__AUX 
+pui ai văzut
+pui__<label>__NOUN ai__<label>__AUX văzut__<label>__VERB 
+Kiki
+Kiki__<label>__PROPN 
+căţei
+căţei__<label>__NOUN 
+plici plici
+plici__<label>__NOUN plici__<label>__ADJ 
+ce'i aia
+ce'i__<label>__AUX aia__<label>__PRON 
+bravo
+bravo__<label>__INTJ 
+ce
+ce__<label>__PRON 
+e ghepard
+e__<label>__AUX ghepard__<label>__NOUN 
+da uite fierul de călcat
+da__<label>__ADV uite__<label>__AUX fierul__<label>__NOUN de__<label>__ADP călcat__<label>__VERB 
+găletuşa
+găletuşa__<label>__NOUN 
+e muştar
+e__<label>__AUX muştar__<label>__ADV 
+ce scrii
+ce__<label>__PRON scrii__<label>__AUX 
+cîntă ceasul
+cîntă__<label>__ADJ ceasul__<label>__NOUN 
+Valentina te cheamă pe tine
+Valentina__<label>__PROPN te__<label>__PRON cheamă__<label>__AUX pe__<label>__ADP tine__<label>__PRON 
+xxxx
+xxxx__<label>__ADJ 
+uite+o
+uite+o__<label>__PROPN 
+cîte ai învăţat xxxx
+cîte__<label>__ADV ai__<label>__DET învăţat__<label>__NOUN xxxx__<label>__PROPN 
+a ăsta e tot de Lala
+a__<label>__DET ăsta__<label>__PRON e__<label>__AUX tot__<label>__ADV de__<label>__ADP Lala__<label>__NOUN 
+au
+au__<label>__AUX 
+Lala stă ca o silfidă pe geam
+Lala__<label>__NOUN stă__<label>__AUX ca__<label>__ADV o__<label>__DET silfidă__<label>__NOUN pe__<label>__ADP geam__<label>__NOUN 
+zi
+zi__<label>__NOUN 
+plînge Bianca pe urmă
+plînge__<label>__AUX Bianca__<label>__NOUN pe__<label>__ADP urmă__<label>__NOUN 
+frige lumînarea
+frige__<label>__ADJ lumînarea__<label>__NOUN 
+ia să vedem
+ia__<label>__AUX să__<label>__PART vedem__<label>__VERB 
+de şase luni
+de__<label>__ADP şase__<label>__VERB luni__<label>__NOUN 
+uite regina cea rea
+uite__<label>__AUX regina__<label>__NOUN cea__<label>__PRON rea__<label>__ADJ 
+xxxx
+xxxx__<label>__ADJ 
+cîntă
+cîntă__<label>__ADJ 
+ice sau ige
+ice__<label>__ADJ sau__<label>__CCONJ ige__<label>__ADJ 
+www
+www__<label>__PROPN 
+da
+da__<label>__AUX 
+ce carte cauţi
+ce__<label>__DET carte__<label>__AUX cauţi__<label>__PROPN 
+e cuminte
+e__<label>__AUX cuminte__<label>__ADJ 
+că' i cu susu' n jos
+că__<label>__SCONJ '__<label>__PUNCT i__<label>__PRON cu__<label>__ADP susu__<label>__NOUN '__<label>__PUNCT n__<label>__ADP jos__<label>__ADV 
+ba io
+ba__<label>__ADV io__<label>__ADV 
+da
+da__<label>__AUX 
+dar e o pis rea
+dar__<label>__CCONJ e__<label>__AUX o__<label>__PRON pis__<label>__NOUN rea__<label>__ADJ 
+şi le pui în găletuşă
+şi__<label>__PRON le__<label>__PRON pui__<label>__AUX în__<label>__ADP găletuşă__<label>__PROPN 
+bila
+bila__<label>__NOUN 
+bine
+bine__<label>__ADV 
+xxxx
+xxxx__<label>__ADJ 
+bagă mama limba' n gură că nu' i frumos
+bagă__<label>__VERB mama__<label>__NOUN limba__<label>__NOUN '__<label>__PUNCT n__<label>__ADP gură__<label>__NOUN că__<label>__SCONJ nu__<label>__PART '__<label>__PUNCT i__<label>__PRON frumos__<label>__ADV 
+oricum ăsta nu e în priză băgată
+oricum__<label>__ADV ăsta__<label>__PRON nu__<label>__PART e__<label>__AUX în__<label>__ADP priză__<label>__NOUN băgată__<label>__ADJ 
+le
+le__<label>__PRON 
+şi asta ce e bunica
+şi__<label>__CCONJ asta__<label>__PRON ce__<label>__PRON e__<label>__AUX bunica__<label>__ADJ 
+tu te+ai jucat te joci cu bilele
+tu__<label>__PRON te+ai__<label>__PROPN jucat__<label>__VERB te__<label>__PRON joci__<label>__AUX cu__<label>__ADP bilele__<label>__NOUN 
+xxxx un ou
+xxxx__<label>__ADJ un__<label>__DET ou__<label>__NOUN 
+ia zi mama
+ia__<label>__AUX zi__<label>__NOUN mama__<label>__NOUN 
+uite în spatele tău
+uite__<label>__VERB în__<label>__ADP spatele__<label>__NOUN tău__<label>__DET 
+cum se zice
+cum__<label>__ADV se__<label>__PRON zice__<label>__AUX 
+dar astăzi la creşă a plîns Bianca
+dar__<label>__CCONJ astăzi__<label>__ADV la__<label>__ADP creşă__<label>__NOUN a__<label>__DET plîns__<label>__VERB Bianca__<label>__PROPN 
+hopa
+hopa__<label>__NOUN 
+zi mama
+zi__<label>__NOUN mama__<label>__NOUN 
+unu
+unu__<label>__NUM 
+cine' i aici
+cine__<label>__PRON '__<label>__PUNCT i__<label>__PRON aici__<label>__ADV 
+cactusul
+cactusul__<label>__NOUN 
+Kant sau ce
+Kant__<label>__PROPN sau__<label>__CCONJ ce__<label>__PRON 
+xxxx
+xxxx__<label>__ADJ 
+Papi face prăjituri
+Papi__<label>__PROPN face__<label>__AUX prăjituri__<label>__NOUN 
+aha
+aha__<label>__NOUN 
+ea le are pe toate
+ea__<label>__PRON le__<label>__PRON are__<label>__AUX pe__<label>__ADP toate__<label>__PRON 
+unde
+unde__<label>__ADV 
+pe prosop
+pe__<label>__ADP prosop__<label>__VERB 
+de ce tu eşti maimuţă
+de__<label>__ADP ce__<label>__PRON tu__<label>__PRON eşti__<label>__NOUN maimuţă__<label>__ADJ 
+xxxx
+xxxx__<label>__ADJ 
+şase pui
+şase__<label>__VERB pui__<label>__NOUN 
+hi dar ce ştie Bianca
+hi__<label>__DET dar__<label>__CCONJ ce__<label>__DET ştie__<label>__NOUN Bianca__<label>__PROPN 
+stai cu limba pe' afară
+stai__<label>__VERB cu__<label>__ADP limba__<label>__NOUN pe__<label>__ADP '__<label>__PUNCT afară__<label>__ADV 
+î seamănă
+î__<label>__NOUN seamănă__<label>__VERB 
+bravo
+bravo__<label>__INTJ 
+şoricel da
+şoricel__<label>__PROPN da__<label>__ADV 
+un castel mare
+un__<label>__DET castel__<label>__NOUN mare__<label>__ADJ 
+Antonio
+Antonio__<label>__ADV 
+www
+www__<label>__PROPN 
+sigur
+sigur__<label>__ADV 
+a căzut
+a__<label>__AUX căzut__<label>__VERB 
+ce faci cu şamponul
+ce__<label>__DET faci__<label>__AUX cu__<label>__ADP şamponul__<label>__NOUN 
+care'i albastră
+care'i__<label>__SCONJ albastră__<label>__ADJ 
+gata ai reparat
+gata__<label>__ADV ai__<label>__AUX reparat__<label>__VERB 
+ce'am făcut cu asta albă
+ce'am__<label>__NOUN făcut__<label>__VERB cu__<label>__ADP asta__<label>__PRON albă__<label>__ADJ 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+face şi Antonio
+face__<label>__AUX şi__<label>__CCONJ Antonio__<label>__NOUN 
+dar ce e
+dar__<label>__CCONJ ce__<label>__PRON e__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+l+ai stricat şi pe ăsta
+l+ai__<label>__NOUN stricat__<label>__VERB şi__<label>__CCONJ pe__<label>__ADP ăsta__<label>__PRON 
+facem amîndoi
+facem__<label>__VERB amîndoi__<label>__NOUN 
+poţi
+poţi__<label>__ADJ 
+www
+www__<label>__PROPN 
+ai o pisică
+ai__<label>__AUX o__<label>__DET pisică__<label>__NOUN 
+vrei să fac eu un vizor
+vrei__<label>__AUX să__<label>__PART fac__<label>__AUX eu__<label>__PRON un__<label>__DET vizor__<label>__NOUN 
+Turnul lui Babel
+Turnul__<label>__NOUN lui__<label>__DET Babel__<label>__PROPN 
+aia albastră da
+aia__<label>__PRON albastră__<label>__ADJ da__<label>__ADV 
+cine'a cumpărat oliţa
+cine'a__<label>__PROPN cumpărat__<label>__VERB oliţa__<label>__NOUN 
+Antonio zboară
+Antonio__<label>__ADV zboară__<label>__ADJ 
+www
+www__<label>__PROPN 
+fată da
+fată__<label>__NOUN da__<label>__ADV 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+a ridicat Antonio
+a__<label>__AUX ridicat__<label>__VERB Antonio__<label>__ADV 
+www
+www__<label>__PROPN 
+cine le+a desfăcut
+cine__<label>__PRON le+a__<label>__NOUN desfăcut__<label>__ADJ 
+www
+www__<label>__PROPN 
+cum mamă
+cum__<label>__ADV mamă__<label>__NOUN 
+ce să fac cu astea
+ce__<label>__PRON să__<label>__PART fac__<label>__AUX cu__<label>__ADP astea__<label>__PRON 
+www
+www__<label>__PROPN 
+bai ai acum
+bai__<label>__NOUN ai__<label>__AUX acum__<label>__ADV 
+www
+www__<label>__PROPN 
+cine ţi+a dat şurubelniţa
+cine__<label>__PRON ţi+a__<label>__PROPN dat__<label>__VERB şurubelniţa__<label>__NOUN 
+şi ce să facem cu ea
+şi__<label>__CCONJ ce__<label>__PRON să__<label>__PART facem__<label>__VERB cu__<label>__ADP ea__<label>__PRON 
+gata
+gata__<label>__ADV 
+hai să le mai desfacem o dată
+hai__<label>__NOUN să__<label>__PART le__<label>__PRON mai__<label>__ADV desfacem__<label>__VERB o__<label>__DET dată__<label>__NOUN 
+nu aşa nu'i bine
+nu__<label>__PART aşa__<label>__PRON nu'i__<label>__NOUN bine__<label>__ADV 
+ia vezi dacă xxx
+ia__<label>__AUX vezi__<label>__AUX dacă__<label>__SCONJ xxx__<label>__NOUN 
+""
+"__<label>__PUNCT "__<label>__PUNCT 
+cea verde
+cea__<label>__DET verde__<label>__ADJ 
+el le ia din partea astalaltă
+el__<label>__PRON le__<label>__PRON ia__<label>__AUX din__<label>__ADP partea__<label>__NOUN astalaltă__<label>__ADJ 
+scoate+le
+scoate+le__<label>__PRON 
+scoate+le aşa câte una
+scoate+le__<label>__PRON aşa__<label>__VERB câte__<label>__ADV una__<label>__PRON 
+nu tată ascult+o pe mama
+nu__<label>__PART tată__<label>__VERB ascult+o__<label>__NOUN pe__<label>__ADP mama__<label>__NOUN 
+şi pui în următoarea
+şi__<label>__CCONJ pui__<label>__AUX în__<label>__ADP următoarea__<label>__NOUN 
+e bine e bine
+e__<label>__AUX bine__<label>__ADV e__<label>__AUX bine__<label>__ADV 
+măi figură
+măi__<label>__ADJ figură__<label>__NOUN 
+una
+una__<label>__PRON 
+cu aia mică mică
+cu__<label>__ADP aia__<label>__PRON mică__<label>__ADJ mică__<label>__ADJ 
+fă+le tu
+fă+le__<label>__NOUN tu__<label>__PRON 
+ş+acuma
+ş+acuma__<label>__NOUN 
+ia+o de+acolo tati
+ia+o__<label>__PROPN de+acolo__<label>__PROPN tati__<label>__ADJ 
+iar ne+am grăbit yyy
+iar__<label>__ADV ne+am__<label>__NOUN grăbit__<label>__ADJ yyy__<label>__NOUN 
+şterge praful
+şterge__<label>__AUX praful__<label>__NOUN 
+unde'a fost Bianca
+unde'a__<label>__PUNCT fost__<label>__ADJ Bianca__<label>__NOUN 
+nu mănînci Bianca
+nu__<label>__PART mănînci__<label>__DET Bianca__<label>__NOUN 
+www
+www__<label>__PROPN 
+uşor
+uşor__<label>__ADJ 
+cum
+cum__<label>__ADV 
+cum îl cheamă
+cum__<label>__ADV îl__<label>__PRON cheamă__<label>__VERB 
+ia zi dă+o
+ia__<label>__AUX zi__<label>__NOUN dă+o__<label>__NOUN 
+www
+www__<label>__PROPN 
+închidem şi cu asta gata
+închidem__<label>__AUX şi__<label>__CCONJ cu__<label>__ADP asta__<label>__PRON gata__<label>__ADV 
+hi ce'a făcut pisica
+hi__<label>__DET ce'a__<label>__NOUN făcut__<label>__VERB pisica__<label>__NOUN 
+Cătă
+Cătă__<label>__ADJ 
+cînd mergi cu maşina
+cînd__<label>__NOUN mergi__<label>__AUX cu__<label>__ADP maşina__<label>__NOUN 
+şi ai văzut elefantul
+şi__<label>__CCONJ ai__<label>__AUX văzut__<label>__VERB elefantul__<label>__NOUN 
+cine e
+cine__<label>__PRON e__<label>__AUX 
+vai ce ruşine
+vai__<label>__INTJ ce__<label>__PRON ruşine__<label>__AUX 
+fata şi cu bunica
+fata__<label>__NOUN şi__<label>__CCONJ cu__<label>__ADP bunica__<label>__NOUN 
+morcov da ăla'i morcov
+morcov__<label>__NOUN da__<label>__ADV ăla'i__<label>__PRON morcov__<label>__NOUN 
+aia'i fată
+aia'i__<label>__PRON fată__<label>__NOUN 
+ia fă şi tu
+ia__<label>__AUX fă__<label>__ADP şi__<label>__CCONJ tu__<label>__PRON 
+îţi aduc apă
+îţi__<label>__AUX aduc__<label>__AUX apă__<label>__NOUN 
+o să ajungi cu buza pîn' la buric dacă mai tragi de ea
+o__<label>__PART să__<label>__PART ajungi__<label>__AUX cu__<label>__ADP buza__<label>__NOUN pîn__<label>__NOUN '__<label>__PUNCT la__<label>__ADP buric__<label>__NOUN dacă__<label>__SCONJ mai__<label>__ADV tragi__<label>__ADJ de__<label>__ADP ea__<label>__PRON 
+www
+www__<label>__PROPN 
+aşa
+aşa__<label>__DET 
+şi ce faci acuma o urmăreşti pe Dolly să îi iei mingea
+şi__<label>__CCONJ ce__<label>__PRON faci__<label>__AUX acuma__<label>__ADV o__<label>__DET urmăreşti__<label>__NOUN pe__<label>__ADP Dolly__<label>__PROPN să__<label>__PART îi__<label>__PRON iei__<label>__AUX mingea__<label>__NOUN 
+zi+mi şi mie
+zi+mi__<label>__NOUN şi__<label>__CCONJ mie__<label>__PRON 
+o bunică
+o__<label>__DET bunică__<label>__NOUN 
+e bună pîinea
+e__<label>__AUX bună__<label>__ADJ pîinea__<label>__AUX 
+punem şi mingea
+punem__<label>__VERB şi__<label>__CCONJ mingea__<label>__NOUN 
+şi e mic sau mare
+şi__<label>__CCONJ e__<label>__AUX mic__<label>__ADJ sau__<label>__CCONJ mare__<label>__ADJ 
+nu
+nu__<label>__PART 
+la revedere
+la__<label>__ADP revedere__<label>__NOUN 
+ia zi pînă una alta le miros
+ia__<label>__AUX zi__<label>__NOUN pînă__<label>__NOUN una__<label>__PRON alta__<label>__PRON le__<label>__PRON miros__<label>__AUX 
+şi gigeagigea
+şi__<label>__CCONJ gigeagigea__<label>__AUX 
+dar n+o iei de la început mami
+dar__<label>__CCONJ n+o__<label>__NOUN iei__<label>__AUX de__<label>__ADP la__<label>__ADP început__<label>__NOUN mami__<label>__AUX 
+ce'a făcut
+ce'a__<label>__NOUN făcut__<label>__VERB 
+lasă pîinea afară
+lasă__<label>__VERB pîinea__<label>__VERB afară__<label>__ADV 
+ia spune+i lui mama se descalţă sau nu
+ia__<label>__AUX spune+i__<label>__ADV lui__<label>__PRON mama__<label>__NOUN se__<label>__PRON descalţă__<label>__AUX sau__<label>__CCONJ nu__<label>__PART 
+gata ai luat o şi pe cealaltă
+gata__<label>__ADV ai__<label>__AUX luat__<label>__VERB o__<label>__DET şi__<label>__CCONJ pe__<label>__ADP cealaltă__<label>__DET 
+te+ai jucat azi cu copiii
+te+ai__<label>__ADJ jucat__<label>__VERB azi__<label>__ADV cu__<label>__ADP copiii__<label>__NOUN 
+spune şi tu ce'ai făcut cu elefantul
+spune__<label>__AUX şi__<label>__CCONJ tu__<label>__PRON ce'ai__<label>__PROPN făcut__<label>__VERB cu__<label>__ADP elefantul__<label>__NOUN 
+îî
+îî__<label>__NOUN 
+sau ai mîncat pîine
+sau__<label>__CCONJ ai__<label>__AUX mîncat__<label>__VERB pîine__<label>__ADV 
+ce facem
+ce__<label>__PRON facem__<label>__VERB 
+a fugit după minge
+a__<label>__AUX fugit__<label>__VERB după__<label>__ADP minge__<label>__NOUN 
+ce'ai mîncat
+ce'ai__<label>__PROPN mîncat__<label>__ADJ 
+să te duci tu cu ea
+să__<label>__PART te__<label>__PRON duci__<label>__AUX tu__<label>__PRON cu__<label>__ADP ea__<label>__PRON 
+aia pîine e cealaltă
+aia__<label>__PRON pîine__<label>__ADJ e__<label>__AUX cealaltă__<label>__DET 
+unde+o mîngîi pe Doli
+unde+o__<label>__VERB mîngîi__<label>__ADV pe__<label>__ADP Doli__<label>__PROPN 
+toată ziua+mi cere lapte
+toată__<label>__DET ziua+mi__<label>__NOUN cere__<label>__AUX lapte__<label>__NOUN 
+nu spun
+nu__<label>__PART spun__<label>__AUX 
+marţi
+marţi__<label>__ADV 
+na că face mama altă deşteptăciune
+na__<label>__NOUN că__<label>__SCONJ face__<label>__AUX mama__<label>__NOUN altă__<label>__DET deşteptăciune__<label>__AUX 
+pui un tricou galben
+pui__<label>__AUX un__<label>__DET tricou__<label>__NOUN galben__<label>__NOUN 
+www
+www__<label>__PROPN 
+e bine că te mai văd rîzînd
+e__<label>__AUX bine__<label>__ADV că__<label>__SCONJ te__<label>__PRON mai__<label>__ADV văd__<label>__AUX rîzînd__<label>__NOUN 
+hop
+hop__<label>__NOUN 
+Elena e o tînără înotătoare talentată
+Elena__<label>__PROPN e__<label>__AUX o__<label>__DET tînără__<label>__ADJ înotătoare__<label>__NOUN talentată__<label>__ADJ 
+miroase frumos sau urît
+miroase__<label>__ADJ frumos__<label>__ADV sau__<label>__CCONJ urît__<label>__NOUN 
+iaţi+i
+iaţi+i__<label>__ADJ 
+www
+www__<label>__PROPN 
+nu sînt
+nu__<label>__PART sînt__<label>__PROPN 
+xxxx
+xxxx__<label>__ADJ 
+ce xxx pahar
+ce__<label>__PRON xxx__<label>__NOUN pahar__<label>__PROPN 
+î
+î__<label>__NOUN 
+niamniam pentru tine sau pentru găină
+niamniam__<label>__AUX pentru__<label>__ADP tine__<label>__PRON sau__<label>__CCONJ pentru__<label>__ADP găină__<label>__NOUN 
+mai ţii minte
+mai__<label>__ADV ţii__<label>__DET minte__<label>__NOUN 
+nu fac nani
+nu__<label>__PART fac__<label>__AUX nani__<label>__ADJ 
+aşa
+aşa__<label>__DET 
+şi mîna este în cu mănuşă
+şi__<label>__CCONJ mîna__<label>__ADJ este__<label>__AUX în__<label>__ADP cu__<label>__ADP mănuşă__<label>__PROPN 
+îţi face cu ochiul
+îţi__<label>__AUX face__<label>__AUX cu__<label>__ADP ochiul__<label>__NOUN 
+hai la mama să ia puful
+hai__<label>__NOUN la__<label>__ADP mama__<label>__NOUN să__<label>__PART ia__<label>__AUX puful__<label>__NOUN 
+cucurigu
+cucurigu__<label>__NOUN 
+cafea cu lapte cacao cu lapte
+cafea__<label>__NOUN cu__<label>__ADP lapte__<label>__NOUN cacao__<label>__ADJ cu__<label>__ADP lapte__<label>__NOUN 
+marţi
+marţi__<label>__ADV 
+mama nu că trezim vecinii de dedesubt mami
+mama__<label>__NOUN nu__<label>__PART că__<label>__SCONJ trezim__<label>__VERB vecinii__<label>__NOUN de__<label>__ADP dedesubt__<label>__ADV mami__<label>__AUX 
+la creşă te+a dus
+la__<label>__ADP creşă__<label>__NOUN te+a__<label>__VERB dus__<label>__AUX 
+ăştia sînt maimuţoii tăi de la culcare
+ăştia__<label>__PRON sînt__<label>__NOUN maimuţoii__<label>__DET tăi__<label>__DET de__<label>__ADP la__<label>__ADP culcare__<label>__NOUN 
+Crăciun
+Crăciun__<label>__PROPN 
+cred c' a plecat la creşă
+cred__<label>__AUX c__<label>__NOUN '__<label>__PUNCT a__<label>__AUX plecat__<label>__VERB la__<label>__ADP creşă__<label>__NOUN 
+bine hai aici
+bine__<label>__ADV hai__<label>__NOUN aici__<label>__ADV 
+du+te tu xxxx
+du+te__<label>__PROPN tu__<label>__PRON xxxx__<label>__PROPN 
+e
+e__<label>__AUX 
+cu ce
+cu__<label>__ADP ce__<label>__PRON 
+face nani
+face__<label>__AUX nani__<label>__ADJ 
+ce vrei înot sau schi
+ce__<label>__PRON vrei__<label>__AUX înot__<label>__NOUN sau__<label>__CCONJ schi__<label>__NOUN 
+bine
+bine__<label>__ADV 
+ai ţinut volanul'n mîini
+ai__<label>__AUX ţinut__<label>__VERB volanul'n__<label>__ mîini__<label>__AUX 
+cu ce' a venit tati acasă
+cu__<label>__ADP ce__<label>__PRON '__<label>__PUNCT a__<label>__AUX venit__<label>__VERB tati__<label>__ADV acasă__<label>__ADV 
+î
+î__<label>__NOUN 
+a avut treabă
+a__<label>__AUX avut__<label>__VERB treabă__<label>__NOUN 
+zi marţi
+zi__<label>__NOUN marţi__<label>__ADV 
+ce' ai mîncat la Lala
+ce__<label>__PRON '__<label>__PUNCT ai__<label>__AUX mîncat__<label>__VERB la__<label>__ADP Lala__<label>__NOUN 
+cine e acolo
+cine__<label>__PRON e__<label>__AUX acolo__<label>__ADV 
+gaura aia cred că'i foarte bună
+gaura__<label>__NOUN aia__<label>__DET cred__<label>__AUX că'i__<label>__NOUN foarte__<label>__ADV bună__<label>__ADJ 
+ce'i aia bomboană sau ciocolată
+ce'i__<label>__AUX aia__<label>__PRON bomboană__<label>__ADJ sau__<label>__CCONJ ciocolată__<label>__NOUN 
+aia nu+ţi plăcea
+aia__<label>__PRON nu+ţi__<label>__PROPN plăcea__<label>__PROPN 
+dă şi Antonio
+dă__<label>__AUX şi__<label>__CCONJ Antonio__<label>__NOUN 
+www
+www__<label>__PROPN 
+s+a culcat
+s+a__<label>__NOUN culcat__<label>__ADJ 
+www
+www__<label>__PROPN 
+şi'am luat altul
+şi'am__<label>__NOUN luat__<label>__VERB altul__<label>__PRON 
+mare mare e
+mare__<label>__ADJ mare__<label>__ADJ e__<label>__AUX 
+www
+www__<label>__PROPN 
+dar compot de piersici îţi place
+dar__<label>__CCONJ compot__<label>__AUX de__<label>__ADP piersici__<label>__NOUN îţi__<label>__AUX place__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+l+ai spart nu
+l+ai__<label>__ADJ spart__<label>__NOUN nu__<label>__PART 
+l+am luat
+l+am__<label>__ADP luat__<label>__VERB 
+aia'i mai mare
+aia'i__<label>__AUX mai__<label>__ADV mare__<label>__ADJ 
+nu
+nu__<label>__PART 
+poftim
+poftim__<label>__VERB 
+ce vrei să pui în brad
+ce__<label>__PRON vrei__<label>__AUX să__<label>__PART pui__<label>__AUX în__<label>__ADP brad__<label>__NOUN 
+aoleu
+aoleu__<label>__AUX 
+o bomboană
+o__<label>__DET bomboană__<label>__NOUN 
+www
+www__<label>__PROPN 
+dar cum l+ai spart
+dar__<label>__CCONJ cum__<label>__ADV l+ai__<label>__AUX spart__<label>__AUX 
+de la chiuvetă
+de__<label>__ADP la__<label>__ADP chiuvetă__<label>__NOUN 
+cu unu ajungi cu unu nu
+cu__<label>__ADP unu__<label>__NUM ajungi__<label>__NOUN cu__<label>__ADP unu__<label>__NUM nu__<label>__PART 
+sorcova
+sorcova__<label>__NOUN 
+o+nvîrţi
+o+nvîrţi__<label>__PROPN 
+nu+ţi mai place
+nu+ţi__<label>__ADV mai__<label>__ADV place__<label>__AUX 
+şi mami
+şi__<label>__CCONJ mami__<label>__AUX 
+portocale+ţi plac
+portocale+ţi__<label>__PROPN plac__<label>__AUX 
+nu ştiu ce spune
+nu__<label>__PART ştiu__<label>__AUX ce__<label>__PRON spune__<label>__AUX 
+a plecat lîngă pat
+a__<label>__AUX plecat__<label>__VERB lîngă__<label>__ADJ pat__<label>__ADJ 
+îhî
+îhî__<label>__ADV 
+www
+www__<label>__PROPN 
+ce'i ăsta
+ce'i__<label>__AUX ăsta__<label>__PRON 
+ce'i aia
+ce'i__<label>__AUX aia__<label>__PRON 
+ai vorbit cu el sau a plecat repede
+ai__<label>__AUX vorbit__<label>__VERB cu__<label>__ADP el__<label>__PRON sau__<label>__CCONJ a__<label>__AUX plecat__<label>__VERB repede__<label>__ADV 
+ce să facem
+ce__<label>__PRON să__<label>__PART facem__<label>__VERB 
+cu metroul
+cu__<label>__ADP metroul__<label>__NOUN 
+scoate numai una
+scoate__<label>__AUX numai__<label>__ADV una__<label>__PRON 
+acum gata
+acum__<label>__ADV gata__<label>__ADV 
+sare pe covor
+sare__<label>__AUX pe__<label>__ADP covor__<label>__NOUN 
+dai tu cu aspiratorul
+dai__<label>__ADJ tu__<label>__PRON cu__<label>__ADP aspiratorul__<label>__NOUN 
+ce'a făcut
+ce'a__<label>__NOUN făcut__<label>__VERB 
+e bună aia
+e__<label>__AUX bună__<label>__ADJ aia__<label>__PRON 
+www
+www__<label>__PROPN 
+care e Bembi
+care__<label>__PRON e__<label>__AUX Bembi__<label>__PROPN 
+în băiţă
+în__<label>__ADP băiţă__<label>__NOUN 
+Bianca o muşcă pe pis
+Bianca__<label>__NOUN o__<label>__DET muşcă__<label>__NOUN pe__<label>__ADP pis__<label>__NOUN 
+e vînt acolo pe hol
+e__<label>__AUX vînt__<label>__ADV acolo__<label>__ADV pe__<label>__ADP hol__<label>__NOUN 
+ai mîncat şi orez
+ai__<label>__AUX mîncat__<label>__VERB şi__<label>__CCONJ orez__<label>__ADJ 
+da
+da__<label>__AUX 
+caută şi pompiţa
+caută__<label>__VERB şi__<label>__CCONJ pompiţa__<label>__NOUN 
+şi ăsta
+şi__<label>__CCONJ ăsta__<label>__PRON 
+ba da cine
+ba__<label>__ADV da__<label>__ADV cine__<label>__PRON 
+trimiţi maşina la mine
+trimiţi__<label>__ADJ maşina__<label>__NOUN la__<label>__ADP mine__<label>__PRON 
+ce mănînci
+ce__<label>__PRON mănînci__<label>__NUM 
+unde'i perna
+unde'i__<label>__ perna__<label>__VERB 
+cămila
+cămila__<label>__AUX 
+nu faci nani la creşă
+nu__<label>__PART faci__<label>__AUX nani__<label>__ADJ la__<label>__ADP creşă__<label>__NOUN 
+şi ne dă la ştiri că ni s+a răsturnat maşina
+şi__<label>__CCONJ ne__<label>__PRON dă__<label>__AUX la__<label>__ADP ştiri__<label>__NOUN că__<label>__SCONJ ni__<label>__PRON s+a__<label>__PROPN răsturnat__<label>__ADJ maşina__<label>__NOUN 
+ce să fac
+ce__<label>__PRON să__<label>__PART fac__<label>__AUX 
+cu două cocoaşe
+cu__<label>__ADP două__<label>__NUM cocoaşe__<label>__NOUN 
+hai să vedem
+hai__<label>__NOUN să__<label>__PART vedem__<label>__VERB 
+ce cauţi
+ce__<label>__PRON cauţi__<label>__PROPN 
+şi cum îi spui tu vîntului
+şi__<label>__CCONJ cum__<label>__ADV îi__<label>__PRON spui__<label>__AUX tu__<label>__PRON vîntului__<label>__NOUN 
+e acolo o casă
+e__<label>__AUX acolo__<label>__ADV o__<label>__DET casă__<label>__NOUN 
+nu
+nu__<label>__PART 
+a trecut la locul ei
+a__<label>__AUX trecut__<label>__VERB la__<label>__ADP locul__<label>__NOUN ei__<label>__DET 
+zi avion
+zi__<label>__NOUN avion__<label>__NOUN 
+că la creşă mănîncă şi se joacă cu copiii
+că__<label>__SCONJ la__<label>__ADP creşă__<label>__NOUN mănîncă__<label>__ADJ şi__<label>__CCONJ se__<label>__PRON joacă__<label>__VERB cu__<label>__ADP copiii__<label>__NOUN 
+sînt confortabilă
+sînt__<label>__PROPN confortabilă__<label>__ADJ 
+toţi ăştia sînt căţei
+toţi__<label>__ADV ăştia__<label>__ADJ sînt__<label>__NOUN căţei__<label>__ADJ 
+are peşti în baie logic
+are__<label>__AUX peşti__<label>__NOUN în__<label>__ADP baie__<label>__NOUN logic__<label>__ADJ 
+cu ce v+aţi jucat
+cu__<label>__ADP ce__<label>__PRON v+aţi__<label>__PROPN jucat__<label>__VERB 
+baba face nani
+baba__<label>__NOUN face__<label>__AUX nani__<label>__ADJ 
+înapoi
+înapoi__<label>__ADV 
+dar ce'i ăsta
+dar__<label>__CCONJ ce'i__<label>__AUX ăsta__<label>__PRON 
+ee asta'i maşina care a primit+o tati cadou de Crăciun în nouăzeci şi
+ee__<label>__NOUN asta'i__<label>__NOUN maşina__<label>__NOUN care__<label>__PRON a__<label>__DET primit+o__<label>__PROPN tati__<label>__ADJ cadou__<label>__NOUN de__<label>__ADP Crăciun__<label>__PROPN în__<label>__ADP nouăzeci__<label>__NUM şi__<label>__CCONJ 
+www
+www__<label>__PROPN 
+unde stai aici aici
+unde__<label>__ADV stai__<label>__VERB aici__<label>__ADV aici__<label>__ADV 
+păi spune+i Larisei că Doina a pus barca de dimineaţă cu apă în curte la soare
+păi__<label>__NOUN spune+i__<label>__ADV Larisei__<label>__NOUN că__<label>__SCONJ Doina__<label>__NOUN a__<label>__AUX pus__<label>__VERB barca__<label>__NOUN de__<label>__ADP dimineaţă__<label>__NOUN cu__<label>__ADP apă__<label>__NOUN în__<label>__ADP curte__<label>__NOUN la__<label>__ADP soare__<label>__NOUN 
+bine în afară de îîî
+bine__<label>__ADV în__<label>__ADP afară__<label>__ADV de__<label>__ADP îîî__<label>__NOUN 
+ce personaj din desene ai tu desenat pe tricou
+ce__<label>__PRON personaj__<label>__NOUN din__<label>__ADP desene__<label>__NOUN ai__<label>__DET tu__<label>__PRON desenat__<label>__VERB pe__<label>__ADP tricou__<label>__NOUN 
+unde ai buzunar
+unde__<label>__ADV ai__<label>__AUX buzunar__<label>__NOUN 
+o cheamă şi Cătă
+o__<label>__DET cheamă__<label>__NOUN şi__<label>__CCONJ Cătă__<label>__ADJ 
+ce face cu aia să apăs
+ce__<label>__PRON face__<label>__AUX cu__<label>__ADP aia__<label>__PRON să__<label>__PART apăs__<label>__AUX 
+albina face miere
+albina__<label>__NOUN face__<label>__AUX miere__<label>__NOUN 
+îhî
+îhî__<label>__ADV 
+cine îţi aduce ursul jeleu
+cine__<label>__PRON îţi__<label>__VERB aduce__<label>__AUX ursul__<label>__NOUN jeleu__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+ce'ai făcut
+ce'ai__<label>__NUM făcut__<label>__VERB 
+cazi Antonio
+cazi__<label>__PROPN Antonio__<label>__ADV 
+la picioare
+la__<label>__ADP picioare__<label>__NOUN 
+dă+i+o
+dă+i+o__<label>__VERB 
+Panda
+Panda__<label>__NOUN 
+www
+www__<label>__PROPN 
+să te lase mama să cazi
+să__<label>__PART te__<label>__PRON lase__<label>__AUX mama__<label>__NOUN să__<label>__PART cazi__<label>__AUX 
+uite
+uite__<label>__VERB 
+www
+www__<label>__PROPN 
+Antonio şi+a pus supozitor singur
+Antonio__<label>__ADV şi+a__<label>__PROPN pus__<label>__VERB supozitor__<label>__NOUN singur__<label>__ADJ 
+www
+www__<label>__PROPN 
+ăsta'i garaj pentru maşini mici
+ăsta'i__<label>__PRON garaj__<label>__NOUN pentru__<label>__ADP maşini__<label>__NOUN mici__<label>__ADJ 
+cum eşti
+cum__<label>__ADV eşti__<label>__NOUN 
+nu vrei cu metroul
+nu__<label>__PART vrei__<label>__AUX cu__<label>__ADP metroul__<label>__NOUN 
+lupa da
+lupa__<label>__AUX da__<label>__ADV 
+aşa
+aşa__<label>__DET 
+după ce l ai bătut
+după__<label>__ADP ce__<label>__PRON l__<label>__PRON ai__<label>__AUX bătut__<label>__VERB 
+dai tu telefon
+dai__<label>__ADJ tu__<label>__PRON telefon__<label>__AUX 
+una e atîta
+una__<label>__PRON e__<label>__AUX atîta__<label>__ADJ 
+cade
+cade__<label>__NOUN 
+ce di
+ce__<label>__PRON di__<label>__AUX 
+mami mănîncă bomboane
+mami__<label>__AUX mănîncă__<label>__NOUN bomboane__<label>__ADJ 
+www
+www__<label>__PROPN 
+şi asta ce e
+şi__<label>__CCONJ asta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+www
+www__<label>__PROPN 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+are gaură
+are__<label>__AUX gaură__<label>__NOUN 
+nu pot
+nu__<label>__PART pot__<label>__AUX 
+tototau
+tototau__<label>__VERB 
+şi ce'a făcut la fierar
+şi__<label>__CCONJ ce'a__<label>__ADV făcut__<label>__VERB la__<label>__ADP fierar__<label>__NOUN 
+te+am speriat
+te+am__<label>__NOUN speriat__<label>__VERB 
+aoleu unde e şurubelniţa
+aoleu__<label>__AUX unde__<label>__ADV e__<label>__AUX şurubelniţa__<label>__NUM 
+www
+www__<label>__PROPN 
+ulei
+ulei__<label>__NOUN 
+e bună
+e__<label>__AUX bună__<label>__ADJ 
+www
+www__<label>__PROPN 
+de unde e ursuleţul ăla
+de__<label>__ADP unde__<label>__ADV e__<label>__AUX ursuleţul__<label>__NOUN ăla__<label>__DET 
+www
+www__<label>__PROPN 
+nu înţeleg nimic
+nu__<label>__PART înţeleg__<label>__VERB nimic__<label>__PRON 
+să'ndrepte bicicleta
+să'ndrepte__<label>__VERB bicicleta__<label>__NOUN 
+o bagi în gaură
+o__<label>__DET bagi__<label>__ADJ în__<label>__ADP gaură__<label>__NOUN 
+ce'i asta
+ce'i__<label>__NUM asta__<label>__PRON 
+unde'i buba
+unde'i__<label>__ buba__<label>__NOUN 
+ia zi tu un nume
+ia__<label>__AUX zi__<label>__NOUN tu__<label>__PRON un__<label>__DET nume__<label>__NOUN 
+e găletuşă
+e__<label>__AUX găletuşă__<label>__CCONJ 
+hai ia dă+i şi roşia
+hai__<label>__NOUN ia__<label>__AUX dă+i__<label>__NOUN şi__<label>__CCONJ roşia__<label>__NOUN 
+spune+mi ce ţi+a mai dat tanti Jeni
+spune+mi__<label>__NOUN ce__<label>__PRON ţi+a__<label>__PROPN mai__<label>__ADV dat__<label>__VERB tanti__<label>__NOUN Jeni__<label>__PROPN 
+de unde'ai luat pioneza
+de__<label>__ADP unde'ai__<label>__PRON luat__<label>__VERB pioneza__<label>__NOUN 
+atît
+atît__<label>__ADV 
+c'ai vrut să+i prinzi puii
+c'ai__<label>__AUX vrut__<label>__VERB să+i__<label>__PRON prinzi__<label>__NOUN puii__<label>__NOUN 
+poftim roşie
+poftim__<label>__VERB roşie__<label>__NOUN 
+hap
+hap__<label>__NOUN 
+muscă treci la colţ
+muscă__<label>__ADJ treci__<label>__AUX la__<label>__ADP colţ__<label>__NOUN 
+ce'ai căutat tu
+ce'ai__<label>__PROPN căutat__<label>__VERB tu__<label>__PRON 
+şi pe urmă doare capul
+şi__<label>__CCONJ pe__<label>__ADP urmă__<label>__NOUN doare__<label>__AUX capul__<label>__NOUN 
+nu
+nu__<label>__PART 
+ce'i ăla
+ce'i__<label>__AUX ăla__<label>__PRON 
+hap
+hap__<label>__NOUN 
+cu ce
+cu__<label>__ADP ce__<label>__PRON 
+duminică
+duminică__<label>__ADV 
+mamă ce bun e
+mamă__<label>__NOUN ce__<label>__PRON bun__<label>__ADJ e__<label>__AUX 
+aa
+aa__<label>__DET 
+hi l+ai dărîmat
+hi__<label>__DET l+ai__<label>__AUX dărîmat__<label>__ADJ 
+uneori se ascunde mama acolo Bianca
+uneori__<label>__ADV se__<label>__PRON ascunde__<label>__AUX mama__<label>__NOUN acolo__<label>__ADV Bianca__<label>__NOUN 
+gata ce
+gata__<label>__ADV ce__<label>__PRON 
+scoate
+scoate__<label>__AUX 
+coajă pe talpă
+coajă__<label>__NOUN pe__<label>__ADP talpă__<label>__NOUN 
+haide nu se poate
+haide__<label>__ADJ nu__<label>__PART se__<label>__PRON poate__<label>__AUX 
+mai fă+l o dată
+mai__<label>__ADV fă+l__<label>__NOUN o__<label>__DET dată__<label>__NOUN 
+eu ţi+am mai spus
+eu__<label>__PRON ţi+am__<label>__VERB mai__<label>__ADV spus__<label>__VERB 
+ai ţopăit dintr'o dată
+ai__<label>__AUX ţopăit__<label>__VERB dintr'o__<label>__ dată__<label>__NOUN 
+şi visează
+şi__<label>__CCONJ visează__<label>__VERB 
+ăsta ce e
+ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+uite mai ai aici o bucăţică
+uite__<label>__VERB mai__<label>__ADV ai__<label>__AUX aici__<label>__ADV o__<label>__DET bucăţică__<label>__NOUN 
+uuu te duc te aduc te duc te aduc te duc te aduc
+uuu__<label>__NOUN te__<label>__PRON duc__<label>__AUX te__<label>__PRON aduc__<label>__AUX te__<label>__PRON duc__<label>__AUX te__<label>__PRON aduc__<label>__AUX te__<label>__PRON duc__<label>__AUX te__<label>__PRON aduc__<label>__AUX 
+mai mănînci
+mai__<label>__ADV mănînci__<label>__NUM 
+te rog frumos
+te__<label>__PRON rog__<label>__AUX frumos__<label>__ADV 
+e'n guriţă şi nu mai curge
+e'n__<label>__PRON guriţă__<label>__NOUN şi__<label>__CCONJ nu__<label>__PART mai__<label>__ADV curge__<label>__AUX 
+nu cazi
+nu__<label>__PART cazi__<label>__AUX 
+se joacă Bianca cu bila da
+se__<label>__PRON joacă__<label>__VERB Bianca__<label>__NOUN cu__<label>__ADP bila__<label>__NOUN da__<label>__ADV 
+acolo ţi+a pus tanti Jeni coajă
+acolo__<label>__ADV ţi+a__<label>__PROPN pus__<label>__VERB tanti__<label>__NOUN Jeni__<label>__PROPN coajă__<label>__NOUN 
+aşa mestecă
+aşa__<label>__NOUN mestecă__<label>__VERB 
+ba da
+ba__<label>__ADV da__<label>__ADV 
+cum cînta cocoşul dimineaţa
+cum__<label>__ADV cînta__<label>__VERB cocoşul__<label>__VERB dimineaţa__<label>__PROPN 
+uite ce'o doare
+uite__<label>__VERB ce'o__<label>__ADV doare__<label>__AUX 
+nu mai scoate din gură că e urît
+nu__<label>__PART mai__<label>__ADV scoate__<label>__AUX din__<label>__ADP gură__<label>__NOUN că__<label>__SCONJ e__<label>__AUX urît__<label>__NOUN 
+auzi Bianca ce ţi+a dat mami astăzi să porţi
+auzi__<label>__VERB Bianca__<label>__NOUN ce__<label>__PRON ţi+a__<label>__PROPN dat__<label>__VERB mami__<label>__NOUN astăzi__<label>__ADV să__<label>__PART porţi__<label>__AUX 
+acolo stătea
+acolo__<label>__ADV stătea__<label>__AUX 
+Bianca se ascunde pe'acolo
+Bianca__<label>__NOUN se__<label>__PRON ascunde__<label>__AUX pe'acolo__<label>__ADV 
+ce'i acolo
+ce'i__<label>__AUX acolo__<label>__ADV 
+aicea ăsta e elefant da
+aicea__<label>__AUX ăsta__<label>__DET e__<label>__AUX elefant__<label>__ADJ da__<label>__ADV 
+ce crezi
+ce__<label>__PRON crezi__<label>__AUX 
+păi ori gata ori tata ce'i aia
+păi__<label>__CCONJ ori__<label>__CCONJ gata__<label>__ADV ori__<label>__CCONJ tata__<label>__NOUN ce'i__<label>__NUM aia__<label>__PRON 
+www
+www__<label>__PROPN 
+şi ce i+a făcut
+şi__<label>__CCONJ ce__<label>__PRON i+a__<label>__NOUN făcut__<label>__VERB 
+era cu Dolly da
+era__<label>__AUX cu__<label>__ADP Dolly__<label>__PROPN da__<label>__ADV 
+faci un garaj mic
+faci__<label>__AUX un__<label>__DET garaj__<label>__NOUN mic__<label>__ADJ 
+şi a fost şi Lala cu noi
+şi__<label>__AUX a__<label>__AUX fost__<label>__AUX şi__<label>__CCONJ Lala__<label>__NOUN cu__<label>__ADP noi__<label>__PRON 
+ce e
+ce__<label>__PRON e__<label>__AUX 
+la creşă dar tu ai fost azi la creşă
+la__<label>__ADP creşă__<label>__NOUN dar__<label>__CCONJ tu__<label>__PRON ai__<label>__AUX fost__<label>__VERB azi__<label>__ADV la__<label>__ADP creşă__<label>__NOUN 
+vrei salată de vinete
+vrei__<label>__NOUN salată__<label>__VERB de__<label>__ADP vinete__<label>__NOUN 
+strigă+l Pauli unde eşti
+strigă+l__<label>__PROPN Pauli__<label>__PROPN unde__<label>__ADV eşti__<label>__NOUN 
+eu cred că mami te bate toată ziua
+eu__<label>__PRON cred__<label>__AUX că__<label>__SCONJ mami__<label>__VERB te__<label>__PRON bate__<label>__AUX toată__<label>__DET ziua__<label>__NOUN 
+nu ai mers la piaţă
+nu__<label>__PART ai__<label>__AUX mers__<label>__VERB la__<label>__ADP piaţă__<label>__NOUN 
+da
+da__<label>__AUX 
+www
+www__<label>__PROPN 
+da ce faci acolo
+da__<label>__ADV ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+e un şoricel
+e__<label>__AUX un__<label>__DET şoricel__<label>__NOUN 
+o găină
+o__<label>__DET găină__<label>__NOUN 
+păi du+te şi tu la toaletă cînd vrei să faci aşa ceva
+păi__<label>__CCONJ du+te__<label>__PROPN şi__<label>__CCONJ tu__<label>__PRON la__<label>__ADP toaletă__<label>__NOUN cînd__<label>__ADJ vrei__<label>__ADJ să__<label>__PART faci__<label>__AUX aşa__<label>__DET ceva__<label>__PRON 
+şi tragi trenul după tine
+şi__<label>__CCONJ tragi__<label>__ADJ trenul__<label>__NOUN după__<label>__ADP tine__<label>__PRON 
+merge şi'n pat
+merge__<label>__AUX şi'n__<label>__NOUN pat__<label>__ADJ 
+cum îl strigai
+cum__<label>__ADV îl__<label>__PRON strigai__<label>__VERB 
+ia spune le ascund
+ia__<label>__AUX spune__<label>__NOUN le__<label>__PRON ascund__<label>__AUX 
+şi ieri am mers la peştera Dîmbovicioara
+şi__<label>__CCONJ ieri__<label>__ADV am__<label>__AUX mers__<label>__VERB la__<label>__ADP peştera__<label>__NOUN Dîmbovicioara__<label>__NOUN 
+merge
+merge__<label>__AUX 
+da
+da__<label>__AUX 
+de ce
+de__<label>__ADP ce__<label>__PRON 
+îţi aduce mami apă
+îţi__<label>__NOUN aduce__<label>__AUX mami__<label>__NOUN apă__<label>__NOUN 
+da seamănă cu maşina
+da__<label>__ADV seamănă__<label>__VERB cu__<label>__ADP maşina__<label>__NOUN 
+e rea şi urîtă
+e__<label>__AUX rea__<label>__ADJ şi__<label>__CCONJ urîtă__<label>__ADJ 
+www
+www__<label>__PROPN 
+pînă la baba Măriuţa
+pînă__<label>__NOUN la__<label>__ADP baba__<label>__NOUN Măriuţa__<label>__PROPN 
+da
+da__<label>__AUX 
+îl iubeşti pe şoricel
+îl__<label>__PRON iubeşti__<label>__VERB pe__<label>__ADP şoricel__<label>__PROPN 
+e bun
+e__<label>__AUX bun__<label>__ADJ 
+dar nu vrei să muşti din corn
+dar__<label>__CCONJ nu__<label>__PART vrei__<label>__AUX să__<label>__PART muşti__<label>__NOUN din__<label>__ADP corn__<label>__NOUN 
+hai muşcă
+hai__<label>__NOUN muşcă__<label>__ADJ 
+bagi în gură şi mănînci
+bagi__<label>__ADJ în__<label>__ADP gură__<label>__NOUN şi__<label>__CCONJ mănînci__<label>__NUM 
+şi mama s+a bătut cu ursul în zmeuriş
+şi__<label>__CCONJ mama__<label>__NOUN s+a__<label>__PROPN bătut__<label>__VERB cu__<label>__ADP ursul__<label>__NOUN în__<label>__ADP zmeuriş__<label>__NOUN 
+în gaură bagă pumnul
+în__<label>__ADP gaură__<label>__NOUN bagă__<label>__VERB pumnul__<label>__NOUN 
+facem casă
+facem__<label>__VERB casă__<label>__NOUN 
+sau cu căţelul
+sau__<label>__CCONJ cu__<label>__ADP căţelul__<label>__NOUN 
+ai intrat în peşteră tu
+ai__<label>__AUX intrat__<label>__VERB în__<label>__ADP peşteră__<label>__VERB tu__<label>__PRON 
+www
+www__<label>__PROPN 
+şi vaci
+şi__<label>__CCONJ vaci__<label>__ADJ 
+boierul nu
+boierul__<label>__NOUN nu__<label>__PART 
+bine bine
+bine__<label>__ADV bine__<label>__ADV 
+ce'i ăsta
+ce'i__<label>__AUX ăsta__<label>__PRON 
+tanti Petruţa
+tanti__<label>__NOUN Petruţa__<label>__PROPN 
+facem aşa
+facem__<label>__VERB aşa__<label>__DET 
+ai închis uşa
+ai__<label>__AUX închis__<label>__VERB uşa__<label>__ADJ 
+şi răţoiul Donald
+şi__<label>__CCONJ răţoiul__<label>__NOUN Donald__<label>__PROPN 
+şi pe Bianca o lăsăm singură acasă
+şi__<label>__CCONJ pe__<label>__ADP Bianca__<label>__PROPN o__<label>__PRON lăsăm__<label>__VERB singură__<label>__ADJ acasă__<label>__ADV 
+şi cu fragi
+şi__<label>__CCONJ cu__<label>__ADP fragi__<label>__NOUN 
+acolo cade
+acolo__<label>__ADV cade__<label>__NOUN 
+eşti cuţu cuţu
+eşti__<label>__NOUN cuţu__<label>__PROPN cuţu__<label>__NOUN 
+păi zi şi tu bicicletă
+păi__<label>__ADJ zi__<label>__NOUN şi__<label>__CCONJ tu__<label>__PRON bicicletă__<label>__NOUN 
+îl strigai
+îl__<label>__PRON strigai__<label>__VERB 
+www
+www__<label>__PROPN 
+ai trîntit+o iar pe Larisa
+ai__<label>__DET trîntit+o__<label>__PROPN iar__<label>__ADV pe__<label>__ADP Larisa__<label>__PROPN 
+e bine în leagăn
+e__<label>__AUX bine__<label>__ADV în__<label>__ADP leagăn__<label>__NOUN 
+cu băţul de la aspirator
+cu__<label>__ADP băţul__<label>__NOUN de__<label>__ADP la__<label>__ADP aspirator__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+păi eu nu văd nici un căţel acolo
+păi__<label>__CCONJ eu__<label>__PRON nu__<label>__PART văd__<label>__AUX nici__<label>__ADV un__<label>__DET căţel__<label>__NOUN acolo__<label>__ADV 
+e aici cartea
+e__<label>__AUX aici__<label>__ADV cartea__<label>__NOUN 
+ce faci acolo
+ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+două ce
+două__<label>__NUM ce__<label>__PRON 
+www
+www__<label>__PROPN 
+igadină e accident
+igadină__<label>__NOUN e__<label>__AUX accident__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+dormi
+dormi__<label>__VERB 
+ce faci la măsuţă
+ce__<label>__PRON faci__<label>__AUX la__<label>__ADP măsuţă__<label>__NOUN 
+ce gugudacu
+ce__<label>__PRON gugudacu__<label>__ADJ 
+pun acolo
+pun__<label>__AUX acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+Antonio repară nu
+Antonio__<label>__ADV repară__<label>__ADJ nu__<label>__PART 
+s+a lovit
+s+a__<label>__PROPN lovit__<label>__VERB 
+da
+da__<label>__AUX 
+ce'ai făcut cu prietenii Antonio
+ce'ai__<label>__NUM făcut__<label>__VERB cu__<label>__ADP prietenii__<label>__NOUN Antonio__<label>__ADV 
+adu+l pe Pauli
+adu+l__<label>__AUX pe__<label>__ADP Pauli__<label>__NOUN 
+că ei nu au calorifer nu
+că__<label>__SCONJ ei__<label>__PRON nu__<label>__PART au__<label>__AUX calorifer__<label>__VERB nu__<label>__PART 
+ce scrii
+ce__<label>__PRON scrii__<label>__AUX 
+www
+www__<label>__PROPN 
+strada Unităţii
+strada__<label>__NOUN Unităţii__<label>__NOUN 
+înoată
+înoată__<label>__VERB 
+iar a făcut accident
+iar__<label>__ADV a__<label>__AUX făcut__<label>__VERB accident__<label>__NOUN 
+care+ţi place ţie mai mult de aici
+care+ţi__<label>__PROPN place__<label>__AUX ţie__<label>__NOUN mai__<label>__ADV mult__<label>__ADV de__<label>__ADP aici__<label>__ADV 
+de ce
+de__<label>__ADP ce__<label>__PRON 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+punem maşinile pe masă
+punem__<label>__VERB maşinile__<label>__NOUN pe__<label>__ADP masă__<label>__NOUN 
+n'are jucărie
+n'are__<label>__ADJ jucărie__<label>__NOUN 
+să stai hopa să stai jos
+să__<label>__PART stai__<label>__AUX hopa__<label>__NOUN să__<label>__PART stai__<label>__AUX jos__<label>__ADV 
+ăsta ce e
+ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+şi mai mare te face oul da
+şi__<label>__CCONJ mai__<label>__ADV mare__<label>__ADJ te__<label>__PRON face__<label>__AUX oul__<label>__NOUN da__<label>__VERB 
+ţie+ţi place fripturica
+ţie+ţi__<label>__PROPN place__<label>__AUX fripturica__<label>__NOUN 
+ce fac prietenii tăi
+ce__<label>__PRON fac__<label>__AUX prietenii__<label>__NOUN tăi__<label>__DET 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+o iubeşti da
+o__<label>__DET iubeşti__<label>__NOUN da__<label>__ADV 
+e urîtă
+e__<label>__AUX urîtă__<label>__VERB 
+ce'ai spus mama
+ce'ai__<label>__PROPN spus__<label>__VERB mama__<label>__NOUN 
+poftim
+poftim__<label>__VERB 
+www
+www__<label>__PROPN 
+poc
+poc__<label>__VERB 
+www
+www__<label>__PROPN 
+şi să scrii nu
+şi__<label>__CCONJ să__<label>__PART scrii__<label>__AUX nu__<label>__PART 
+da
+da__<label>__AUX 
+s+ar putea să ajungă în curînd
+s+ar__<label>__NOUN putea__<label>__AUX să__<label>__PART ajungă__<label>__AUX în__<label>__ADP curînd__<label>__NOUN 
+struţul cu struţa
+struţul__<label>__ADJ cu__<label>__ADP struţa__<label>__NOUN 
+dar nu vrei mai bine nişte căpşuni
+dar__<label>__CCONJ nu__<label>__PART vrei__<label>__AUX mai__<label>__ADV bine__<label>__ADV nişte__<label>__ADJ căpşuni__<label>__NOUN 
+ce faci copilul
+ce__<label>__PRON faci__<label>__AUX copilul__<label>__NOUN 
+adică leul e plecat în concediu
+adică__<label>__ADV leul__<label>__NOUN e__<label>__AUX plecat__<label>__VERB în__<label>__ADP concediu__<label>__NOUN 
+aia'i poezie
+aia'i__<label>__ADJ poezie__<label>__NOUN 
+de la cine ştii poeziile astea Bianca
+de__<label>__ADP la__<label>__ADP cine__<label>__PRON ştii__<label>__NOUN poeziile__<label>__NOUN astea__<label>__DET Bianca__<label>__NOUN 
+mai tare
+mai__<label>__ADV tare__<label>__ADV 
+bravo
+bravo__<label>__INTJ 
+nu mănîncă fragile mănîncă ăă iarbă
+nu__<label>__PART mănîncă__<label>__NOUN fragile__<label>__NOUN mănîncă__<label>__ADJ ăă__<label>__PRON iarbă__<label>__NOUN 
+fii atentă că pentru scaunul ăsta ne certăm urît de tot
+fii__<label>__AUX atentă__<label>__ADJ că__<label>__SCONJ pentru__<label>__ADP scaunul__<label>__NOUN ăsta__<label>__DET ne__<label>__PRON certăm__<label>__VERB urît__<label>__ADV de__<label>__ADP tot__<label>__PRON 
+tu eşti Bianca pisica
+tu__<label>__PRON eşti__<label>__NOUN Bianca__<label>__PROPN pisica__<label>__NOUN 
+Bianca se sparge
+Bianca__<label>__NOUN se__<label>__PRON sparge__<label>__AUX 
+păi zi şi tu
+păi__<label>__ADJ zi__<label>__NOUN şi__<label>__CCONJ tu__<label>__PRON 
+păi tu te duci la grupa mare şi eşti bebeluş
+păi__<label>__CCONJ tu__<label>__PRON te__<label>__PRON duci__<label>__AUX la__<label>__ADP grupa__<label>__NOUN mare__<label>__ADJ şi__<label>__CCONJ eşti__<label>__NOUN bebeluş__<label>__VERB 
+care baubau
+care__<label>__PRON baubau__<label>__VERB 
+bravo
+bravo__<label>__INTJ 
+hi
+hi__<label>__DET 
+ba da
+ba__<label>__ADV da__<label>__ADV 
+zi am terminat
+zi__<label>__NOUN am__<label>__AUX terminat__<label>__VERB 
+uite
+uite__<label>__VERB 
+dar pe unde mergi tu cu bicicleta
+dar__<label>__CCONJ pe__<label>__ADP unde__<label>__ADV mergi__<label>__AUX tu__<label>__PRON cu__<label>__ADP bicicleta__<label>__NOUN 
+şi alte poezii mai ştii
+şi__<label>__CCONJ alte__<label>__DET poezii__<label>__NOUN mai__<label>__ADV ştii__<label>__ADJ 
+nu e cămilă
+nu__<label>__PART e__<label>__AUX cămilă__<label>__ADJ 
+şi pe Titi
+şi__<label>__CCONJ pe__<label>__ADP Titi__<label>__PROPN 
+stă în pădure
+stă__<label>__AUX în__<label>__ADP pădure__<label>__NOUN 
+dar cine eşti
+dar__<label>__CCONJ cine__<label>__PRON eşti__<label>__NOUN 
+geamurile le speli
+geamurile__<label>__NOUN le__<label>__PRON speli__<label>__VERB 
+te duci la grupa mare la grădiniţă
+te__<label>__PRON duci__<label>__AUX la__<label>__ADP grupa__<label>__NOUN mare__<label>__ADJ la__<label>__ADP grădiniţă__<label>__NOUN 
+eu sînt Iepurilă
+eu__<label>__PRON sînt__<label>__PROPN Iepurilă__<label>__ADJ 
+dar unde
+dar__<label>__CCONJ unde__<label>__ADV 
+sînt şi băieţi care au cercei
+sînt__<label>__PROPN şi__<label>__CCONJ băieţi__<label>__ADJ care__<label>__PRON au__<label>__AUX cercei__<label>__NOUN 
+nu
+nu__<label>__PART 
+rinoceara
+rinoceara__<label>__ADV 
+da
+da__<label>__AUX 
+unde'i raţa
+unde'i__<label>__DET raţa__<label>__NOUN 
+aşa+l cheamă e Mickey Mouse
+aşa+l__<label>__NOUN cheamă__<label>__VERB e__<label>__AUX Mickey__<label>__X Mouse__<label>__NOUN 
+chiţchiţchiţ
+chiţchiţchiţ__<label>__NOUN 
+Bianca Bianca ce fel de musaca ai făcut
+Bianca__<label>__NOUN Bianca__<label>__PROPN ce__<label>__DET fel__<label>__NOUN de__<label>__ADP musaca__<label>__NOUN ai__<label>__AUX făcut__<label>__VERB 
+dă să ştergem mîna
+dă__<label>__AUX să__<label>__PART ştergem__<label>__VERB mîna__<label>__VERB 
+ce'a spus tanti Jeni cînd te+a văzut plîngînd
+ce'a__<label>__DET spus__<label>__VERB tanti__<label>__NOUN Jeni__<label>__PROPN cînd__<label>__ADJ te+a__<label>__ADV văzut__<label>__VERB plîngînd__<label>__CCONJ 
+e supărată acuma e supărată moţata
+e__<label>__AUX supărată__<label>__VERB acuma__<label>__ADV e__<label>__AUX supărată__<label>__VERB moţata__<label>__NOUN 
+uau bravo
+uau__<label>__VERB bravo__<label>__INTJ 
+dar ce eşti
+dar__<label>__CCONJ ce__<label>__PRON eşti__<label>__NOUN 
+nu
+nu__<label>__PART 
+mami a zis c'aduce raţa şi cînd colo
+mami__<label>__PROPN a__<label>__AUX zis__<label>__VERB c'aduce__<label>__VERB raţa__<label>__NOUN şi__<label>__CCONJ cînd__<label>__NOUN colo__<label>__ADV 
+dar i+ai spus Larisei că te+a zgîriat cine te+a zgîriat unde te+a zgîriat
+dar__<label>__CCONJ i+ai__<label>__PROPN spus__<label>__VERB Larisei__<label>__PROPN că__<label>__SCONJ te+a__<label>__NOUN zgîriat__<label>__NOUN cine__<label>__PRON te+a__<label>__NOUN zgîriat__<label>__NOUN unde__<label>__ADV te+a__<label>__PRON zgîriat__<label>__NOUN 
+cu cartofi
+cu__<label>__ADP cartofi__<label>__NOUN 
+da
+da__<label>__AUX 
+şi raţa s+a dus la pădure
+şi__<label>__CCONJ raţa__<label>__NOUN s+a__<label>__PROPN dus__<label>__VERB la__<label>__ADP pădure__<label>__NOUN 
+e maşină pentru Bianca
+e__<label>__AUX maşină__<label>__NOUN pentru__<label>__ADP Bianca__<label>__NOUN 
+ai un băieţel Eric acolo
+ai__<label>__AUX un__<label>__DET băieţel__<label>__ADJ Eric__<label>__NOUN acolo__<label>__ADV 
+beeee
+beeee__<label>__NOUN 
+care raţă
+care__<label>__PRON raţă__<label>__AUX 
+pun acolo
+pun__<label>__AUX acolo__<label>__ADV 
+alaltă seară te+am văzut c'ai spălat+o în piscină i+ai făcut baie pe cap la picioare
+alaltă__<label>__VERB seară__<label>__ADV te+am__<label>__ADJ văzut__<label>__VERB c'ai__<label>__AUX spălat+o__<label>__AUX în__<label>__ADP piscină__<label>__NOUN i+ai__<label>__PROPN făcut__<label>__VERB baie__<label>__NOUN pe__<label>__ADP cap__<label>__NOUN la__<label>__ADP picioare__<label>__NOUN 
+ia zi maimuţică
+ia__<label>__AUX zi__<label>__NOUN maimuţică__<label>__ADJ 
+ţi+o aduc înapoi mîine
+ţi+o__<label>__NOUN aduc__<label>__AUX înapoi__<label>__ADV mîine__<label>__NOUN 
+îţi zic eu că acolo cred că e
+îţi__<label>__NOUN zic__<label>__ADV eu__<label>__PRON că__<label>__SCONJ acolo__<label>__ADV cred__<label>__AUX că__<label>__SCONJ e__<label>__AUX 
+seminţe
+seminţe__<label>__NOUN 
+cu leuştean
+cu__<label>__ADP leuştean__<label>__NOUN 
+www
+www__<label>__PROPN 
+strigă+i şi pe ei
+strigă+i__<label>__PROPN şi__<label>__CCONJ pe__<label>__ADP ei__<label>__PRON 
+dar ce eşti oiţă
+dar__<label>__CCONJ ce__<label>__PRON eşti__<label>__NOUN oiţă__<label>__ADV 
+acolo
+acolo__<label>__ADV 
+că altfel se opreşte în picioruşe
+că__<label>__SCONJ altfel__<label>__ADV se__<label>__PRON opreşte__<label>__AUX în__<label>__ADP picioruşe__<label>__NOUN 
+să meargă Bianca la borş
+să__<label>__PART meargă__<label>__AUX Bianca__<label>__NOUN la__<label>__ADP borş__<label>__NOUN 
+de cartofi
+de__<label>__ADP cartofi__<label>__NOUN 
+nu poţi
+nu__<label>__PART poţi__<label>__AUX 
+patru vrei
+patru__<label>__NUM vrei__<label>__NOUN 
+www
+www__<label>__PROPN 
+ce'a făcut macaraua
+ce'a__<label>__NOUN făcut__<label>__VERB macaraua__<label>__NOUN 
+şi mai ce
+şi__<label>__CCONJ mai__<label>__ADV ce__<label>__PRON 
+uite
+uite__<label>__VERB 
+nu vrea el
+nu__<label>__PART vrea__<label>__AUX el__<label>__PRON 
+două
+două__<label>__NUM 
+cu cine ai făcut baie
+cu__<label>__ADP cine__<label>__PRON ai__<label>__AUX făcut__<label>__VERB baie__<label>__NOUN 
+www
+www__<label>__PROPN 
+una mare sigur
+una__<label>__PRON mare__<label>__ADJ sigur__<label>__ADV 
+îhî
+îhî__<label>__ADV 
+numai fripturici mănîncă Pauli ăsta
+numai__<label>__ADV fripturici__<label>__NOUN mănîncă__<label>__ADJ Pauli__<label>__PROPN ăsta__<label>__DET 
+una linie mică
+una__<label>__PRON linie__<label>__NOUN mică__<label>__ADJ 
+www
+www__<label>__PROPN 
+bravo
+bravo__<label>__INTJ 
+multă nu
+multă__<label>__DET nu__<label>__PART 
+şi ăsta e bleu
+şi__<label>__CCONJ ăsta__<label>__PRON e__<label>__AUX bleu__<label>__PROPN 
+nu te las
+nu__<label>__PART te__<label>__PRON las__<label>__AUX 
+păi n'avem
+păi__<label>__CCONJ n'avem__<label>__NOUN 
+e de la o maşină
+e__<label>__AUX de__<label>__ADP la__<label>__ADP o__<label>__DET maşină__<label>__NOUN 
+a făcut baie aseară şi
+a__<label>__AUX făcut__<label>__VERB baie__<label>__NOUN aseară__<label>__ADJ şi__<label>__CCONJ 
+n de la Nana
+n__<label>__NOUN de__<label>__ADP la__<label>__ADP Nana__<label>__PROPN 
+www
+www__<label>__PROPN 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+cu ce+l plimbi mamă pe Pauli
+cu__<label>__ADP ce+l__<label>__PROPN plimbi__<label>__VERB mamă__<label>__NOUN pe__<label>__ADP Pauli__<label>__NOUN 
+cum spui tu castel
+cum__<label>__ADV spui__<label>__AUX tu__<label>__PRON castel__<label>__PRON 
+ce i+ai dat lui Pauli
+ce__<label>__PRON i+ai__<label>__PROPN dat__<label>__VERB lui__<label>__DET Pauli__<label>__PROPN 
+bravo fetiţa bravo
+bravo__<label>__INTJ fetiţa__<label>__NOUN bravo__<label>__ADJ 
+şi încă una
+şi__<label>__CCONJ încă__<label>__ADV una__<label>__PRON 
+Denisa
+Denisa__<label>__ADV 
+nu e bine nu e bine mamă
+nu__<label>__PART e__<label>__AUX bine__<label>__ADV nu__<label>__PART e__<label>__AUX bine__<label>__ADV mamă__<label>__NOUN 
+hopa o ridică Sori
+hopa__<label>__PROPN o__<label>__DET ridică__<label>__NOUN Sori__<label>__ADV 
+ce are
+ce__<label>__PRON are__<label>__AUX 
+aicia
+aicia__<label>__NOUN 
+nu nu
+nu__<label>__PART nu__<label>__PART 
+acuma galben la albastru
+acuma__<label>__ADV galben__<label>__NOUN la__<label>__ADP albastru__<label>__NOUN 
+ia+le pe toate afară şi le pui aici
+ia+le__<label>__VERB pe__<label>__ADP toate__<label>__PRON afară__<label>__ADV şi__<label>__CCONJ le__<label>__PRON pui__<label>__AUX aici__<label>__ADV 
+şi mânuţele câte mânuţe are răţoiul
+şi__<label>__CCONJ mânuţele__<label>__NOUN câte__<label>__DET mânuţe__<label>__PROPN are__<label>__AUX răţoiul__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+bravo mai facem o dată
+bravo__<label>__INTJ mai__<label>__ADV facem__<label>__VERB o__<label>__DET dată__<label>__NOUN 
+hei bravo
+hei__<label>__NOUN bravo__<label>__ADJ 
+nu cu mânuţa aia
+nu__<label>__PART cu__<label>__ADP mânuţa__<label>__NOUN aia__<label>__DET 
+da
+da__<label>__AUX 
+da
+da__<label>__AUX 
+albastru albastru am spus Deni nu roşu
+albastru__<label>__NOUN albastru__<label>__NOUN am__<label>__AUX spus__<label>__VERB Deni__<label>__PROPN nu__<label>__PART roşu__<label>__VERB 
+cum punem
+cum__<label>__ADV punem__<label>__VERB 
+mai facem o dată bine
+mai__<label>__ADV facem__<label>__VERB o__<label>__DET dată__<label>__NOUN bine__<label>__ADV 
+la galben
+la__<label>__ADP galben__<label>__NOUN 
+nu'i bine
+nu'i__<label>__NOUN bine__<label>__ADV 
+nu se poate
+nu__<label>__PART se__<label>__PRON poate__<label>__AUX 
+www
+www__<label>__PROPN 
+mai trebuie să+i spui curcă plouată
+mai__<label>__ADV trebuie__<label>__VERB să+i__<label>__NOUN spui__<label>__AUX curcă__<label>__NOUN plouată__<label>__ADJ 
+nu e bună
+nu__<label>__PART e__<label>__AUX bună__<label>__ADJ 
+bine
+bine__<label>__ADV 
+nu e nici o carte acolo
+nu__<label>__PART e__<label>__AUX nici__<label>__ADV o__<label>__DET carte__<label>__NOUN acolo__<label>__ADV 
+ba da
+ba__<label>__ADV da__<label>__ADV 
+gata
+gata__<label>__ADV 
+nu
+nu__<label>__PART 
+bunuţi
+bunuţi__<label>__PROPN 
+care cal
+care__<label>__PRON cal__<label>__AUX 
+bine
+bine__<label>__ADV 
+unde'i papagalul Bianca
+unde'i__<label>__ADP papagalul__<label>__NOUN Bianca__<label>__PROPN 
+şi vine şi Alexandra
+şi__<label>__CCONJ vine__<label>__AUX şi__<label>__CCONJ Alexandra__<label>__PROPN 
+care babă
+care__<label>__PRON babă__<label>__VERB 
+n'a vrut ea să mănînce orez cu lapte
+n'a__<label>__PROPN vrut__<label>__AUX ea__<label>__PRON să__<label>__PART mănînce__<label>__AUX orez__<label>__ADV cu__<label>__ADP lapte__<label>__NOUN 
+hai să te+aud
+hai__<label>__NOUN să__<label>__PART te+aud__<label>__NOUN 
+de ce'ai luat+o la tine
+de__<label>__ADP ce'ai__<label>__PROPN luat+o__<label>__PROPN la__<label>__ADP tine__<label>__PRON 
+ce ne+aduci
+ce__<label>__PRON ne+aduci__<label>__NOUN 
+pentru asta trebuie să faci aşa o placă mare
+pentru__<label>__ADP asta__<label>__PRON trebuie__<label>__VERB să__<label>__PART faci__<label>__AUX aşa__<label>__AUX o__<label>__DET placă__<label>__NOUN mare__<label>__ADJ 
+www
+www__<label>__PROPN 
+da
+da__<label>__AUX 
+tu ştii cît înseamnă trei sute de ani
+tu__<label>__PRON ştii__<label>__NOUN cît__<label>__ADJ înseamnă__<label>__VERB trei__<label>__NUM sute__<label>__NUM de__<label>__ADP ani__<label>__NOUN 
+ce e Horaţiu
+ce__<label>__PRON e__<label>__AUX Horaţiu__<label>__PROPN 
+şi am făcut şi orez
+şi__<label>__CCONJ am__<label>__AUX făcut__<label>__VERB şi__<label>__CCONJ orez__<label>__ADJ 
+cum au fugit
+cum__<label>__ADV au__<label>__AUX fugit__<label>__VERB 
+ia zi am ţinut de mixer
+ia__<label>__AUX zi__<label>__NOUN am__<label>__AUX ţinut__<label>__VERB de__<label>__ADP mixer__<label>__VERB 
+ia să văd şi eu unde stătea puiuţul ia
+ia__<label>__AUX să__<label>__PART văd__<label>__AUX şi__<label>__CCONJ eu__<label>__PRON unde__<label>__ADV stătea__<label>__AUX puiuţul__<label>__NOUN ia__<label>__AUX 
+du+o acolo
+du+o__<label>__PROPN acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+domnişorica ştii cumva unde'i Bianca
+domnişorica__<label>__NOUN ştii__<label>__NOUN cumva__<label>__ADV unde'i__<label>__ Bianca__<label>__NOUN 
+o vede cineva
+o__<label>__PRON vede__<label>__AUX cineva__<label>__PRON 
+tanti Puşa
+tanti__<label>__NOUN Puşa__<label>__NOUN 
+şi ăsta
+şi__<label>__CCONJ ăsta__<label>__PRON 
+ba da
+ba__<label>__ADV da__<label>__ADV 
+şi asta e capra
+şi__<label>__CCONJ asta__<label>__PRON e__<label>__AUX capra__<label>__NOUN 
+ăla de ce+l desfaci
+ăla__<label>__PRON de__<label>__ADP ce+l__<label>__NOUN desfaci__<label>__NOUN 
+şi eu dacă te muşc şi eu te superi pe mine
+şi__<label>__CCONJ eu__<label>__PRON dacă__<label>__SCONJ te__<label>__PRON muşc__<label>__VERB şi__<label>__CCONJ eu__<label>__PRON te__<label>__PRON superi__<label>__AUX pe__<label>__ADP mine__<label>__PRON 
+şi cum făcea
+şi__<label>__CCONJ cum__<label>__ADV făcea__<label>__AUX 
+ca să le punem în pămînt şi să avem alt gogoşar
+ca__<label>__ADV să__<label>__PART le__<label>__PRON punem__<label>__VERB în__<label>__ADP pămînt__<label>__NOUN şi__<label>__CCONJ să__<label>__PART avem__<label>__VERB alt__<label>__DET gogoşar__<label>__NOUN 
+de ce nu
+de__<label>__ADP ce__<label>__PRON nu__<label>__PART 
+ce faci acolo
+ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+piure cu cartofi
+piure__<label>__ADJ cu__<label>__ADP cartofi__<label>__NOUN 
+www
+www__<label>__PROPN 
+şi unde te duci acuma
+şi__<label>__CCONJ unde__<label>__ADV te__<label>__PRON duci__<label>__AUX acuma__<label>__ADV 
+păi te rog frumos de'acum înainte aşa să+i spui
+păi__<label>__CCONJ te__<label>__PRON rog__<label>__AUX frumos__<label>__ADV de'acum__<label>__ADV înainte__<label>__ADV aşa__<label>__NOUN să+i__<label>__PROPN spui__<label>__ADJ 
+n'am auzit a ai biscuiţi în gură
+n'am__<label>__NOUN auzit__<label>__VERB a__<label>__DET ai__<label>__DET biscuiţi__<label>__ADJ în__<label>__ADP gură__<label>__NOUN 
+Bianca ţi+e foame
+Bianca__<label>__NOUN ţi+e__<label>__NOUN foame__<label>__NOUN 
+da sau nu că n'aud
+da__<label>__ADV sau__<label>__CCONJ nu__<label>__PART că__<label>__SCONJ n'aud__<label>__PROPN 
+au scăpat din casă de la nenea bufniţă
+au__<label>__AUX scăpat__<label>__VERB din__<label>__ADP casă__<label>__NOUN de__<label>__ADP la__<label>__ADP nenea__<label>__NOUN bufniţă__<label>__ADJ 
+hai
+hai__<label>__NOUN 
+bufniţa să fie şi prieteta ta şi prietena Larisei
+bufniţa__<label>__PRON să__<label>__PART fie__<label>__AUX şi__<label>__X prieteta__<label>__NOUN ta__<label>__DET şi__<label>__CCONJ prietena__<label>__NOUN Larisei__<label>__PROPN 
+sau aşa
+sau__<label>__CCONJ aşa__<label>__DET 
+îl mănînci şi pe biscuitele care e la Larisa
+îl__<label>__PRON mănînci__<label>__NUM şi__<label>__CCONJ pe__<label>__ADP biscuitele__<label>__NOUN care__<label>__PRON e__<label>__AUX la__<label>__ADP Larisa__<label>__PROPN 
+au venit
+au__<label>__AUX venit__<label>__VERB 
+vrăjitoarea
+vrăjitoarea__<label>__NOUN 
+unde'ai fost tu ieri cu mami
+unde'ai__<label>__AUX fost__<label>__ADJ tu__<label>__PRON ieri__<label>__ADV cu__<label>__ADP mami__<label>__NOUN 
+în picioare aici pe masă sufli
+în__<label>__ADP picioare__<label>__NOUN aici__<label>__ADV pe__<label>__ADP masă__<label>__NOUN sufli__<label>__ADJ 
+ce'ai făcut cu maşina
+ce'ai__<label>__NUM făcut__<label>__VERB cu__<label>__ADP maşina__<label>__NOUN 
+te urci în macara
+te__<label>__PRON urci__<label>__AUX în__<label>__ADP macara__<label>__NOUN 
+da
+da__<label>__AUX 
+în găleata de gunoi
+în__<label>__ADP găleata__<label>__NOUN de__<label>__ADP gunoi__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+ăsta ce e
+ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+ce eşti chinez acuma
+ce__<label>__PRON eşti__<label>__NOUN chinez__<label>__ADJ acuma__<label>__ADV 
+o uşă mare
+o__<label>__DET uşă__<label>__NOUN mare__<label>__ADJ 
+bravo
+bravo__<label>__INTJ 
+şterge tu
+şterge__<label>__AUX tu__<label>__PRON 
+www
+www__<label>__PROPN 
+din cuburi
+din__<label>__ADP cuburi__<label>__NOUN 
+www
+www__<label>__PROPN 
+mama toarce lînă nu
+mama__<label>__NOUN toarce__<label>__ADV lînă__<label>__NOUN nu__<label>__PART 
+vai ce ruşine
+vai__<label>__INTJ ce__<label>__PRON ruşine__<label>__AUX 
+că
+că__<label>__SCONJ 
+că nu ce
+că__<label>__SCONJ nu__<label>__PART ce__<label>__PRON 
+daţi+mi vă rog frumos carnetul
+daţi+mi__<label>__NOUN vă__<label>__PRON rog__<label>__AUX frumos__<label>__ADV carnetul__<label>__NOUN 
+nu treci şi tu
+nu__<label>__PART treci__<label>__AUX şi__<label>__CCONJ tu__<label>__PRON 
+gata ce
+gata__<label>__ADV ce__<label>__PRON 
+ăsta uite se poate aici aşa să+l pui
+ăsta__<label>__PRON uite__<label>__ADJ se__<label>__PRON poate__<label>__AUX aici__<label>__VERB aşa__<label>__PROPN să+l__<label>__NOUN pui__<label>__VERB 
+cred că se hotărăşte moş Crăciun să vină de'acum vara la mare
+cred__<label>__AUX că__<label>__SCONJ se__<label>__PRON hotărăşte__<label>__AUX moş__<label>__VERB Crăciun__<label>__PROPN să__<label>__PART vină__<label>__AUX de'acum__<label>__AUX vara__<label>__ADV la__<label>__ADP mare__<label>__ADJ 
+cum îi faci
+cum__<label>__ADV îi__<label>__PRON faci__<label>__AUX 
+ăsta
+ăsta__<label>__PRON 
+ce'ai mîncat la creşă azi
+ce'ai__<label>__PROPN mîncat__<label>__VERB la__<label>__ADP creşă__<label>__NOUN azi__<label>__ADV 
+ce îmi dai se spune
+ce__<label>__PRON îmi__<label>__PRON dai__<label>__AUX se__<label>__PRON spune__<label>__AUX 
+îţi place zăpada
+îţi__<label>__AUX place__<label>__AUX zăpada__<label>__NOUN 
+oo Bianca
+oo__<label>__ADP Bianca__<label>__NOUN 
+aşa stai şi la creşă să te joci
+aşa__<label>__NOUN stai__<label>__ADJ şi__<label>__CCONJ la__<label>__ADP creşă__<label>__NOUN să__<label>__PART te__<label>__PRON joci__<label>__AUX 
+unde
+unde__<label>__ADV 
+îhî acuma ce faci
+îhî__<label>__ADP acuma__<label>__ADV ce__<label>__DET faci__<label>__AUX 
+te doare ceva
+te__<label>__PRON doare__<label>__AUX ceva__<label>__PRON 
+sănătate hai la mama
+sănătate__<label>__NOUN hai__<label>__NOUN la__<label>__ADP mama__<label>__NOUN 
+şi o castel sau un castel
+şi__<label>__CCONJ o__<label>__DET castel__<label>__NOUN sau__<label>__CCONJ un__<label>__DET castel__<label>__NOUN 
+uite gaură
+uite__<label>__ADJ gaură__<label>__NOUN 
+ba da mami se poate
+ba__<label>__ADV da__<label>__ADV mami__<label>__PROPN se__<label>__PRON poate__<label>__AUX 
+copilul canibal
+copilul__<label>__NOUN canibal__<label>__ADJ 
+păi strig+o să iasă la poartă
+păi__<label>__ADJ strig+o__<label>__PROPN să__<label>__PART iasă__<label>__AUX la__<label>__ADP poartă__<label>__NOUN 
+ajunge
+ajunge__<label>__AUX 
+plînge sau nu
+plînge__<label>__AUX sau__<label>__CCONJ nu__<label>__PART 
+e frumoasă
+e__<label>__AUX frumoasă__<label>__ADJ 
+stai pe pernă
+stai__<label>__VERB pe__<label>__ADP pernă__<label>__NOUN 
+Bianca
+Bianca__<label>__NOUN 
+eu
+eu__<label>__PRON 
+Bianca dar tu n'ai dormit astăzi
+Bianca__<label>__NOUN dar__<label>__CCONJ tu__<label>__PRON n'ai__<label>__NOUN dormit__<label>__VERB astăzi__<label>__ADV 
+dar nu ştiu ce să+ţi dau
+dar__<label>__CCONJ nu__<label>__PART ştiu__<label>__AUX ce__<label>__PRON să+ţi__<label>__ADV dau__<label>__AUX 
+caseta sau bebeluşii
+caseta__<label>__AUX sau__<label>__CCONJ bebeluşii__<label>__NOUN 
+c'a fost ziua ei
+c'a__<label>__NOUN fost__<label>__ADJ ziua__<label>__NOUN ei__<label>__DET 
+actele vă rog
+actele__<label>__NOUN vă__<label>__PRON rog__<label>__AUX 
+puţin vine
+puţin__<label>__NOUN vine__<label>__AUX 
+ba eu cred că sînt cam puţine
+ba__<label>__ADV eu__<label>__PRON cred__<label>__AUX că__<label>__SCONJ sînt__<label>__PROPN cam__<label>__ADV puţine__<label>__PROPN 
+aicea pe jos
+aicea__<label>__AUX pe__<label>__ADP jos__<label>__ADV 
+Larisa a venit la tine să vorbească să se joace cu tine
+Larisa__<label>__PROPN a__<label>__AUX venit__<label>__VERB la__<label>__ADP tine__<label>__PRON să__<label>__PART vorbească__<label>__AUX să__<label>__PART se__<label>__PRON joace__<label>__AUX cu__<label>__ADP tine__<label>__PRON 
+c'ajungi mai repede la munte cu bicicleta
+c'ajungi__<label>__NOUN mai__<label>__ADV repede__<label>__ADV la__<label>__ADP munte__<label>__NOUN cu__<label>__ADP bicicleta__<label>__NOUN 
+ţinte
+ţinte__<label>__NOUN 
+aa dar tu mami pleci la munte
+aa__<label>__DET dar__<label>__CCONJ tu__<label>__PRON mami__<label>__AUX pleci__<label>__AUX la__<label>__ADP munte__<label>__NOUN 
+cum îl faci
+cum__<label>__ADV îl__<label>__PRON faci__<label>__AUX 
+iar te cocoţi
+iar__<label>__ADV te__<label>__PRON cocoţi__<label>__AUX 
+acolo e
+acolo__<label>__ADV e__<label>__AUX 
+www
+www__<label>__PROPN 
+cu jucăriile de plastic
+cu__<label>__ADP jucăriile__<label>__NOUN de__<label>__ADP plastic__<label>__NOUN 
+din ce sînt jucăriile astea din lemn
+din__<label>__ADP ce__<label>__PRON sînt__<label>__PROPN jucăriile__<label>__NOUN astea__<label>__DET din__<label>__ADP lemn__<label>__NOUN 
+www
+www__<label>__PROPN 
+mănînci tu
+mănînci__<label>__NUM tu__<label>__PRON 
+lasă nu mai pune tu piciorul pe aia
+lasă__<label>__VERB nu__<label>__PART mai__<label>__ADV pune__<label>__AUX tu__<label>__PRON piciorul__<label>__NOUN pe__<label>__ADP aia__<label>__PRON 
+ce mîncare le faci mamă
+ce__<label>__PRON mîncare__<label>__NOUN le__<label>__PRON faci__<label>__AUX mamă__<label>__NOUN 
+făcea ouă
+făcea__<label>__AUX ouă__<label>__NOUN 
+e Nana aici
+e__<label>__AUX Nana__<label>__PROPN aici__<label>__ADV 
+www
+www__<label>__PROPN 
+eşti mare acuma nu te mai poate ţine
+eşti__<label>__NOUN mare__<label>__ADJ acuma__<label>__ADV nu__<label>__PART te__<label>__PRON mai__<label>__ADV poate__<label>__AUX ţine__<label>__VERB 
+cu ăştia
+cu__<label>__ADP ăştia__<label>__PRON 
+ştii unde e
+ştii__<label>__NOUN unde__<label>__ADV e__<label>__AUX 
+şi cum striga cocoşul
+şi__<label>__CCONJ cum__<label>__ADV striga__<label>__VERB cocoşul__<label>__VERB 
+e de mîncare
+e__<label>__AUX de__<label>__ADP mîncare__<label>__NOUN 
+www
+www__<label>__PROPN 
+e sare aia nu'i bubă
+e__<label>__AUX sare__<label>__NOUN aia__<label>__PRON nu'i__<label>__ADJ bubă__<label>__ADJ 
+www
+www__<label>__PROPN 
+aoleo ce ruşine e
+aoleo__<label>__ADV ce__<label>__DET ruşine__<label>__AUX e__<label>__AUX 
+www
+www__<label>__PROPN 
+mai bei mult din compotul ăla
+mai__<label>__ADV bei__<label>__AUX mult__<label>__ADV din__<label>__ADP compotul__<label>__NOUN ăla__<label>__DET 
+să te mai leg o dată nu
+să__<label>__PART te__<label>__PRON mai__<label>__ADV leg__<label>__AUX o__<label>__DET dată__<label>__NOUN nu__<label>__PART 
+www
+www__<label>__PROPN 
+iar te sui în pom
+iar__<label>__ADV te__<label>__PRON sui__<label>__AUX în__<label>__ADP pom__<label>__NOUN 
+www
+www__<label>__PROPN 
+n'are picioare
+n'are__<label>__ADJ picioare__<label>__ADJ 
+iei ţigara şi lucrezi cu ţigara
+iei__<label>__AUX ţigara__<label>__NOUN şi__<label>__CCONJ lucrezi__<label>__AUX cu__<label>__ADP ţigara__<label>__NOUN 
+şi ăsta aici ce e
+şi__<label>__CCONJ ăsta__<label>__PRON aici__<label>__ADV ce__<label>__PRON e__<label>__AUX 
+desene
+desene__<label>__NOUN 
+cu ce te+a lega mami
+cu__<label>__ADP ce__<label>__PRON te+a__<label>__PRON lega__<label>__AUX mami__<label>__PROPN 
+www
+www__<label>__PROPN 
+faci mîncare la soldaţi şi la Pauli nu
+faci__<label>__NOUN mîncare__<label>__ADJ la__<label>__ADP soldaţi__<label>__PROPN şi__<label>__CCONJ la__<label>__ADP Pauli__<label>__PROPN nu__<label>__PART 
+ce'ai făcut
+ce'ai__<label>__NUM făcut__<label>__VERB 
+te+ai împiedicat
+te+ai__<label>__ADJ împiedicat__<label>__ADJ 
+pîine mămăligă
+pîine__<label>__ADV mămăligă__<label>__ADJ 
+da
+da__<label>__AUX 
+www
+www__<label>__PROPN 
+e comfortabil
+e__<label>__AUX comfortabil__<label>__ADJ 
+www
+www__<label>__PROPN 
+cum
+cum__<label>__ADV 
+îhî
+îhî__<label>__ADV 
+www
+www__<label>__PROPN 
+pardon
+pardon__<label>__ADJ 
+nu astăzi cred că a prins peştele
+nu__<label>__PART astăzi__<label>__ADV cred__<label>__AUX că__<label>__SCONJ a__<label>__AUX prins__<label>__VERB peştele__<label>__NOUN 
+dar ce e
+dar__<label>__CCONJ ce__<label>__PRON e__<label>__AUX 
+cu balonul
+cu__<label>__ADP balonul__<label>__NOUN 
+păi ce să povestesc de aici
+păi__<label>__CCONJ ce__<label>__PRON să__<label>__PART povestesc__<label>__AUX de__<label>__ADP aici__<label>__ADV 
+da aşa'i bine
+da__<label>__ADV aşa'i__<label>__PROPN bine__<label>__ADV 
+ce faci la balonul ăla
+ce__<label>__PRON faci__<label>__AUX la__<label>__ADP balonul__<label>__NOUN ăla__<label>__DET 
+dacă tot ştii să repari repară şi tu televizorul din hol
+dacă__<label>__SCONJ tot__<label>__ADV ştii__<label>__AUX să__<label>__PART repari__<label>__AUX repară__<label>__ADJ şi__<label>__CCONJ tu__<label>__PRON televizorul__<label>__NOUN din__<label>__ADP hol__<label>__NOUN 
+cum să cumperi apă pentru acolo
+cum__<label>__ADV să__<label>__PART cumperi__<label>__AUX apă__<label>__NOUN pentru__<label>__ADP acolo__<label>__ADV 
+ce frumoasă e asta
+ce__<label>__PRON frumoasă__<label>__ADJ e__<label>__AUX asta__<label>__DET 
+îţi ronţăi un degeţel
+îţi__<label>__VERB ronţăi__<label>__NOUN un__<label>__DET degeţel__<label>__NOUN 
+nu+ţi place nu
+nu+ţi__<label>__NOUN place__<label>__AUX nu__<label>__PART 
+cum să o plimbi
+cum__<label>__ADV să__<label>__PART o__<label>__PRON plimbi__<label>__AUX 
+jos
+jos__<label>__ADV 
+hai mă mami mă
+hai__<label>__NOUN mă__<label>__PRON mami__<label>__AUX mă__<label>__PRON 
+eu nu ştiu să povestesc
+eu__<label>__PRON nu__<label>__PART ştiu__<label>__AUX să__<label>__PART povestesc__<label>__AUX 
+Bianca dar tu ai un pulovăr frumos de tot galben
+Bianca__<label>__NOUN dar__<label>__CCONJ tu__<label>__PRON ai__<label>__AUX un__<label>__DET pulovăr__<label>__NOUN frumos__<label>__ADJ de__<label>__ADP tot__<label>__ADV galben__<label>__NOUN 
+eu aici
+eu__<label>__PRON aici__<label>__ADV 
+ce face
+ce__<label>__PRON face__<label>__AUX 
+aşa
+aşa__<label>__DET 
+un puţin cum zici tu
+un__<label>__DET puţin__<label>__NOUN cum__<label>__ADV zici__<label>__AUX tu__<label>__PRON 
+a fost odată ca niciodată o rîndunică mai mică
+a__<label>__AUX fost__<label>__VERB odată__<label>__ADV ca__<label>__ADV niciodată__<label>__ADV o__<label>__DET rîndunică__<label>__NOUN mai__<label>__ADV mică__<label>__ADJ 
+he
+he__<label>__NOUN 
+aa mulţumesc
+aa__<label>__DET mulţumesc__<label>__AUX 
+aşa te+ai uitat
+aşa__<label>__DET te+ai__<label>__PROPN uitat__<label>__VERB 
+unde'i moş Crăciun
+unde'i__<label>__PRON moş__<label>__VERB Crăciun__<label>__PROPN 
+hai pune+o acum să se culcă şi n+o mai trezeşti da
+hai__<label>__NOUN pune+o__<label>__PROPN acum__<label>__ADV să__<label>__PART se__<label>__PRON culcă__<label>__AUX şi__<label>__CCONJ n+o__<label>__NOUN mai__<label>__ADV trezeşti__<label>__NOUN da__<label>__ADV 
+ce scoţi
+ce__<label>__PRON scoţi__<label>__INTJ 
+ba nu spunea vai ce bluză frumoasă
+ba__<label>__ADV nu__<label>__PART spunea__<label>__AUX vai__<label>__INTJ ce__<label>__PRON bluză__<label>__NOUN frumoasă__<label>__ADJ 
+nici la Deva n'ai fost cu trenul
+nici__<label>__ADV la__<label>__ADP Deva__<label>__PROPN n'ai__<label>__NOUN fost__<label>__AUX cu__<label>__ADP trenul__<label>__NOUN 
+mai e supărat pe tine
+mai__<label>__ADV e__<label>__AUX supărat__<label>__VERB pe__<label>__ADP tine__<label>__PRON 
+aşa bravo
+aşa__<label>__DET bravo__<label>__INTJ 
+Mickey Mouse nu numai nenea doctorul
+Mickey__<label>__PROPN Mouse__<label>__PROPN nu__<label>__PART numai__<label>__ADV nenea__<label>__AUX doctorul__<label>__NOUN 
+ce face cu ele
+ce__<label>__PRON face__<label>__AUX cu__<label>__ADP ele__<label>__PRON 
+să nu uiţi să strîngi jucăriile înainte să scoţi altele
+să__<label>__PART nu__<label>__PART uiţi__<label>__ADV să__<label>__PART strîngi__<label>__AUX jucăriile__<label>__NOUN înainte__<label>__ADV să__<label>__PART scoţi__<label>__AUX altele__<label>__PRON 
+şi Minnie a pierdut bluziţa
+şi__<label>__X Minnie__<label>__PROPN a__<label>__AUX pierdut__<label>__VERB bluziţa__<label>__NOUN 
+ai idee
+ai__<label>__AUX idee__<label>__NOUN 
+aşa foarte bine
+aşa__<label>__DET foarte__<label>__ADV bine__<label>__ADV 
+n'ai mers cu maşina
+n'ai__<label>__NOUN mers__<label>__VERB cu__<label>__ADP maşina__<label>__NOUN 
+eu să mănînc
+eu__<label>__PRON să__<label>__PART mănînc__<label>__AUX 
+dar poţi
+dar__<label>__CCONJ poţi__<label>__ADV 
+nu+mi spui şi mie
+nu+mi__<label>__ADJ spui__<label>__ADJ şi__<label>__CCONJ mie__<label>__PRON 
+vai ce bluză frumoasă
+vai__<label>__INTJ ce__<label>__PRON bluză__<label>__NOUN frumoasă__<label>__ADJ 
+dacă mai sînt supărat
+dacă__<label>__SCONJ mai__<label>__ADV sînt__<label>__NOUN supărat__<label>__ADJ 
+un maieuţ
+un__<label>__DET maieuţ__<label>__NOUN 
+trei iezi
+trei__<label>__NUM iezi__<label>__NOUN 
+a căzut cartea
+a__<label>__AUX căzut__<label>__VERB cartea__<label>__NOUN 
+da
+da__<label>__AUX 
+ia povesteşte
+ia__<label>__AUX povesteşte__<label>__NOUN 
+cu ceai
+cu__<label>__ADP ceai__<label>__NOUN 
+stau
+stau__<label>__VERB 
+îîîî
+îîîî__<label>__VERB 
+la măsuţă uite'acolo
+la__<label>__ADP măsuţă__<label>__NOUN uite'acolo__<label>__NUM 
+ia spune+mi că mi+am adus aminte
+ia__<label>__AUX spune+mi__<label>__NOUN că__<label>__SCONJ mi+am__<label>__AUX adus__<label>__NOUN aminte__<label>__ADV 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+cu ce faci tu duş
+cu__<label>__ADP ce__<label>__DET faci__<label>__AUX tu__<label>__PRON duş__<label>__AUX 
+n'ai fost cuminte şi acuma eşti frumoasă
+n'ai__<label>__NOUN fost__<label>__AUX cuminte__<label>__ADJ şi__<label>__CCONJ acuma__<label>__ADV eşti__<label>__NOUN frumoasă__<label>__ADJ 
+hii uite capra
+hii__<label>__NOUN uite__<label>__VERB capra__<label>__NOUN 
+Bianca
+Bianca__<label>__NOUN 
+şi se gîndea acuma Minnie
+şi__<label>__CCONJ se__<label>__PRON gîndea__<label>__AUX acuma__<label>__ADV Minnie__<label>__PROPN 
+asta'i capra
+asta'i__<label>__NOUN capra__<label>__NOUN 
+trebuie să le mestec sau să le sug
+trebuie__<label>__VERB să__<label>__PART le__<label>__PRON mestec__<label>__AUX sau__<label>__CCONJ să__<label>__PART le__<label>__PRON sug__<label>__AUX 
+cu dinţii
+cu__<label>__ADP dinţii__<label>__NOUN 
+plînge Larisa
+plînge__<label>__AUX Larisa__<label>__PROPN 
+cozonac de la Babi
+cozonac__<label>__ADV de__<label>__ADP la__<label>__ADP Babi__<label>__PROPN 
+www
+www__<label>__PROPN 
+să te văd că mănînci frumos hai
+să__<label>__PART te__<label>__PRON văd__<label>__AUX că__<label>__SCONJ mănînci__<label>__NUM frumos__<label>__ADV hai__<label>__NOUN 
+cum cînta capra
+cum__<label>__ADV cînta__<label>__AUX capra__<label>__NOUN 
+vrei să desfacem astea
+vrei__<label>__AUX să__<label>__PART desfacem__<label>__VERB astea__<label>__DET 
+nu te+a văzut niciodată că mănînci frumos
+nu__<label>__PART te+a__<label>__PRON văzut__<label>__VERB niciodată__<label>__ADV că__<label>__SCONJ mănînci__<label>__NUM frumos__<label>__ADV 
+şi mai mănînci
+şi__<label>__CCONJ mai__<label>__ADV mănînci__<label>__NUM 
+sînt mai buni
+sînt__<label>__PROPN mai__<label>__ADV buni__<label>__ADJ 
+dar unde
+dar__<label>__CCONJ unde__<label>__ADV 
+e bun
+e__<label>__AUX bun__<label>__ADJ 
+măr
+măr__<label>__NOUN 
+ce facem noi la Gabi acolo
+ce__<label>__PRON facem__<label>__VERB noi__<label>__PRON la__<label>__ADP Gabi__<label>__PROPN acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+astea sînt doar aşa mami de
+astea__<label>__PRON sînt__<label>__PROPN doar__<label>__ADV aşa__<label>__PROPN mami__<label>__VERB de__<label>__ADP 
+cine e Gabi
+cine__<label>__PRON e__<label>__AUX Gabi__<label>__PROPN 
+www
+www__<label>__PROPN 
+păi nu merge pe covor
+păi__<label>__CCONJ nu__<label>__PART merge__<label>__AUX pe__<label>__ADP covor__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+maşina două sute
+maşina__<label>__NOUN două__<label>__NUM sute__<label>__NUM 
+ia uite ce frumoase sînt
+ia__<label>__AUX uite__<label>__ADJ ce__<label>__PRON frumoase__<label>__ADJ sînt__<label>__PROPN 
+ai nimerit la ton
+ai__<label>__AUX nimerit__<label>__VERB la__<label>__ADP ton__<label>__NOUN 
+ce'i asta
+ce'i__<label>__NUM asta__<label>__PRON 
+doamna Leviţchi
+doamna__<label>__NOUN Leviţchi__<label>__PROPN 
+apă dacă vrei
+apă__<label>__NOUN dacă__<label>__SCONJ vrei__<label>__AUX 
+păi vezi să nu cazi
+păi__<label>__CCONJ vezi__<label>__AUX să__<label>__PART nu__<label>__PART cazi__<label>__AUX 
+ce faci acolo
+ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+a băgat degetul pe tortiţă
+a__<label>__AUX băgat__<label>__VERB degetul__<label>__NOUN pe__<label>__ADP tortiţă__<label>__NOUN 
+are burtă perna aia
+are__<label>__AUX burtă__<label>__ADJ perna__<label>__NOUN aia__<label>__DET 
+vezi care are mult albastru
+vezi__<label>__AUX care__<label>__PRON are__<label>__AUX mult__<label>__DET albastru__<label>__NOUN 
+are basculantă
+are__<label>__AUX basculantă__<label>__ADJ 
+unde
+unde__<label>__ADV 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+hai
+hai__<label>__NOUN 
+pe care mamă
+pe__<label>__ADP care__<label>__PRON mamă__<label>__NOUN 
+aşa zice Antonio
+aşa__<label>__NOUN zice__<label>__ADJ Antonio__<label>__NOUN 
+nu vrei clătite
+nu__<label>__PART vrei__<label>__AUX clătite__<label>__ADJ 
+încotro merge
+încotro__<label>__ADV merge__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+cu dropia
+cu__<label>__ADP dropia__<label>__NOUN 
+şi unde'i ţine
+şi__<label>__CCONJ unde'i__<label>__ ţine__<label>__VERB 
+tineti
+tineti__<label>__NOUN 
+e bun
+e__<label>__AUX bun__<label>__ADJ 
+tadan
+tadan__<label>__NOUN 
+că nu'nţeleg nimic
+că__<label>__SCONJ nu'nţeleg__<label>__PROPN nimic__<label>__PRON 
+acuma ce limbă vorbeşti
+acuma__<label>__ADV ce__<label>__DET limbă__<label>__NOUN vorbeşti__<label>__NOUN 
+aşa se ia
+aşa__<label>__DET se__<label>__PRON ia__<label>__AUX 
+ăsta care'i spart nu
+ăsta__<label>__PRON care'i__<label>__NOUN spart__<label>__NOUN nu__<label>__PART 
+www
+www__<label>__PROPN 
+pernuţa asta ce culoare e
+pernuţa__<label>__NOUN asta__<label>__DET ce__<label>__DET culoare__<label>__NOUN e__<label>__AUX 
+eşti o lustră mare
+eşti__<label>__NOUN o__<label>__DET lustră__<label>__NOUN mare__<label>__ADJ 
+e mai bună rece
+e__<label>__AUX mai__<label>__ADV bună__<label>__ADJ rece__<label>__NOUN 
+şi papi mai tîrziu
+şi__<label>__X papi__<label>__NOUN mai__<label>__ADV tîrziu__<label>__ADV 
+să nu te doară burtica
+să__<label>__PART nu__<label>__PART te__<label>__PRON doară__<label>__AUX burtica__<label>__NOUN 
+ww
+ww__<label>__NOUN 
+www
+www__<label>__PROPN 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+www
+www__<label>__PROPN 
+cum face trenul
+cum__<label>__ADV face__<label>__AUX trenul__<label>__NOUN 
+nu+mi plac astea
+nu+mi__<label>__ADJ plac__<label>__AUX astea__<label>__PRON 
+ai
+ai__<label>__DET 
+e fazan
+e__<label>__AUX fazan__<label>__ADJ 
+de unde le+ai cumpărat din perne
+de__<label>__ADP unde__<label>__ADV le+ai__<label>__AUX cumpărat__<label>__VERB din__<label>__ADP perne__<label>__NOUN 
+ei
+ei__<label>__PRON 
+o ce
+o__<label>__DET ce__<label>__PRON 
+asta
+asta__<label>__PRON 
+mie+mi stă mai bine
+mie+mi__<label>__NOUN stă__<label>__AUX mai__<label>__ADV bine__<label>__ADV 
+dac'a fost la injecţie e bolnav nu
+dac'a__<label>__NOUN fost__<label>__VERB la__<label>__ADP injecţie__<label>__NOUN e__<label>__AUX bolnav__<label>__ADJ nu__<label>__PART 
+de ce
+de__<label>__ADP ce__<label>__PRON 
+hai
+hai__<label>__NOUN 
+sînt pentru Tudor
+sînt__<label>__PROPN pentru__<label>__ADP Tudor__<label>__PROPN 
+altele nu mai ai da
+altele__<label>__PRON nu__<label>__PART mai__<label>__ADV ai__<label>__AUX da__<label>__VERB 
+aa dacă vine ursul eu nu merg la Deva
+aa__<label>__INTJ dacă__<label>__SCONJ vine__<label>__AUX ursul__<label>__NOUN eu__<label>__PRON nu__<label>__PART merg__<label>__AUX la__<label>__ADP Deva__<label>__NOUN 
+păi vezi dacă vorbeşti cu
+păi__<label>__CCONJ vezi__<label>__AUX dacă__<label>__SCONJ vorbeşti__<label>__NOUN cu__<label>__ADP 
+şi cum ţi+au spus
+şi__<label>__CCONJ cum__<label>__ADV ţi+au__<label>__PRON spus__<label>__VERB 
+era tîrziu
+era__<label>__AUX tîrziu__<label>__ADV 
+poate nici acolo
+poate__<label>__ADV nici__<label>__ADV acolo__<label>__ADV 
+cînd
+cînd__<label>__NOUN 
+are un pătuţ acolo
+are__<label>__AUX un__<label>__DET pătuţ__<label>__NOUN acolo__<label>__ADV 
+cu tine cînd
+cu__<label>__ADP tine__<label>__PRON cînd__<label>__ADJ 
+nu
+nu__<label>__PART 
+şi ce'ai mai făcut cu Babi în parc
+şi__<label>__CCONJ ce'ai__<label>__PROPN mai__<label>__ADV făcut__<label>__VERB cu__<label>__ADP Babi__<label>__PROPN în__<label>__ADP parc__<label>__NOUN 
+lasă+l în pace că el e obosit e de pe drum
+lasă+l__<label>__PROPN în__<label>__ADP pace__<label>__NOUN că__<label>__SCONJ el__<label>__PRON e__<label>__AUX obosit__<label>__VERB e__<label>__AUX de__<label>__ADP pe__<label>__ADP drum__<label>__NOUN 
+hai te rog du+te
+hai__<label>__NOUN te__<label>__PRON rog__<label>__AUX du+te__<label>__CCONJ 
+şi ăla e un bolovan
+şi__<label>__CCONJ ăla__<label>__PRON e__<label>__AUX un__<label>__DET bolovan__<label>__NOUN 
+dar azi am ajuns cel mai tîrziu
+dar__<label>__CCONJ azi__<label>__ADV am__<label>__AUX ajuns__<label>__VERB cel__<label>__DET mai__<label>__ADV tîrziu__<label>__ADV 
+nu'i nimeni acasă
+nu'i__<label>__NOUN nimeni__<label>__PRON acasă__<label>__ADV 
+dă+i drumul nu mai trage cu
+dă+i__<label>__NOUN drumul__<label>__NOUN nu__<label>__PART mai__<label>__ADV trage__<label>__AUX cu__<label>__ADP 
+hai hai hai
+hai__<label>__NOUN hai__<label>__NOUN hai__<label>__NOUN 
+da
+da__<label>__AUX 
+hai să ne uitam
+hai__<label>__NOUN să__<label>__PART ne__<label>__PRON uitam__<label>__AUX 
+care Dani
+care__<label>__PRON Dani__<label>__AUX 
+mulţumesc
+mulţumesc__<label>__AUX 
+nu
+nu__<label>__PART 
+a plîns
+a__<label>__DET plîns__<label>__NOUN 
+se duc la alt copil care e cuminte
+se__<label>__PRON duc__<label>__AUX la__<label>__ADP alt__<label>__DET copil__<label>__NOUN care__<label>__PRON e__<label>__AUX cuminte__<label>__ADJ 
+zi e mătuşa mea sau mătuşa ta
+zi__<label>__NOUN e__<label>__AUX mătuşa__<label>__ADV mea__<label>__DET sau__<label>__CCONJ mătuşa__<label>__ADV ta__<label>__DET 
+nu e de la urs e de la Larisa
+nu__<label>__PART e__<label>__AUX de__<label>__ADP la__<label>__ADP urs__<label>__NOUN e__<label>__AUX de__<label>__ADP la__<label>__ADP Larisa__<label>__PROPN 
+uite că şi Larisa şi cu tati sînt curioşi
+uite__<label>__AUX că__<label>__SCONJ şi__<label>__CCONJ Larisa__<label>__PROPN şi__<label>__CCONJ cu__<label>__ADP tati__<label>__PROPN sînt__<label>__PROPN curioşi__<label>__ADJ 
+nu trebuie acolo
+nu__<label>__PART trebuie__<label>__VERB acolo__<label>__ADV 
+şi adu+mi un caiet pe care să scriem
+şi__<label>__CCONJ adu+mi__<label>__ADV un__<label>__DET caiet__<label>__NOUN pe__<label>__ADP care__<label>__PRON să__<label>__PART scriem__<label>__AUX 
+hai
+hai__<label>__NOUN 
+a fost bun gălbenuşul
+a__<label>__AUX fost__<label>__AUX bun__<label>__ADJ gălbenuşul__<label>__NOUN 
+du+te tu acolo
+du+te__<label>__PROPN tu__<label>__PRON acolo__<label>__ADV 
+n'ai spus că e prietenul nostru
+n'ai__<label>__PROPN spus__<label>__VERB că__<label>__SCONJ e__<label>__AUX prietenul__<label>__NOUN nostru__<label>__DET 
+erai bucuros dimineaţă cînd nu te+am mai dus la grădiniţă
+erai__<label>__AUX bucuros__<label>__ADJ dimineaţă__<label>__AUX cînd__<label>__ADJ nu__<label>__PART te+am__<label>__AUX mai__<label>__ADV dus__<label>__VERB la__<label>__ADP grădiniţă__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+sau stătea degeaba aşa
+sau__<label>__CCONJ stătea__<label>__AUX degeaba__<label>__NOUN aşa__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+ieri ce'a făcut
+ieri__<label>__ADV ce'a__<label>__DET făcut__<label>__VERB 
+îî
+îî__<label>__NOUN 
+cine făcea aşa
+cine__<label>__PRON făcea__<label>__AUX aşa__<label>__DET 
+ce'ai făcut
+ce'ai__<label>__NUM făcut__<label>__VERB 
+a mîncat+o de tot
+a__<label>__DET mîncat+o__<label>__PROPN de__<label>__ADP tot__<label>__PRON 
+ce bei cu biberonul
+ce__<label>__PRON bei__<label>__AUX cu__<label>__ADP biberonul__<label>__NOUN 
+îl mănînc eu
+îl__<label>__PRON mănînc__<label>__VERB eu__<label>__PRON 
+o mănînc eu sau ţi+o dau ţie
+o__<label>__DET mănînc__<label>__NOUN eu__<label>__PRON sau__<label>__CCONJ ţi+o__<label>__NOUN dau__<label>__AUX ţie__<label>__NOUN 
+nu ştiu
+nu__<label>__PART ştiu__<label>__AUX 
+www
+www__<label>__PROPN 
+nu mai arunca aşa
+nu__<label>__PART mai__<label>__ADV arunca__<label>__AUX aşa__<label>__NOUN 
+cum se numeşte
+cum__<label>__ADV se__<label>__PRON numeşte__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+ţi+ai muşcat limba
+ţi+ai__<label>__PROPN muşcat__<label>__VERB limba__<label>__NOUN 
+eşti în grevă
+eşti__<label>__NOUN în__<label>__ADP grevă__<label>__NOUN 
+ce faci
+ce__<label>__PRON faci__<label>__AUX 
+ce
+ce__<label>__PRON 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+n'ai obosit şi tu
+n'ai__<label>__NOUN obosit__<label>__VERB şi__<label>__CCONJ tu__<label>__PRON 
+aşa se dă
+aşa__<label>__DET se__<label>__PRON dă__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+hai să+i dăm şi la mingea asta
+hai__<label>__NOUN să+i__<label>__PROPN dăm__<label>__VERB şi__<label>__CCONJ la__<label>__ADP mingea__<label>__NOUN asta__<label>__DET 
+xxxx aruncă prosopul şi eu ţi+l prind
+xxxx__<label>__ADJ aruncă__<label>__VERB prosopul__<label>__NOUN şi__<label>__CCONJ eu__<label>__PRON ţi+l__<label>__ADJ prind__<label>__AUX 
+ce e cometa
+ce__<label>__PRON e__<label>__AUX cometa__<label>__NOUN 
+e bună
+e__<label>__AUX bună__<label>__ADJ 
+de ce
+de__<label>__ADP ce__<label>__PRON 
+îţi place
+îţi__<label>__AUX place__<label>__AUX 
+şi cu gogonele şi cu gogoşari
+şi__<label>__CCONJ cu__<label>__ADP gogonele__<label>__NOUN şi__<label>__CCONJ cu__<label>__ADP gogoşari__<label>__NOUN 
+uite aşa cum e tanti Petruţa
+uite__<label>__VERB aşa__<label>__DET cum__<label>__ADV e__<label>__AUX tanti__<label>__NOUN Petruţa__<label>__PROPN 
+şi m+ai ridicat gata
+şi__<label>__CCONJ m+ai__<label>__NOUN ridicat__<label>__ADJ gata__<label>__ADV 
+nu ştiu dacă mai e aici
+nu__<label>__PART ştiu__<label>__AUX dacă__<label>__SCONJ mai__<label>__ADV e__<label>__AUX aici__<label>__ADV 
+nu pot să dau ca lumea
+nu__<label>__PART pot__<label>__AUX să__<label>__PART dau__<label>__AUX ca__<label>__ADV lumea__<label>__NOUN 
+ai cojiţe în năsuc
+ai__<label>__AUX cojiţe__<label>__ADV în__<label>__ADP năsuc__<label>__ADJ 
+mai mănînci
+mai__<label>__ADV mănînci__<label>__NUM 
+ce faci acolo
+ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+şi moş Crăciun cînd vine
+şi__<label>__CCONJ moş__<label>__AUX Crăciun__<label>__PROPN cînd__<label>__NOUN vine__<label>__AUX 
+www
+www__<label>__PROPN 
+cine l+a spart
+cine__<label>__PRON l+a__<label>__VERB spart__<label>__ADJ 
+www
+www__<label>__PROPN 
+pot să stau pe pat
+pot__<label>__AUX să__<label>__PART stau__<label>__VERB pe__<label>__ADP pat__<label>__NOUN 
+încet
+încet__<label>__ADV 
+www
+www__<label>__PROPN 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+da
+da__<label>__AUX 
+de polo
+de__<label>__ADP polo__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+le+a zărit
+le+a__<label>__NOUN zărit__<label>__AUX 
+de ce minţi
+de__<label>__ADP ce__<label>__DET minţi__<label>__NOUN 
+şi ce e cu albastru sînt toate apele
+şi__<label>__CCONJ ce__<label>__PRON e__<label>__AUX cu__<label>__ADP albastru__<label>__NOUN sînt__<label>__PROPN toate__<label>__DET apele__<label>__NOUN 
+cum erau mari sau mici
+cum__<label>__ADV erau__<label>__AUX mari__<label>__ADJ sau__<label>__CCONJ mici__<label>__ADJ 
+tu nu vrei un aragaz
+tu__<label>__PRON nu__<label>__PART vrei__<label>__AUX un__<label>__DET aragaz__<label>__NOUN 
+eşti un copil rău
+eşti__<label>__NOUN un__<label>__DET copil__<label>__NOUN rău__<label>__ADV 
+www
+www__<label>__PROPN 
+uite eu spun o literă da
+uite__<label>__AUX eu__<label>__PRON spun__<label>__AUX o__<label>__DET literă__<label>__NOUN da__<label>__ADV 
+ia mai găseşte nişte munţi
+ia__<label>__AUX mai__<label>__ADV găseşte__<label>__AUX nişte__<label>__ADJ munţi__<label>__ADJ 
+www
+www__<label>__PROPN 
+da
+da__<label>__AUX 
+mult
+mult__<label>__ADV 
+www
+www__<label>__PROPN 
+crezi că dacă+l prinzi în brad nu se rupe crenguţa
+crezi__<label>__AUX că__<label>__SCONJ dacă+l__<label>__PROPN prinzi__<label>__ADJ în__<label>__ADP brad__<label>__NOUN nu__<label>__PART se__<label>__PRON rupe__<label>__AUX crenguţa__<label>__NOUN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+stai că nu încape
+stai__<label>__AUX că__<label>__SCONJ nu__<label>__PART încape__<label>__AUX 
+www
+www__<label>__PROPN 
+mai stau
+mai__<label>__ADV stau__<label>__VERB 
+o stea logostea
+o__<label>__DET stea__<label>__NOUN logostea__<label>__AUX 
+www
+www__<label>__PROPN 
+un cot
+un__<label>__DET cot__<label>__NOUN 
+de ce te+ai speriat tu
+de__<label>__ADP ce__<label>__PRON te+ai__<label>__NOUN speriat__<label>__ADJ tu__<label>__PRON 
+www
+www__<label>__PROPN 
+acolo
+acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+care jucării sînt mici
+care__<label>__PRON jucării__<label>__NOUN sînt__<label>__PROPN mici__<label>__ADJ 
+nu vreau
+nu__<label>__PART vreau__<label>__AUX 
+www
+www__<label>__PROPN 
+cred că aterizezi la Polul Sud
+cred__<label>__AUX că__<label>__SCONJ aterizezi__<label>__AUX la__<label>__ADP Polul__<label>__NOUN Sud__<label>__NOUN 
+şi asta ce e
+şi__<label>__CCONJ asta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+toată aia e locomotivă
+toată__<label>__DET aia__<label>__PRON e__<label>__AUX locomotivă__<label>__ADJ 
+ce faci acolo
+ce__<label>__DET faci__<label>__AUX acolo__<label>__ADV 
+www
+www__<label>__PROPN 
+iarna
+iarna__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+www
+www__<label>__PROPN 
+cîţi căţei aveţi voi acum
+cîţi__<label>__VERB căţei__<label>__ADJ aveţi__<label>__ADJ voi__<label>__AUX acum__<label>__ADV 
+pe'aia care îţi place ţie mai mult pe aia i+o dai lui tati
+pe'aia__<label>__NOUN care__<label>__PRON îţi__<label>__AUX place__<label>__AUX ţie__<label>__NOUN mai__<label>__ADV mult__<label>__ADV pe__<label>__ADP aia__<label>__PRON i+o__<label>__ADJ dai__<label>__NOUN lui__<label>__DET tati__<label>__PROPN 
+păi e puturos mic
+păi__<label>__NOUN e__<label>__AUX puturos__<label>__ADJ mic__<label>__ADJ 
+dar unde e
+dar__<label>__CCONJ unde__<label>__ADV e__<label>__AUX 
+www
+www__<label>__PROPN 
+a fost soare
+a__<label>__AUX fost__<label>__AUX soare__<label>__NOUN 
+Bianca
+Bianca__<label>__NOUN 
+spune+mi ce 'ai mai făcut la ţară
+spune+mi__<label>__NOUN ce__<label>__PRON '__<label>__PUNCT ai__<label>__AUX mai__<label>__ADV făcut__<label>__VERB la__<label>__ADP ţară__<label>__NOUN 
+sînt iepuraşi de casă
+sînt__<label>__PROPN iepuraşi__<label>__ADJ de__<label>__ADP casă__<label>__NOUN 
+că astăzi ţi+a mai adus şi Ciprian doi iepuraşi
+că__<label>__SCONJ astăzi__<label>__ADV ţi+a__<label>__PROPN mai__<label>__ADV adus__<label>__VERB şi__<label>__CCONJ Ciprian__<label>__PROPN doi__<label>__NUM iepuraşi__<label>__NOUN 
+te+ai udat
+te+ai__<label>__ADJ udat__<label>__VERB 
+haide
+haide__<label>__AUX 
+ai udat ce
+ai__<label>__AUX udat__<label>__VERB ce__<label>__PRON 
+vezi dacă dormi prea mult
+vezi__<label>__AUX dacă__<label>__SCONJ dormi__<label>__VERB prea__<label>__ADV mult__<label>__ADV 
+şi s+o duci la spital
+şi__<label>__CCONJ s+o__<label>__NUM duci__<label>__AUX la__<label>__ADP spital__<label>__NOUN 
+şi brăduţ da
+şi__<label>__CCONJ brăduţ__<label>__ADJ da__<label>__ADV 
+te rog
+te__<label>__PRON rog__<label>__AUX 
+unde'ai pus+o
+unde'ai__<label>__ADJ pus+o__<label>__NOUN 
+şi cînd cineva vorbeşte la telefon trebuie să laşi persoana respectivă în pace
+şi__<label>__CCONJ cînd__<label>__NOUN cineva__<label>__PRON vorbeşte__<label>__AUX la__<label>__ADP telefon__<label>__NOUN trebuie__<label>__VERB să__<label>__PART laşi__<label>__AUX persoana__<label>__NOUN respectivă__<label>__ADJ în__<label>__ADP pace__<label>__NOUN 
+care strigă lîngă lac uac uac uac
+care__<label>__PRON strigă__<label>__VERB lîngă__<label>__ADJ lac__<label>__ADJ uac__<label>__NOUN uac__<label>__PROPN uac__<label>__NOUN 
+gata
+gata__<label>__ADV 
+te+a întrebat Larisa ceva
+te+a__<label>__PRON întrebat__<label>__VERB Larisa__<label>__ADJ ceva__<label>__PRON 
+astăzi ştii cîţi sînt acolo la ţară
+astăzi__<label>__ADV ştii__<label>__NOUN cîţi__<label>__VERB sînt__<label>__PROPN acolo__<label>__ADV la__<label>__ADP ţară__<label>__NOUN 
+tu m+ai folosit inima şi xxxx
+tu__<label>__PRON m+ai__<label>__AUX folosit__<label>__VERB inima__<label>__NOUN şi__<label>__CCONJ xxxx__<label>__ADJ 
+uite acolo unde+ţi arată Larisa
+uite__<label>__VERB acolo__<label>__ADV unde+ţi__<label>__PROPN arată__<label>__VERB Larisa__<label>__PROPN 
+da
+da__<label>__AUX 
+ia vino un pic
+ia__<label>__AUX vino__<label>__NOUN un__<label>__DET pic__<label>__NOUN 
+ei bine
+ei__<label>__DET bine__<label>__ADV 
+intri frumos
+intri__<label>__NOUN frumos__<label>__ADV 
+ba da
+ba__<label>__ADV da__<label>__ADV 
+uite aici marea
+uite__<label>__VERB aici__<label>__ADV marea__<label>__ADJ 
+bine alea sînt ale tale
+bine__<label>__ADV alea__<label>__DET sînt__<label>__NOUN ale__<label>__DET tale__<label>__PRON 
+spune ai mai stat pe grămada de nisip
+spune__<label>__AUX ai__<label>__DET mai__<label>__ADV stat__<label>__VERB pe__<label>__ADP grămada__<label>__NOUN de__<label>__ADP nisip__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+ce'ai făcut tu
+ce'ai__<label>__NUM făcut__<label>__VERB tu__<label>__PRON 
+şi zi frumos poezia
+şi__<label>__X zi__<label>__NOUN frumos__<label>__ADV poezia__<label>__NOUN 
+şi o aduci pe cealaltă
+şi__<label>__CCONJ o__<label>__PRON aduci__<label>__NOUN pe__<label>__ADP cealaltă__<label>__DET 
+sănătate
+sănătate__<label>__NOUN 
+ia uite aicea muntele
+ia__<label>__AUX uite__<label>__VERB aicea__<label>__ADV muntele__<label>__NOUN 
+pentru că acolo găinile lor cresc mai mari decît ale noastre
+pentru__<label>__ADP că__<label>__SCONJ acolo__<label>__ADV găinile__<label>__NOUN lor__<label>__DET cresc__<label>__AUX mai__<label>__ADV mari__<label>__ADJ decît__<label>__ADJ ale__<label>__DET noastre__<label>__DET 
+www
+www__<label>__PROPN 
+ei norocel
+ei__<label>__DET norocel__<label>__ADJ 
+numai una
+numai__<label>__ADV una__<label>__PRON 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+şi ăsta ce'o fi
+şi__<label>__CCONJ ăsta__<label>__PRON ce'o__<label>__ADV fi__<label>__AUX 
+că aşa le+am pus şi eu
+că__<label>__SCONJ aşa__<label>__DET le+am__<label>__ADJ pus__<label>__VERB şi__<label>__CCONJ eu__<label>__PRON 
+bravo
+bravo__<label>__INTJ 
+da
+da__<label>__AUX 
+nu cred
+nu__<label>__PART cred__<label>__AUX 
+acolo nu e pus bine
+acolo__<label>__ADV nu__<label>__PART e__<label>__AUX pus__<label>__VERB bine__<label>__ADV 
+www
+www__<label>__PROPN 
+că nu eşti
+că__<label>__SCONJ nu__<label>__PART eşti__<label>__NOUN 
+bravo
+bravo__<label>__INTJ 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+e iepure ăla sau e cîine ce e
+e__<label>__AUX iepure__<label>__NOUN ăla__<label>__DET sau__<label>__CCONJ e__<label>__AUX cîine__<label>__ADJ ce__<label>__PRON e__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+un iepure cred nu
+un__<label>__DET iepure__<label>__NOUN cred__<label>__AUX nu__<label>__PART 
+şi asta
+şi__<label>__CCONJ asta__<label>__PRON 
+în ce le+a adus mîncarea
+în__<label>__ADP ce__<label>__PRON le+a__<label>__AUX adus__<label>__AUX mîncarea__<label>__NOUN 
+şi ăsta ce e
+şi__<label>__CCONJ ăsta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+e mai uşor acolo
+e__<label>__AUX mai__<label>__ADV uşor__<label>__ADJ acolo__<label>__ADV 
+şi asta ce e
+şi__<label>__CCONJ asta__<label>__PRON ce__<label>__PRON e__<label>__AUX 
+mie
+mie__<label>__PRON 
+îhî
+îhî__<label>__ADV 
+aşa face
+aşa__<label>__NOUN face__<label>__AUX 
+să mai şterg
+să__<label>__PART mai__<label>__ADV şterg__<label>__AUX 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+maroneza
+maroneza__<label>__NOUN 
+îhî
+îhî__<label>__ADV 
+aa
+aa__<label>__DET 
+păi i+ai dat voie
+păi__<label>__ADJ i+ai__<label>__PROPN dat__<label>__VERB voie__<label>__NOUN 
+hai mă mamă că te umpli iară pe mîini numai de puf din ăsta
+hai__<label>__NOUN mă__<label>__PRON mamă__<label>__NOUN că__<label>__SCONJ te__<label>__PRON umpli__<label>__VERB iară__<label>__VERB pe__<label>__ADP mîini__<label>__NOUN numai__<label>__ADV de__<label>__ADP puf__<label>__NOUN din__<label>__ADP ăsta__<label>__PRON 
+unde cade
+unde__<label>__ADV cade__<label>__VERB 
+elefantul
+elefantul__<label>__NOUN 
+c'aşa i+au spus părinţii ei
+c'aşa__<label>__PROPN i+au__<label>__PROPN spus__<label>__VERB părinţii__<label>__NOUN ei__<label>__DET 
+ce înseamnă în picinuţă
+ce__<label>__PRON înseamnă__<label>__VERB în__<label>__ADP picinuţă__<label>__NOUN 
+Bianca mai ai iepuraşi
+Bianca__<label>__NOUN mai__<label>__ADV ai__<label>__DET iepuraşi__<label>__NOUN 
+ia zi ştiu eu
+ia__<label>__AUX zi__<label>__NOUN ştiu__<label>__AUX eu__<label>__PRON 
+nu plîng
+nu__<label>__PART plîng__<label>__VERB 
+şi aicea
+şi__<label>__CCONJ aicea__<label>__ADV 
+se plimbă cu trenuleţul
+se__<label>__PRON plimbă__<label>__VERB cu__<label>__ADP trenuleţul__<label>__NOUN 
+mersul pe jos e cel mai sănătos
+mersul__<label>__NOUN pe__<label>__ADP jos__<label>__ADV e__<label>__AUX cel__<label>__DET mai__<label>__ADV sănătos__<label>__ADJ 
+mai ai iepuraşi la ţară
+mai__<label>__ADV ai__<label>__DET iepuraşi__<label>__NOUN la__<label>__ADP ţară__<label>__NOUN 
+că nu ştii
+că__<label>__SCONJ nu__<label>__PART ştii__<label>__NOUN 
+ştii că ţi+am promis că+ţi aduc poze
+ştii__<label>__NOUN că__<label>__SCONJ ţi+am__<label>__AUX promis__<label>__VERB că+ţi__<label>__ADJ aduc__<label>__AUX poze__<label>__NOUN 
+www
+www__<label>__PROPN 
+Bianca n'ai dormit în pat
+Bianca__<label>__NOUN n'ai__<label>__NOUN dormit__<label>__VERB în__<label>__ADP pat__<label>__NOUN 
+bee
+bee__<label>__NOUN 
+uite una pe cozonac acuma
+uite__<label>__AUX una__<label>__PRON pe__<label>__ADP cozonac__<label>__ADV acuma__<label>__ADV 
+te aude
+te__<label>__PRON aude__<label>__AUX 
+nu
+nu__<label>__PART 
+nu mi+ai spus
+nu__<label>__PART mi+ai__<label>__PROPN spus__<label>__VERB 
+poate le+a schimbat cineva
+poate__<label>__ADV le+a__<label>__ADJ schimbat__<label>__VERB cineva__<label>__PRON 
+e în concediu nenea doctorul
+e__<label>__AUX în__<label>__ADP concediu__<label>__NOUN nenea__<label>__AUX doctorul__<label>__NOUN 
+de pe topogan aicea
+de__<label>__ADP pe__<label>__ADP topogan__<label>__PROPN aicea__<label>__ADV 
+da
+da__<label>__AUX 
+eşti obosită
+eşti__<label>__NOUN obosită__<label>__ADP 
+cu trenul cu autocarul cu maşina cu avionul cu bicicleta
+cu__<label>__ADP trenul__<label>__NOUN cu__<label>__ADP autocarul__<label>__NOUN cu__<label>__ADP maşina__<label>__NOUN cu__<label>__ADP avionul__<label>__NOUN cu__<label>__ADP bicicleta__<label>__NOUN 
+e mic acasă
+e__<label>__AUX mic__<label>__ADJ acasă__<label>__ADV 
+îl vezi pe tatăl lui Andrei în poza asta unde e
+îl__<label>__PRON vezi__<label>__AUX pe__<label>__ADP tatăl__<label>__NOUN lui__<label>__DET Andrei__<label>__PROPN în__<label>__ADP poza__<label>__NOUN asta__<label>__DET unde__<label>__ADV e__<label>__AUX 
+v+a dat tati afară din casă
+v+a__<label>__NOUN dat__<label>__VERB tati__<label>__ADJ afară__<label>__ADV din__<label>__ADP casă__<label>__NOUN 
+să rîzi cu apa'n gură
+să__<label>__PART rîzi__<label>__AUX cu__<label>__ADP apa'n__<label>__NOUN gură__<label>__NOUN 
+Andrei cu Andrei
+Andrei__<label>__PROPN cu__<label>__ADP Andrei__<label>__PROPN 
+""
+"__<label>__PUNCT "__<label>__PUNCT 
+cea mai micuţă
+cea__<label>__DET mai__<label>__ADV micuţă__<label>__NOUN 
+aşa dup'aia în aia roşie
+aşa__<label>__NOUN dup'aia__<label>__AUX în__<label>__ADP aia__<label>__PRON roşie__<label>__NOUN 
+le mai desfaci şi le mai faci o dată
+le__<label>__PRON mai__<label>__ADV desfaci__<label>__AUX şi__<label>__CCONJ le__<label>__PRON mai__<label>__ADV faci__<label>__AUX o__<label>__DET dată__<label>__NOUN 
+după aia albastră
+după__<label>__ADP aia__<label>__PRON albastră__<label>__ADJ 
+aia roşie mami trebuia mai întâi
+aia__<label>__PRON roşie__<label>__NOUN mami__<label>__NOUN trebuia__<label>__AUX mai__<label>__ADV întâi__<label>__ADV 
+da mami frumoase
+da__<label>__ADV mami__<label>__NOUN frumoase__<label>__ADJ 
+aia e
+aia__<label>__PRON e__<label>__AUX 
+roşu
+roşu__<label>__NOUN 
+şi pui în aia galbenă
+şi__<label>__CCONJ pui__<label>__AUX în__<label>__ADP aia__<label>__PRON galbenă__<label>__ADJ 
+""
+"__<label>__PUNCT "__<label>__PUNCT 
+aşa acuma aia verde
+aşa__<label>__AUX acuma__<label>__ADV aia__<label>__DET verde__<label>__ADJ 
+şi cealaltă
+şi__<label>__CCONJ cealaltă__<label>__DET 
+da
+da__<label>__AUX 
+care este cel mai mic
+care__<label>__PRON este__<label>__AUX cel__<label>__DET mai__<label>__ADV mic__<label>__ADJ 
+www
+www__<label>__PROPN 
+www
+www__<label>__PROPN 
+spune Mela culorile albastru
+spune__<label>__AUX Mela__<label>__PROPN culorile__<label>__NOUN albastru__<label>__ADJ 
+da
+da__<label>__AUX 
+haide hai să le mai scoatem o dată
+haide__<label>__NOUN hai__<label>__NOUN să__<label>__PART le__<label>__PRON mai__<label>__ADV scoatem__<label>__VERB o__<label>__DET dată__<label>__NOUN 
+da
+da__<label>__AUX 
+aşa întoarse
+aşa__<label>__NOUN întoarse__<label>__VERB 
+aşa
+aşa__<label>__DET 
+mhmm
+mhmm__<label>__NOUN 
+aşa
+aşa__<label>__DET 
+şi acuma
+şi__<label>__CCONJ acuma__<label>__ADV 
+nu aşa
+nu__<label>__PART aşa__<label>__PRON 
+următorul
+următorul__<label>__ADJ 
+dar adă+mi+le pe toate te rog frumos
+dar__<label>__CCONJ adă+mi+le__<label>__VERB pe__<label>__ADP toate__<label>__PRON te__<label>__PRON rog__<label>__AUX frumos__<label>__ADV 
+că altfel nu te primeşte
+că__<label>__SCONJ altfel__<label>__ADV nu__<label>__PART te__<label>__PRON primeşte__<label>__AUX 
+ia să văd
+ia__<label>__AUX să__<label>__PART văd__<label>__AUX 
+mănînci dormi şi cînd te scoli mami te ia
+mănînci__<label>__NUM dormi__<label>__NOUN şi__<label>__CCONJ cînd__<label>__NOUN te__<label>__PRON scoli__<label>__VERB mami__<label>__VERB te__<label>__PRON ia__<label>__AUX 
+ţi+ai înghiţit limba morocănosule
+ţi+ai__<label>__PROPN înghiţit__<label>__ADV limba__<label>__NOUN morocănosule__<label>__ADJ 
+nu
+nu__<label>__PART 
+crezi că e frumos
+crezi__<label>__AUX că__<label>__SCONJ e__<label>__AUX frumos__<label>__ADJ 
+s+a curăţat
+s+a__<label>__PROPN curăţat__<label>__PROPN 
+ce vrei
+ce__<label>__PRON vrei__<label>__AUX 
+de'acolo erau
+de'acolo__<label>__ADV erau__<label>__AUX 
+nu te doare pe mînă
+nu__<label>__PART te__<label>__PRON doare__<label>__AUX pe__<label>__ADP mînă__<label>__NOUN 
+decît apă+ţi dă să bei atît
+decît__<label>__AUX apă+ţi__<label>__NOUN dă__<label>__AUX să__<label>__PART bei__<label>__AUX atît__<label>__VERB 
+aha
+aha__<label>__NOUN 
+şi noaptea îngheţi
+şi__<label>__CCONJ noaptea__<label>__ADV îngheţi__<label>__ADJ 
+da
+da__<label>__AUX 
+ţi+ai cumpărat căţel
+ţi+ai__<label>__NOUN cumpărat__<label>__VERB căţel__<label>__NOUN 
+două clădiri pun
+două__<label>__NUM clădiri__<label>__NOUN pun__<label>__AUX 
+da da păi da
+da__<label>__ADV da__<label>__ADV păi__<label>__CCONJ da__<label>__ADV 
+dar să ştii că nu'i bine'n armată
+dar__<label>__CCONJ să__<label>__PART ştii__<label>__AUX că__<label>__SCONJ nu'i__<label>__VERB bine'n__<label>__PROPN armată__<label>__VERB 
+cu ce te înveleşti
+cu__<label>__ADP ce__<label>__PRON te__<label>__PRON înveleşti__<label>__AUX 
+treaba ta îţi suceşti gîtuţul şi te doare iar pe'aici
+treaba__<label>__NOUN ta__<label>__DET îţi__<label>__VERB suceşti__<label>__NOUN gîtuţul__<label>__PROPN şi__<label>__CCONJ te__<label>__PRON doare__<label>__AUX iar__<label>__ADV pe'aici__<label>__ADV 
+şi tu te duci la grăniţă atunci
+şi__<label>__CCONJ tu__<label>__PRON te__<label>__PRON duci__<label>__AUX la__<label>__ADP grăniţă__<label>__NOUN atunci__<label>__ADV 
+e cam mototol este
+e__<label>__AUX cam__<label>__ADV mototol__<label>__NOUN este__<label>__AUX 
+te duci şi tu în parc
+te__<label>__PRON duci__<label>__AUX şi__<label>__CCONJ tu__<label>__PRON în__<label>__ADP parc__<label>__NOUN 
+ia să văd şi eu ce'i în poza aia
+ia__<label>__AUX să__<label>__PART văd__<label>__AUX şi__<label>__CCONJ eu__<label>__PRON ce'i__<label>__PROPN în__<label>__ADP poza__<label>__NOUN aia__<label>__DET 
+aa
+aa__<label>__DET 
+în Cişmigiu sau în ior
+în__<label>__ADP Cişmigiu__<label>__PROPN sau__<label>__CCONJ în__<label>__ADP ior__<label>__NOUN 
+nu arunca că nu'i frumos
+nu__<label>__PART arunca__<label>__AUX că__<label>__SCONJ nu'i__<label>__NOUN frumos__<label>__ADJ 
+şi te tai în el
+şi__<label>__CCONJ te__<label>__PRON tai__<label>__AUX în__<label>__ADP el__<label>__PRON 
+unde s+o ţin
+unde__<label>__ADV s+o__<label>__X ţin__<label>__ADJ 
+nu ştii
+nu__<label>__PART ştii__<label>__NOUN 
+păi are loc aici
+păi__<label>__NOUN are__<label>__AUX loc__<label>__NOUN aici__<label>__ADV 
+ei na
+ei__<label>__PRON na__<label>__NOUN 
+dar tu de unde ştii
+dar__<label>__CCONJ tu__<label>__PRON de__<label>__ADP unde__<label>__ADV ştii__<label>__NOUN 
+da
+da__<label>__AUX 
+ia să văd
+ia__<label>__AUX să__<label>__PART văd__<label>__AUX 
+dar Andreea aia mică unde stă
+dar__<label>__CCONJ Andreea__<label>__NOUN aia__<label>__PRON mică__<label>__ADJ unde__<label>__ADV stă__<label>__AUX 
+dă în pat nu în mine
+dă__<label>__AUX în__<label>__ADP pat__<label>__NOUN nu__<label>__PART în__<label>__ADP mine__<label>__PRON 
+cu ce e asta
+cu__<label>__ADP ce__<label>__PRON e__<label>__AUX asta__<label>__DET 
+dar nu se spune aşa mama
+dar__<label>__CCONJ nu__<label>__PART se__<label>__PRON spune__<label>__AUX aşa__<label>__DET mama__<label>__NOUN 
+www
+www__<label>__PROPN 
+ai grijă să nu te loveşti de uşa aia da
+ai__<label>__AUX grijă__<label>__NOUN să__<label>__PART nu__<label>__PART te__<label>__PRON loveşti__<label>__AUX de__<label>__ADP uşa__<label>__NOUN aia__<label>__DET da__<label>__ADV 
+hai
+hai__<label>__NOUN 
+aşa faci tot timpul toată ziua
+aşa__<label>__DET faci__<label>__ADJ tot__<label>__DET timpul__<label>__NOUN toată__<label>__DET ziua__<label>__NOUN 
+bine
+bine__<label>__ADV 
+dar ce eşti bebeluş
+dar__<label>__CCONJ ce__<label>__PRON eşti__<label>__NOUN bebeluş__<label>__ADJ 
+da tu eşti cît ea
+da__<label>__ADV tu__<label>__PRON eşti__<label>__NOUN cît__<label>__AUX ea__<label>__PRON 
+că acolo bagă coppiii
+că__<label>__SCONJ acolo__<label>__ADV bagă__<label>__VERB coppiii__<label>__NOUN 
+a mai fost aşa o emisune
+a__<label>__AUX mai__<label>__ADV fost__<label>__AUX aşa__<label>__DET o__<label>__DET emisune__<label>__AUX 
+hai spune+i şi lui Larisa
+hai__<label>__NOUN spune+i__<label>__ADJ şi__<label>__CCONJ lui__<label>__DET Larisa__<label>__PROPN 
+dar nu ţin
+dar__<label>__CCONJ nu__<label>__PART ţin__<label>__AUX 
+păi cînd te scoli mami vine şi te ia
+păi__<label>__ADV cînd__<label>__ADJ te__<label>__PRON scoli__<label>__VERB mami__<label>__PROPN vine__<label>__AUX şi__<label>__CCONJ te__<label>__PRON ia__<label>__AUX 
+ce vrei
+ce__<label>__PRON vrei__<label>__AUX 
